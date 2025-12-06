@@ -3,8 +3,9 @@ default_job = "tic80"
 # This section defines the command to run after a successful build.
 [jobs.tic80]
 command = [
-    "sh", "-c", "cargo build --release --target=wasm32-unknown-unknown; tic80 --skip --fs . --cmd 'load ronin & import binary target/wasm32-unknown-unknown/release/ronin.wasm & save ronin & run'"
+    "sh", "-c", "cargo build --release --target=wasm32-unknown-unknown; tic80 --skip --fs . --cmd 'new wasm & import binary target/wasm32-unknown-unknown/release/ronin.wasm & run'"
 ]
+on_change_strategy = "kill_then_restart"
 
 # Optional: Configuration for the project watch behavior
 [default.project]

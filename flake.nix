@@ -44,6 +44,7 @@
         pkg-config
         binaryen
         tic80
+        bacon
       ];
 
       RUST_BACKTRACE = "1";

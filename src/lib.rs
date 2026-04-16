@@ -1,24 +1,38 @@
 mod alloc;
 mod tic80;
 
+use std::collections::HashMap;
+
 use itertools::izip;
 use tic80::*;
 
-// static PALETTE_LC: &str = "313432323e42454b4b3a5f3b7c4545675239625055516b43796c647182459e805c998579ac9086a6a296bcb7a500ffff";
-// fn load_palette(palette: &str) {
-//     for i in 0..16 {
-//         let r = u8::from_str_radix(&palette[i * 6..i * 6 + 2], 16).unwrap();
-//         let g = u8::from_str_radix(&palette[i * 6 + 2..i * 6 + 4], 16).unwrap();
-//         let b = u8::from_str_radix(&palette[i * 6 + 4..i * 6 + 6], 16).unwrap();
-//         unsafe {
-//             poke((0x3FC0 + (i * 3) + 0) as i32, r);
-//             poke((0x3FC0 + (i * 3) + 1) as i32, g);
-//             poke((0x3FC0 + (i * 3) + 2) as i32, b);
-//         }
-//     }
-// }
+enum Color {
+    Black = 0,
+    White = 1,
+    Accent = 2,
+    Green = 3,
+    Red = 4,
+}
 
-// TODO this should be a ECS
+static PALETTE_LC: &str = "313432323e42454b4b3a5f3b7c4545675239625055516b43796c647182459e805c998579ac9086a6a296bcb7a500ffff";
+fn load_palette(palette: &str) {
+    let mut map: HashMap<i32, String> = HashMap::new();
+    for i in 0..16 {
+        map.insert(i, "AABBCC".to_string());
+    }
+
+    for i in 0..16 {
+        let r = u8::from_str_radix(&palette[i * 6..i * 6 + 2], 16).unwrap();
+        let g = u8::from_str_radix(&palette[i * 6 + 2..i * 6 + 4], 16).unwrap();
+        let b = u8::from_str_radix(&palette[i * 6 + 4..i * 6 + 6], 16).unwrap();
+        unsafe {
+            poke((0x3FC0 + (i * 3) + 0) as i32, r);
+            poke((0x3FC0 + (i * 3) + 1) as i32, g);
+            poke((0x3FC0 + (i * 3) + 2) as i32, b);
+        }
+    }
+}
+
 use shipyard::{Component, IntoIter, View, World};
 
 #[derive(Component, Debug, Clone)]
@@ -66,6 +80,9 @@ static mut T: i32 = 0;
 static mut WORLD: Option<GameWorld> = None;
 
 pub fn init() {
+    // TODO load palette and show a rectangle with each color
+    // TODO show fps and ms per frame
+    // TODO show x,y of Beisfost at top right
     // load_palette(PALETTE_LC);GameWorld::new()
     unsafe {
         WORLD = Some(GameWorld::new());
@@ -129,6 +146,17 @@ pub fn tic() {
                 position.y as i32,
                 transmission.radius as i32,
                 1,
+            );
+            let width = print_alloc(&node.name, 1024, 1024, Default::default());
+
+            let opts = PrintOptions {
+                color: 1,
+                ..Default::default()
+            };
+
+            print!(
+                node.name.to_string(),
+                position.x as i32, position.y as i32, opts
             );
         }
         T += 1;

@@ -2,7 +2,6 @@ mod alloc;
 mod tic80;
 
 use itertools::izip;
-use rand::RngExt;
 use tic80::*;
 
 // static PALETTE_LC: &str = "313432323e42454b4b3a5f3b7c4545675239625055516b43796c647182459e805c998579ac9086a6a296bcb7a500ffff";
@@ -50,7 +49,7 @@ impl GameWorld {
 
         world.add_entity((
             Node {
-                id: rand::rng().random(),
+                id: 1,
                 name: "Beisfrost".to_string(),
                 enabled: true,
             },
@@ -79,32 +78,32 @@ pub fn tic() {
         if T == 0 {
             init();
         }
-    }
-
-    // if btn(0) {
-    //     unsafe { DEBUG_GUY.y -= 1 }
-    // }
-    // if btn(1) {
-    //     unsafe { DEBUG_GUY.y += 1 }
-    // }
-    // if btn(2) {
-    //     unsafe { DEBUG_GUY.x -= 1 }
-    // }
-    // if btn(3) {
-    //     unsafe { DEBUG_GUY.x += 1 }
-    // }
-
-    unsafe {
-        cls(1);
 
         let world = WORLD.as_mut().unwrap();
-
         let (nodes, positions, transmissions) = world
             .world
             .borrow::<(View<Node>, View<Position>, View<Transmission>)>()
             .expect("Failed to borrow render components");
 
-        for (node, position, transmission) in
+        if positions.iter().next().is_some() {
+            let entity = positions.iter().ids().next().unwrap();
+            if btn(0) {
+                world.world.get::<&mut Position>(entity).unwrap().y -= 1.0;
+            }
+            if btn(1) {
+                world.world.get::<&mut Position>(entity).unwrap().y += 1.0;
+            }
+            if btn(2) {
+                world.world.get::<&mut Position>(entity).unwrap().x -= 1.0;
+            }
+            if btn(3) {
+                world.world.get::<&mut Position>(entity).unwrap().x += 1.0;
+            }
+        }
+
+        cls(0);
+
+        for (_node, position, transmission) in
             izip!(nodes.iter(), positions.iter(), transmissions.iter())
         {
             circ(
@@ -114,9 +113,6 @@ pub fn tic() {
                 1,
             );
         }
-    }
-
-    unsafe {
         T += 1;
     }
 }

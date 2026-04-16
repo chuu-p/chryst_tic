@@ -80,13 +80,18 @@ pub fn tic() {
         }
 
         let world = WORLD.as_mut().unwrap();
-        let (nodes, positions, transmissions) = world
-            .world
-            .borrow::<(View<Node>, View<Position>, View<Transmission>)>()
-            .expect("Failed to borrow render components");
 
-        if positions.iter().next().is_some() {
-            let entity = positions.iter().ids().next().unwrap();
+        let (entity_id, position_data): (Option<shipyard::EntityId>, (f32, f32)) = {
+            let positions = world.world.borrow::<View<Position>>().unwrap();
+            positions
+                .iter()
+                .with_id()
+                .next()
+                .map(|(id, p)| (Some(id), (p.x, p.y)))
+                .unwrap_or((None, (0.0, 0.0)))
+        };
+
+        if let Some(entity) = entity_id {
             if btn(0) {
                 world.world.get::<&mut Position>(entity).unwrap().y -= 1.0;
             }
@@ -103,10 +108,23 @@ pub fn tic() {
 
         cls(0);
 
-        for (_node, position, transmission) in
-            izip!(nodes.iter(), positions.iter(), transmissions.iter())
-        {
-            circ(
+        let (node_data, position_data, transmission_data): (Vec<_>, Vec<_>, Vec<_>) = {
+            let nodes = world.world.borrow::<View<Node>>().unwrap();
+            let positions = world.world.borrow::<View<Position>>().unwrap();
+            let transmissions = world.world.borrow::<View<Transmission>>().unwrap();
+            (
+                nodes.iter().cloned().collect(),
+                positions.iter().cloned().collect(),
+                transmissions.iter().cloned().collect(),
+            )
+        };
+
+        for (node, position, transmission) in izip!(
+            node_data.iter(),
+            position_data.iter(),
+            transmission_data.iter()
+        ) {
+            circb(
                 position.x as i32,
                 position.y as i32,
                 transmission.radius as i32,

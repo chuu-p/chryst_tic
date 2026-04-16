@@ -1,93 +1,75 @@
 mod alloc;
 mod tic80;
 
+use itertools::izip;
+use rand::RngExt;
 use tic80::*;
 
-fn load_palette(palette: &str) {
-    for i in 0..16 {
-        let r = u8::from_str_radix(&palette[i * 6..i * 6 + 2], 16).unwrap();
-        let g = u8::from_str_radix(&palette[i * 6 + 2..i * 6 + 4], 16).unwrap();
-        let b = u8::from_str_radix(&palette[i * 6 + 4..i * 6 + 6], 16).unwrap();
-        unsafe {
-            poke((0x3FC0 + (i * 3) + 0) as i32, r);
-            poke((0x3FC0 + (i * 3) + 1) as i32, g);
-            poke((0x3FC0 + (i * 3) + 2) as i32, b);
-        }
-    }
+// static PALETTE_LC: &str = "313432323e42454b4b3a5f3b7c4545675239625055516b43796c647182459e805c998579ac9086a6a296bcb7a500ffff";
+// fn load_palette(palette: &str) {
+//     for i in 0..16 {
+//         let r = u8::from_str_radix(&palette[i * 6..i * 6 + 2], 16).unwrap();
+//         let g = u8::from_str_radix(&palette[i * 6 + 2..i * 6 + 4], 16).unwrap();
+//         let b = u8::from_str_radix(&palette[i * 6 + 4..i * 6 + 6], 16).unwrap();
+//         unsafe {
+//             poke((0x3FC0 + (i * 3) + 0) as i32, r);
+//             poke((0x3FC0 + (i * 3) + 1) as i32, g);
+//             poke((0x3FC0 + (i * 3) + 2) as i32, b);
+//         }
+//     }
+// }
+
+// TODO this should be a ECS
+use shipyard::{Component, IntoIter, View, World};
+
+#[derive(Component, Debug, Clone)]
+pub struct Position {
+    pub x: f32,
+    pub y: f32,
 }
 
-trait Drawable {
-    fn draw(&self);
+#[derive(Component, Debug, Clone)]
+pub struct Node {
+    pub id: u32,
+    pub name: String,
+    pub enabled: bool,
 }
 
-struct DebugGuy {
-    pub x: i32,
-    pub y: i32,
+#[derive(Component, Debug, Clone, Copy)]
+pub struct Transmission {
+    pub radius: f32,
 }
 
-impl Drawable for DebugGuy {
-    fn draw(&self) {
-        unsafe {
-            spr(
-                1 + T % 60 / 30 * 2,
-                self.x,
-                self.y,
-                SpriteOptions {
-                    w: 2,
-                    h: 2,
-                    transparent: &[15],
-                    scale: 3,
-                    ..Default::default()
-                },
-            );
-        }
-    }
+pub struct GameWorld {
+    pub world: World,
 }
 
-struct Background {}
+impl GameWorld {
+    pub fn new() -> Self {
+        let mut world = World::new();
 
-impl Drawable for Background {
-    fn draw(&self) {
-        unsafe {
-            for x_idx in 0..8 {
-                for y_idx in 0..5 {
-                    spr(
-                        4,
-                        32 * x_idx,
-                        32 * y_idx,
-                        SpriteOptions {
-                            w: 8,
-                            h: 8,
-                            transparent: &[15],
-                            scale: 1,
-                            ..Default::default()
-                        },
-                    );
-                }
-            }
-        }
+        world.add_entity((
+            Node {
+                id: rand::rng().random(),
+                name: "Beisfrost".to_string(),
+                enabled: true,
+            },
+            Position { x: 0.0, y: 0.0 },
+            Transmission { radius: 10.0 },
+        ));
+
+        Self { world }
     }
 }
 
 static mut T: i32 = 0;
 
-static mut DEBUG_GUY: DebugGuy = DebugGuy { x: 96, y: 24 };
+static mut WORLD: Option<GameWorld> = None;
 
-static PALETTE_LC: &str = "313432323e42454b4b3a5f3b7c4545675239625055516b43796c647182459e805c998579ac9086a6a296bcb7a500ffff";
-
-static mut DEBUG: bool = false;
-
-static BACKGROUND: Background = Background {}; 
-
-static mut SCREEN_OBJECTS: [&dyn Drawable; 2] = [
-    &BACKGROUND,
-unsafe {
-    &DEBUG_GUY},
-];
 pub fn init() {
-    load_palette(PALETTE_LC);
+    // load_palette(PALETTE_LC);GameWorld::new()
     unsafe {
-        DEBUG = true;
+        WORLD = Some(GameWorld::new());
     }
 }
 
@@ -99,34 +81,39 @@ pub fn tic() {
         }
     }
 
-    if btn(0) {
-        unsafe { DEBUG_GUY.y -= 1 }
-    }
-    if btn(1) {
-        unsafe { DEBUG_GUY.y += 1 }
-    }
-    if btn(2) {
-        unsafe { DEBUG_GUY.x -= 1 }
-    }
-    if btn(3) {
-        unsafe { DEBUG_GUY.x += 1 }
-    }
-
-    cls(1);
+    // if btn(0) {
+    //     unsafe { DEBUG_GUY.y -= 1 }
+    // }
+    // if btn(1) {
+    //     unsafe { DEBUG_GUY.y += 1 }
+    // }
+    // if btn(2) {
+    //     unsafe { DEBUG_GUY.x -= 1 }
+    // }
+    // if btn(3) {
+    //     unsafe { DEBUG_GUY.x += 1 }
+    // }
 
     unsafe {
-        for screen_obj in SCREEN_OBJECTS {
-            screen_obj.draw();
+        cls(1);
+
+        let world = WORLD.as_mut().unwrap();
+
+        let (nodes, positions, transmissions) = world
+            .world
+            .borrow::<(View<Node>, View<Position>, View<Transmission>)>()
+            .expect("Failed to borrow render components");
+
+        for (node, position, transmission) in
+            izip!(nodes.iter(), positions.iter(), transmissions.iter())
+        {
+            circ(
+                position.x as i32,
+                position.y as i32,
+                transmission.radius as i32,
+                1,
+            );
         }
-        print!(
-            format!("initialized 文 {DEBUG}!"),
-            84,
-            84,
-            PrintOptions {
-                small_font: true,
-                ..Default::default()
-            }
-        );
     }
 
     unsafe {

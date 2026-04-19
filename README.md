@@ -1,39 +1,20 @@
-# Rust Starter Project Template
+~~~
+                                                   .x+=:.        s    
+            .uef^"                   ..           z`    ^%      :8    
+          :d88E          .u    .    @L               .   <k    .88    
+      .   `888E        .d88B :@8c  9888i   .dL     .@8Ned8"   :888ooo 
+ .udR88N   888E .z8k  ="8888f8888r `Y888k:*888.  .@^%8888"  -*8888888 
+<888'888k  888E~?888L   4888>'88"    888E  888I x88:  `)8b.   8888    
+9888 'Y"   888E  888E   4888> '      888E  888I 8888N=*8888   8888    
+9888       888E  888E   4888>        888E  888I  %8"    R88   8888    
+9888       888E  888E  .d888L .+     888E  888I   @8Wou 9%   .8888Lu= 
+?8888u../  888E  888E  ^"8888*"     x888N><888' .888888P`    ^%888*   
+ "8888P'  m888N= 888>     "Y"        "88"  888  `   ^"F        'Y"    
+   "P'     `Y"   888                       88F                        
+                J88"                      98"                         
+                @%                      ./"                           
+              :"                       ~`    
+~~~
 
-## Important Note
-Don't access TIC-80's I/O memory by dereferencing raw pointers. The optimiser will ruin attempts to do this, because Rust has no equivalent to C's `volatile` for direct access. Instead, use [`std::ptr::read_volatile`](https://doc.rust-lang.org/std/ptr/fn.read_volatile.html) and [`std::ptr::write_volatile`](https://doc.rust-lang.org/std/ptr/fn.write_volatile.html), or just use the standard TIC-80 `peek`/`poke`.
+a `TIC-80 javascript with ECS` game about implementing a holy network
 
-This is a Rust / TIC-80 starter template. Before using it, make sure you have installed the `wasm32-unknown-unknown` target using rustup:
-```
-rustup target add wasm32-unknown-unknown
-```
-
-Then, to build a cart.wasm file, run:
-
-```
-cargo build --release --target=wasm32-unknown-unknown
-```
-
-To import the resulting WASM to a cartridge named `game.tic`:
-
-```
-tic80 --fs . --cmd 'new wasm & import binary target/wasm32-unknown-unknown/release/cart.wasm & save game'
-```
-
-Or from the TIC-80 console:
-
-```
-new wasm
-import binary target/wasm32-unknown-unknown/release/cart.wasm
-save game
-```
-
-This is assuming you've run TIC-80 with `--fs .` inside your project directory.
-
-
-## wasm-opt
-It is highly recommended that you run `wasm-opt` on the output `cart.wasm` file, especially if using the usual unoptimised builds. To do so, make sure `wasm-opt` is installed, then run:
-```
-wasm-opt -Os target/wasm32-unknown-unknown/release/cart.wasm -o cart.wasm
-```
-This will create a new, smaller `cart.wasm` file in the working directory.

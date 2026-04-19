@@ -106,17 +106,42 @@ function render() {
   return end - start;
 }
 
+//#region engine functions
+function get_message_count(node_name) {
+  return world.entities.filter((e) => e.node.name === node_name).at(0)
+    .code_runner.messages_in.length;
+}
+function pop_message(node_name) {
+  return world.entities
+    .filter((e) => e.node.name === node_name)
+    .at(0)
+    .code_runner.messages_in.pop();
+}
+function push_message(node_name, message) {
+  world.entities
+    .filter((e) => e.node.name === node_name)
+    .at(0)
+    .code_runner.messages_out.push(message);
+}
+//#endregion
+
 function code_global_run() {
   var start = time();
   for (let entity of world.entities) {
-    // if last_execution_time is null then execute
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
         entity.code_runner.execute_every_ticks
     ) {
       var func = new Function(entity.code_runner.script);
-      var result = func.call(null, 1, 2, "hello"); //invoke the function using arguments  entity.code_runner.run();
+      var result = func.call(
+        null,
+        trace,
+        get_message_count,
+        pop_message,
+        push_message,
+        entity.node.name,
+      );
       trace(result);
       entity.code_runner.last_execution_time = t;
     }
@@ -141,7 +166,9 @@ world.entities.push({
   position: new Position(120, 60),
   transmisssion: new Transmission(10),
   code_runner: new CodeRunner(
-    "return JSON.stringify(arguments);",
+    `
+    arguments[0]("hello from js: " + arguments[4]);
+    `,
     time() + 30,
     60 * 5,
     [],
@@ -153,7 +180,9 @@ world.entities.push({
   position: new Position(60, 20),
   transmisssion: new Transmission(10),
   code_runner: new CodeRunner(
-    "return `hagen` + JSON.stringify(arguments);",
+    `
+    arguments[0]("hello from js: " + arguments[4]);
+    `,
     null,
     60 * 5,
     [],

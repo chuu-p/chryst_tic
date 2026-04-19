@@ -22,8 +22,8 @@ const Color = Object.freeze({
   Black: 0,
   White: 1,
   Accent: 2,
-  Green: 3,
-  Red: 4,
+  Red: 3,
+  Green: 4,
   Grey: 5,
 });
 //#endregion
@@ -43,8 +43,19 @@ class Node {
   }
 }
 class Transmission {
-  constructor(radius) {
+  constructor(radius, neighbors = [], connections = []) {
     this.radius = radius;
+    this.neighbors = neighbors;
+    this.connections = connections;
+  }
+}
+class Connection {
+  constructor(to_node_name, from_x, from_y, to_x, to_y) {
+    this.to_node_name = to_node_name;
+    this.from_x = from_x;
+    this.from_y = from_y;
+    this.to_x = to_x;
+    this.to_y = to_y;
   }
 }
 class CodeRunner {
@@ -64,13 +75,7 @@ class CodeRunner {
 }
 //#endregion
 
-//#region systems
-class World {
-  constructor() {
-    this.entities = [];
-  }
-}
-
+//#region render
 function render() {
   var start = time();
   for (let entity of world.entities) {
@@ -83,11 +88,12 @@ function render() {
     ) {
       color = Color.Accent;
     }
+    pix(entity.position.x, entity.position.y, color); // this can be a filled in circle based on charge and/or max capacity
     circb(
       entity.position.x,
       entity.position.y,
-      entity.transmisssion.radius,
-      color,
+      entity.transmission.radius,
+      Color.Grey,
     );
     // name
     print(
@@ -103,11 +109,11 @@ function render() {
         " " +
         entity.position.y +
         " r" +
-        entity.transmisssion.radius +
+        entity.transmission.radius +
         "]",
       entity.position.x + 12,
       entity.position.y - 4,
-      color,
+      Color.Grey,
     );
     // messages in, out
     print(
@@ -120,11 +126,28 @@ function render() {
         "]",
       entity.position.x + 12,
       entity.position.y + 4,
-      color,
+      Color.Grey,
     );
+    for (let connection of entity.transmission.connections) {
+      line(
+        connection.from_x,
+        connection.from_y,
+        connection.to_x,
+        connection.to_y,
+        color,
+      );
+    }
   }
   var end = time();
   return end - start;
+}
+//#endregion
+
+//#region systems
+class World {
+  constructor() {
+    this.entities = [];
+  }
 }
 
 //#region engine functions
@@ -149,15 +172,64 @@ function trace_engine(message) {
 }
 //#endregion
 
+function distance(a, b) {
+  const dx = a.position.x - b.position.x;
+  const dy = a.position.y - b.position.y;
+  return Math.sqrt(dx * dx + dy * dy);
+}
+
+function check_and_update_neighbors() {
+  for (let entity of world.entities) {
+    for (let neighbor of world.entities) {
+      // guard: skip self
+      if (neighbor.node.name === entity.node.name) continue;
+
+      // guard: already connected
+      const alreadyConnected = entity.transmission.connections.some(
+        (c) => c.to_node_name === neighbor.node.name,
+      );
+      if (alreadyConnected) {
+        // remove connection if already connected so it gets refreshed
+        entity.transmission.connections =
+          entity.transmission.connections.filter(
+            (c) => c.to_node_name !== neighbor.node.name,
+          );
+      }
+
+      const dist = distance(entity, neighbor);
+
+      // guard: out of range
+      if (dist >= entity.transmission.radius) continue;
+
+      // happy path
+      entity.transmission.connections.push(
+        new Connection(
+          neighbor.node.name,
+          entity.position.x,
+          entity.position.y,
+          neighbor.position.x,
+          neighbor.position.y,
+        ),
+      );
+    }
+  }
+}
+
 function code_global_run() {
-  var start = time();
   for (let entity of world.entities) {
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
         entity.code_runner.execute_every_ticks
     ) {
-      var func = new Function(entity.code_runner.script);
+      var func = new Function(
+        "trace",
+        "getMessageCount",
+        "popMessage",
+        "pushMessage",
+        "nodeName",
+        entity.code_runner.script,
+      );
       var result = func.call(
         null,
         trace_engine,
@@ -170,6 +242,34 @@ function code_global_run() {
       entity.code_runner.last_execution_time = t;
     }
   }
+}
+
+function handle_input() {
+  // move beisfrost x,y with arrow keys
+  let beisfrost = world.entities.find(
+    (entity) => entity.node.name === "Beisfrost",
+  );
+  if (btn(Button.Up)) {
+    beisfrost.position.y -= 1;
+  }
+  if (btn(Button.Down)) {
+    beisfrost.position.y += 1;
+  }
+  if (btn(Button.Left)) {
+    beisfrost.position.x -= 1;
+  }
+  if (btn(Button.Right)) {
+    beisfrost.position.x += 1;
+  }
+}
+
+function systems() {
+  var start = time();
+
+  code_global_run();
+  handle_input();
+  check_and_update_neighbors();
+
   var end = time();
   return end - start;
 }
@@ -188,48 +288,48 @@ var world = new World();
 world.entities.push({
   node: new Node(1, "Beisfrost", true),
   position: new Position(120, 60),
-  transmisssion: new Transmission(10),
+  transmission: new Transmission(80, [], []),
   code_runner: new CodeRunner(
     `
-    arguments[0]("hello from js: " + arguments[4]);
+    trace("hello from js: " + nodeName);
     `,
-    time(), // + 30,
+    time() + 30,
     60 * 5,
     [],
     [],
   ),
 });
-// world.entities.push({
-//   node: new Node(2, "Hagen", true),
-//   position: new Position(60, 20),
-//   transmisssion: new Transmission(10),
-//   code_runner: new CodeRunner(
-//     `
-//     arguments[0]("hello from js: " + arguments[4]);
-//     `,
-//     null,
-//     60 * 5,
-//     [],
-//     [],
-//   ),
-// });
+world.entities.push({
+  node: new Node(2, "Hagen", true),
+  position: new Position(60, 20),
+  transmission: new Transmission(80),
+  code_runner: new CodeRunner(
+    `
+    arguments[0]("hello from js: " + arguments[4]);
+    `,
+    null,
+    60 * 5,
+    [],
+    [],
+  ),
+});
 //#endregion
 
 //#region main
 function TIC() {
   cls(0);
   var duration_render = render();
-  var duration_code_global_run = code_global_run();
+  var duration_systems = systems();
   t++;
 
   print(
-    `ms/f ${round(duration_code_global_run + duration_render)}`,
+    `ms/f ${round(duration_systems + duration_render)}`,
     180,
     0,
     Color.White,
   );
-  print(`rndr ${round(duration_render)}`, 180, 8, Color.White);
-  print(`code ${round(duration_code_global_run)}`, 180, 16, Color.White);
+  print(`render ${round(duration_render)}`, 180, 8, Color.White);
+  print(`system ${round(duration_systems)}`, 180, 16, Color.White);
 }
 //#endregion
 

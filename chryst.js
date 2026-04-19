@@ -74,33 +74,54 @@ class World {
 function render() {
   var start = time();
   for (let entity of world.entities) {
+    var color = Color.Grey;
     // add 10 ticks of cooldown
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
         entity.code_runner.execute_every_ticks - 30
     ) {
-      circb(
-        entity.position.x,
-        entity.position.y,
-        entity.transmisssion.radius,
-        Color.Accent,
-      );
-      print(
-        entity.node.name,
-        entity.position.x,
-        entity.position.y,
-        Color.Accent,
-      );
-    } else {
-      circb(
-        entity.position.x,
-        entity.position.y,
-        entity.transmisssion.radius,
-        Color.Grey,
-      );
-      print(entity.node.name, entity.position.x, entity.position.y, Color.Grey);
+      color = Color.Accent;
     }
+    circb(
+      entity.position.x,
+      entity.position.y,
+      entity.transmisssion.radius,
+      color,
+    );
+    // name
+    print(
+      entity.node.name,
+      entity.position.x + 12,
+      entity.position.y - 12,
+      color,
+    );
+    // x, y, radius
+    print(
+      "[" +
+        entity.position.x +
+        " " +
+        entity.position.y +
+        " r" +
+        entity.transmisssion.radius +
+        "]",
+      entity.position.x + 12,
+      entity.position.y - 4,
+      color,
+    );
+    // messages in, out
+    print(
+      "[" +
+        entity.code_runner.messages_in.length +
+        " " +
+        entity.code_runner.messages_out.length +
+        " " +
+        "node:1" + // script name and revision
+        "]",
+      entity.position.x + 12,
+      entity.position.y + 4,
+      color,
+    );
   }
   var end = time();
   return end - start;
@@ -123,6 +144,9 @@ function push_message(node_name, message) {
     .at(0)
     .code_runner.messages_out.push(message);
 }
+function trace_engine(message) {
+  trace("[" + (tstamp() % 10000) + "] " + message);
+}
 //#endregion
 
 function code_global_run() {
@@ -136,13 +160,13 @@ function code_global_run() {
       var func = new Function(entity.code_runner.script);
       var result = func.call(
         null,
-        trace,
+        trace_engine,
         get_message_count,
         pop_message,
         push_message,
         entity.node.name,
       );
-      trace(result);
+      // trace(result);
       entity.code_runner.last_execution_time = t;
     }
   }
@@ -169,26 +193,26 @@ world.entities.push({
     `
     arguments[0]("hello from js: " + arguments[4]);
     `,
-    time() + 30,
+    time(), // + 30,
     60 * 5,
     [],
     [],
   ),
 });
-world.entities.push({
-  node: new Node(2, "Hagen", true),
-  position: new Position(60, 20),
-  transmisssion: new Transmission(10),
-  code_runner: new CodeRunner(
-    `
-    arguments[0]("hello from js: " + arguments[4]);
-    `,
-    null,
-    60 * 5,
-    [],
-    [],
-  ),
-});
+// world.entities.push({
+//   node: new Node(2, "Hagen", true),
+//   position: new Position(60, 20),
+//   transmisssion: new Transmission(10),
+//   code_runner: new CodeRunner(
+//     `
+//     arguments[0]("hello from js: " + arguments[4]);
+//     `,
+//     null,
+//     60 * 5,
+//     [],
+//     [],
+//   ),
+// });
 //#endregion
 
 //#region main

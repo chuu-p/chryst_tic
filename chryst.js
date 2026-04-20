@@ -24,11 +24,21 @@ const Button = Object.freeze({
 
 const Color = Object.freeze({
   Black: 0,
-  White: 1,
-  Accent: 2,
-  Orange: 3,
-  Green: 4,
-  Grey: 5,
+  Grey: 1,
+  White: 2,
+  Brown: 3,
+  Orange: 4,
+  Pink: 5,
+  Flesh: 6,
+  Blue: 7,
+  Indigo: 8,
+  Cyan: 9,
+  Olive: 10,
+  Green: 11,
+  Mist: 12,
+  Yellow: 13,
+  Magenta: 14,
+  Transparent: 15,
 });
 
 const Duration = Object.freeze({
@@ -36,6 +46,15 @@ const Duration = Object.freeze({
   Minute: 60 * 60,
   Hour: 60 * 60 * 60,
   Day: 24 * 60 * 60 * 60,
+});
+
+const Portrait = Object.freeze({
+  Elyvilon: 0,
+  Trog: 4,
+  Tso: 8,
+  Zin: 12,
+  Okawaru: 64,
+  Vehumet: 68,
 });
 //#endregion
 
@@ -87,24 +106,50 @@ class CodeRunner {
 //#endregion
 
 //#region render
+var dialogue = {
+  visible: true,
+  name: "Hero",
+  line1: "Hello traveler! Welcome to the network.",
+  line2: "Press any key to continue...",
+  portrait_id: 0,
+};
+
+function render_dialogue() {
+  if (!dialogue.visible) return;
+
+  var box_y = 136 - 40;
+  rect(0, box_y, 240, 40, Color.Black);
+  rectb(0, box_y, 240, 40, Color.Pink);
+
+  var portrait_x = 240 - 32 - 10;
+  var portrait_y = box_y - 32;
+  // spr(id x y colorkey=-1 scale=1 flip=0 rotate=0 w=1 h=1) 
+  spr(dialogue.portrait_id, portrait_x, portrait_y, Color.Transparent, 1, 0, 0, 4, 4);
+
+  var text_x = 10;
+  var text_y = box_y + 8;
+  print("Speaker: " + dialogue.line1, text_x, text_y, Color.Pink);
+  print(dialogue.line2, text_x, text_y + 10, Color.Pink);
+}
+
 function render() {
   var start = time();
   for (let entity of world.entities) {
-    var color = Color.Grey;
+    var color = Color.Pink;
     // add 10 ticks of cooldown
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
       entity.code_runner.execute_every_ticks - (Duration.Second / 2)
     ) {
-      color = Color.Green;
+      color = Color.Orange;
     }
     pix(entity.position.x, entity.position.y, color); // this can be a filled in circle based on charge and/or max capacity
     circb(
       entity.position.x,
       entity.position.y,
       entity.transmission.radius,
-      Color.Grey,
+      Color.Pink,
     );
     // name
     print(
@@ -124,7 +169,7 @@ function render() {
       "]",
       entity.position.x + 12,
       entity.position.y - 4,
-      Color.Grey,
+      Color.Pink,
     );
     // messages in, out
     print(
@@ -137,7 +182,7 @@ function render() {
       "]",
       entity.position.x + 12,
       entity.position.y + 4,
-      Color.Grey,
+      Color.Pink,
     );
     // messages in, out
     print(
@@ -146,7 +191,7 @@ function render() {
       "]",
       entity.position.x + 12,
       entity.position.y + 12,
-      Color.Grey,
+      Color.Pink,
     );
     for (let connection of entity.transmission.connections) {
       line(
@@ -158,19 +203,12 @@ function render() {
       );
     }
   }
+
+  render_dialogue();
   var end = time();
   return end - start;
 }
 //#endregion
-
-//#region systems
-class World {
-  constructor() {
-    this.entities = [];
-    this.selected_node_name = null;
-  }
-}
-
 
 //#region engine functions
 function get_message_count(node_name) {
@@ -194,6 +232,13 @@ function trace_engine(message) {
 }
 //#endregion
 
+//#region systems
+class World {
+  constructor() {
+    this.entities = [];
+    this.selected_node_name = null;
+  }
+}
 function distance(a, b) {
   const dx = a.position.x - b.position.x;
   const dy = a.position.y - b.position.y;
@@ -348,10 +393,10 @@ function TIC() {
     `ms/f ${round(duration_systems + duration_render)}`,
     180,
     0,
-    Color.White,
+    Color.Pink,
   );
-  print(`render ${round(duration_render)}`, 180, 8, Color.White);
-  print(`system ${round(duration_systems)}`, 180, 16, Color.White);
+  print(`render ${round(duration_render)}`, 180, 8, Color.Pink);
+  print(`system ${round(duration_systems)}`, 180, 16, Color.Pink);
 }
 //#endregion
 

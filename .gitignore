@@ -2,3 +2,4 @@
 /Cargo.lock
 ./tic80
 *.local
+.obsidian/workspace.json

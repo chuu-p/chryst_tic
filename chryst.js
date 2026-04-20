@@ -119,7 +119,7 @@ function render_dialogue() {
 
   var box_y = 136 - 40;
   rect(0, box_y, 240, 40, Color.Black);
-  rectb(0, box_y, 240, 40, Color.Pink);
+  rectb(0, box_y, 240, 40, Color.Grey);
 
   var portrait_x = 240 - 32 - 10;
   var portrait_y = box_y - 32;
@@ -128,28 +128,28 @@ function render_dialogue() {
 
   var text_x = 10;
   var text_y = box_y + 8;
-  print("Speaker: " + dialogue.line1, text_x, text_y, Color.Pink);
-  print(dialogue.line2, text_x, text_y + 10, Color.Pink);
+  print("Speaker: " + dialogue.line1, text_x, text_y, Color.Grey);
+  print(dialogue.line2, text_x, text_y + 10, Color.Grey);
 }
 
 function render() {
   var start = time();
   for (let entity of world.entities) {
-    var color = Color.Pink;
+    var color = Color.Grey;
     // add 10 ticks of cooldown
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
       entity.code_runner.execute_every_ticks - (Duration.Second / 2)
     ) {
-      color = Color.Orange;
+      color = Color.Yellow;
     }
     pix(entity.position.x, entity.position.y, color); // this can be a filled in circle based on charge and/or max capacity
     circb(
       entity.position.x,
       entity.position.y,
       entity.transmission.radius,
-      Color.Pink,
+      Color.Grey,
     );
     // name
     print(
@@ -169,7 +169,7 @@ function render() {
       "]",
       entity.position.x + 12,
       entity.position.y - 4,
-      Color.Pink,
+      Color.Grey,
     );
     // messages in, out
     print(
@@ -182,7 +182,7 @@ function render() {
       "]",
       entity.position.x + 12,
       entity.position.y + 4,
-      Color.Pink,
+      Color.Grey,
     );
     // messages in, out
     print(
@@ -191,7 +191,7 @@ function render() {
       "]",
       entity.position.x + 12,
       entity.position.y + 12,
-      Color.Pink,
+      Color.Grey,
     );
     for (let connection of entity.transmission.connections) {
       line(
@@ -393,10 +393,10 @@ function TIC() {
     `ms/f ${round(duration_systems + duration_render)}`,
     180,
     0,
-    Color.Pink,
+    Color.Grey,
   );
-  print(`render ${round(duration_render)}`, 180, 8, Color.Pink);
-  print(`system ${round(duration_systems)}`, 180, 16, Color.Pink);
+  print(`render ${round(duration_render)}`, 180, 8, Color.Grey);
+  print(`system ${round(duration_systems)}`, 180, 16, Color.Grey);
 }
 //#endregion
 

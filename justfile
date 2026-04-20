@@ -2,7 +2,7 @@ n:
     nix develop --command fish -C "set hydro_symbol_start DEV:"
 
 ide:
-    nix develop --command codium . 
+    nix develop --command antigravity . 
 
 dev:
     nix develop --command bacon

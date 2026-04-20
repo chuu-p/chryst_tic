@@ -22,9 +22,16 @@ const Color = Object.freeze({
   Black: 0,
   White: 1,
   Accent: 2,
-  Red: 3,
+  Orange: 3,
   Green: 4,
   Grey: 5,
+});
+
+const Duration = Object.freeze({
+  Second: 60,
+  Minute: 60 * 60,
+  Hour: 60 * 60 * 60,
+  Day: 24 * 60 * 60 * 60,
 });
 //#endregion
 
@@ -84,9 +91,9 @@ function render() {
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
-        entity.code_runner.execute_every_ticks - 30
+      entity.code_runner.execute_every_ticks - (Duration.Second / 2)
     ) {
-      color = Color.Accent;
+      color = Color.Green;
     }
     pix(entity.position.x, entity.position.y, color); // this can be a filled in circle based on charge and/or max capacity
     circb(
@@ -105,12 +112,12 @@ function render() {
     // x, y, radius
     print(
       "[" +
-        entity.position.x +
-        " " +
-        entity.position.y +
-        " r" +
-        entity.transmission.radius +
-        "]",
+      entity.position.x +
+      " " +
+      entity.position.y +
+      " r" +
+      entity.transmission.radius +
+      "]",
       entity.position.x + 12,
       entity.position.y - 4,
       Color.Grey,
@@ -118,14 +125,23 @@ function render() {
     // messages in, out
     print(
       "[" +
-        entity.code_runner.messages_in.length +
-        " " +
-        entity.code_runner.messages_out.length +
-        " " +
-        "node:1" + // script name and revision
-        "]",
+      entity.code_runner.messages_in.length +
+      " " +
+      entity.code_runner.messages_out.length +
+      " " +
+      "node:1" + // script name and revision
+      "]",
       entity.position.x + 12,
       entity.position.y + 4,
+      Color.Grey,
+    );
+    // messages in, out
+    print(
+      "[" +
+      entity.transmission.connections.map((connection) => connection.to_node_name).join(", ") +
+      "]",
+      entity.position.x + 12,
+      entity.position.y + 12,
       Color.Grey,
     );
     for (let connection of entity.transmission.connections) {
@@ -147,8 +163,10 @@ function render() {
 class World {
   constructor() {
     this.entities = [];
+    this.selected_node_name = null;
   }
 }
+
 
 //#region engine functions
 function get_message_count(node_name) {
@@ -220,7 +238,7 @@ function code_global_run() {
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
-        entity.code_runner.execute_every_ticks
+      entity.code_runner.execute_every_ticks
     ) {
       var func = new Function(
         "trace",
@@ -293,8 +311,8 @@ world.entities.push({
     `
     trace("hello from js: " + nodeName);
     `,
-    time() + 30,
-    60 * 5,
+    time() + 1,
+    Duration.Second * 5,
     [],
     [],
   ),
@@ -305,10 +323,10 @@ world.entities.push({
   transmission: new Transmission(80),
   code_runner: new CodeRunner(
     `
-    arguments[0]("hello from js: " + arguments[4]);
+    trace("hello from js: " + nodeName);
     `,
     null,
-    60 * 5,
+    Duration.Second * 5,
     [],
     [],
   ),

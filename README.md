@@ -18,3 +18,28 @@
 
 a `TIC-80 javascript with ECS` game about implementing a holy network
 
+## game design
+
+it has three gameplay systems
+
+### dialog system
+
+this game has a plot and characters, and you can talk to them to advance the plot. this is also how the player gets exposition.
+
+the player can choose what to say, and the characters will react accordingly. this will affect the plot.
+
+there exists a reputation system, where each kingdom / faction has a reputation with the player. this will affect the plot. if the player chooses correct dialogue options, the reputation will increase. if the player chooses incorrect dialogue options, the reputation will decrease. 
+consequences of high reputation: 
+- the territory gets unlocked for the player on the map (maybe with some caveats for certain territories)
+- in undertale, the player can be pacifist or genocidal, here it is somewhat the same. the player can choose to be a ruthless capitalist, and provide power grid services to everyone or exclude ruthless dictator states from the power grid. TODO what are the consequences of this? 
+
+TODO: implement dialog system
+
+### code runner system
+
+TODO: implement code editor 
+
+### worker management system
+
+TODO: implement business logic code editor 
+TODO: implement worker management status system like rollercoaster tycoon

@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "checkJs": true,
+        "strict": true,
+        "lib": [
+            "ES6",
+            // "es2022"
+        ]
+    }
+}

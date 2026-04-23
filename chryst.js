@@ -1,3 +1,4 @@
+// @ts-check
 // title:   chryst
 // author:  chuu801@pm.me
 // desc:    build and run a holy network
@@ -5,10 +6,6 @@
 // license: MIT License
 // version: 0.1
 // script:  js
-
-//#region scratchpad
-// 000:000000fffffff7d100e86800c0d725333333abcdefabcdefcbd1be8f938952534ce0a46eabcdefabcdefabcdef00ff00
-//#endregion
 
 //#region enums
 const Button = Object.freeze({
@@ -60,12 +57,21 @@ const Portrait = Object.freeze({
 
 //#region components
 class Position {
+  /**
+   * @param {number} x
+   * @param {number} y
+   */
   constructor(x, y) {
     this.x = x;
     this.y = y;
   }
 }
 class Node {
+  /**
+   * @param {number} id
+   * @param {string} name
+   * @param {boolean} enabled
+   */
   constructor(id, name, enabled) {
     this.id = id;
     this.name = name;
@@ -73,6 +79,11 @@ class Node {
   }
 }
 class Transmission {
+  /**
+   * @param {number} radius
+   * @param {string[]} neighbors
+   * @param {Connection[]} connections
+   */
   constructor(radius, neighbors = [], connections = []) {
     this.radius = radius;
     this.neighbors = neighbors;
@@ -80,6 +91,13 @@ class Transmission {
   }
 }
 class Connection {
+  /**
+   * @param {string} to_node_name
+   * @param {number} from_x
+   * @param {number} from_y
+   * @param {number} to_x
+   * @param {number} to_y
+   */
   constructor(to_node_name, from_x, from_y, to_x, to_y) {
     this.to_node_name = to_node_name;
     this.from_x = from_x;
@@ -89,6 +107,13 @@ class Connection {
   }
 }
 class CodeRunner {
+  /**
+   * @param {string} script
+   * @param {number | null} last_execution_time
+   * @param {number} execute_every_ticks
+   * @param {string[]} messages_in
+   * @param {string[]} messages_out
+   */
   constructor(
     script,
     last_execution_time,
@@ -101,6 +126,20 @@ class CodeRunner {
     this.execute_every_ticks = execute_every_ticks;
     this.messages_in = messages_in;
     this.messages_out = messages_out;
+  }
+}
+class Entity {
+  /**
+   * @param {Position | null} position
+   * @param {Node | null} node
+   * @param {Transmission | null} transmission
+   * @param {CodeRunner | null} code_runner
+   */
+  constructor(position, node, transmission, code_runner) {
+    this.position = position;
+    this.node = node;
+    this.transmission = transmission;
+    this.code_runner = code_runner;
   }
 }
 //#endregion
@@ -135,8 +174,14 @@ function render_dialogue() {
 function render() {
   var start = time();
   for (let entity of world.entities) {
+    // color is number
     var color = Color.Grey;
     // add 10 ticks of cooldown
+    if (!entity.code_runner) continue;
+    if (!entity.node) continue;
+    if (!entity.position) continue;
+    if (!entity.transmission) continue;
+
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
@@ -187,7 +232,7 @@ function render() {
     // messages in, out
     print(
       "[" +
-      entity.transmission.connections.map((connection) => connection.to_node_name).join(", ") +
+      entity.transmission.connections.map((/** @type {{ to_node_name: any; }} */ connection) => connection.to_node_name).join(", ") +
       "]",
       entity.position.x + 12,
       entity.position.y + 12,
@@ -211,22 +256,34 @@ function render() {
 //#endregion
 
 //#region engine functions
+/**
+ * @param {string} node_name
+ */
 function get_message_count(node_name) {
-  return world.entities.filter((e) => e.node.name === node_name).at(0)
-    .code_runner.messages_in.length;
+  let node = world.entities.filter((e) => e.node !== null && e.node.name === node_name)[0];
+  if (!node || !node.code_runner) return 0;
+  return node.code_runner.messages_in.length;
 }
+/**
+ * @param {string} node_name
+ */
 function pop_message(node_name) {
-  return world.entities
-    .filter((e) => e.node.name === node_name)
-    .at(0)
-    .code_runner.messages_in.pop();
+  let node = world.entities.filter((e) => e.node !== null && e.node.name === node_name)[0];
+  if (!node || !node.code_runner) return null; // TODO: return custom error type when implementing error handling 
+  return node.code_runner.messages_in.pop();
 }
+/**
+ * @param {string} node_name
+ * @param {string} message
+ */
 function push_message(node_name, message) {
-  world.entities
-    .filter((e) => e.node.name === node_name)
-    .at(0)
-    .code_runner.messages_out.push(message);
+  let node = world.entities.filter((e) => e.node !== null && e.node.name === node_name)[0];
+  if (!node || !node.code_runner) return; // TODO: return custom error type when implementing error handling 
+  node.code_runner.messages_out.push(message);
 }
+/**
+ * @param {string} message
+ */
 function trace_engine(message) {
   trace("[" + (tstamp() % 10000) + "] " + message);
 }
@@ -235,35 +292,47 @@ function trace_engine(message) {
 //#region systems
 class World {
   constructor() {
+    /**
+     * @type {Entity[]}
+     */
     this.entities = [];
     this.selected_node_name = null;
   }
 }
+/**
+ * @param {Position} a
+ * @param {Position} b
+ */
 function distance(a, b) {
-  const dx = a.position.x - b.position.x;
-  const dy = a.position.y - b.position.y;
+  const dx = a.x - b.x;
+  const dy = a.y - b.y;
   return Math.sqrt(dx * dx + dy * dy);
 }
 
 function check_and_update_neighbors() {
   for (let entity of world.entities) {
     for (let neighbor of world.entities) {
+      if (!entity.position || !neighbor.position) continue;
+      if (!entity.node || !neighbor.node) continue;
+      if (!entity.transmission) continue;
+      let neighbor_node_name = neighbor.node.name;
+
       // guard: skip self
       if (neighbor.node.name === entity.node.name) continue;
 
       // guard: already connected
       const alreadyConnected = entity.transmission.connections.some(
-        (c) => c.to_node_name === neighbor.node.name,
+        (/** @type {{ to_node_name: string; }} */ c) => c.to_node_name === neighbor_node_name,
       );
       if (alreadyConnected) {
         // remove connection if already connected so it gets refreshed
         entity.transmission.connections =
           entity.transmission.connections.filter(
-            (c) => c.to_node_name !== neighbor.node.name,
+            (/** @type {{ to_node_name: any; }} */ c) => c.to_node_name !== neighbor_node_name,
           );
       }
 
-      const dist = distance(entity, neighbor);
+      const dist = distance(entity.position, neighbor.position);
 
       // guard: out of range
       if (dist >= entity.transmission.radius) continue;
@@ -284,6 +353,8 @@ function check_and_update_neighbors() {
 
 function code_global_run() {
   for (let entity of world.entities) {
+    if (!entity.code_runner) continue;
+    if (!entity.node) continue;
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
@@ -314,7 +385,7 @@ function code_global_run() {
 function handle_input() {
   // move beisfrost x,y with arrow keys
   let beisfrost = world.entities.find(
-    (entity) => entity.node.name === "Beisfrost",
+    (/** @type {{ node: Node; }} */ entity) => entity.node.name === "Beisfrost",
   );
   if (btn(Button.Up)) {
     beisfrost.position.y -= 1;
@@ -341,6 +412,9 @@ function systems() {
   return end - start;
 }
 
+/**
+ * @param {number} num
+ */
 function round(num) {
   return Math.round(num * 100) / 100;
 }

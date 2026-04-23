@@ -3,8 +3,11 @@
         "checkJs": true,
         "strict": true,
         "lib": [
-            "ES6",
-            // "es2022"
+            "ES2022"
         ]
-    }
+    },
+    "include": [
+        "**/*.js",
+        "**/*.d.ts"
+    ]
 }

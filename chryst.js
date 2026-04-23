@@ -174,7 +174,7 @@ function render_dialogue() {
 function render() {
   var start = time();
   for (let entity of world.entities) {
-    // color is number
+    /** @type {number} */
     var color = Color.Grey;
     // add 10 ticks of cooldown
     if (!entity.code_runner) continue;
@@ -384,9 +384,12 @@ function code_global_run() {
 
 function handle_input() {
   // move beisfrost x,y with arrow keys
+  /** @type {Entity | undefined} */
   let beisfrost = world.entities.find(
-    (/** @type {{ node: Node; }} */ entity) => entity.node.name === "Beisfrost",
+    (entity) => entity.node && entity.node.name === "Beisfrost",
   );
+  if (!beisfrost || !beisfrost.position) return;
+
   if (btn(Button.Up)) {
     beisfrost.position.y -= 1;
   }

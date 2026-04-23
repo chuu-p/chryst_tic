@@ -1,0 +1,39 @@
+X: 1
+T: from tic-midi/One Piece - A Mother's Love.mid
+M: 4/4
+L: 1/8
+Q:1/4=36
+K:C % 0 sharps
+V:1
+%%clef treble
+%%MIDI program 0
+[^gfCF,]4 [fd^A,D,]4| \
+[c'-^g-^DG,]2 [c'gF^A,]6| \
+C,-[G,C,-] [B,C,-][^FC,-] [EC,-]2 [DC,]2| \
+[EB,E,]8|
+C,-[G,C,-] [B,C,-][^FC,-] [EC,-]2 [DC,]2| \
+[B,-F,,-][B,-C,F,,-] [B,-D,F,,-][B,-A,F,,-] [B,-G,F,,-]2 [B,F,F,,]2| \
+[D-B,-G,B,,][DB,] [E-^C-A,-C,-]4 [E-C-A,-C,-]3/2[bECA,C,]/2| \
+[e-C,-][e-G,C,-] [e-B,C,-][e-^FC,-] [e-EC,-]2 [eDC,]2|
+[E-B,-]4 [d'-E-B,-]3[d'-E-B,-]/2[d'bEB,]/2| \
+[e-C,-][e-G,C,-] [e-B,C,-][e-^FC,-] [e-eEC,-]2 [edDC,]2| \
+[B-F,,-][B-C,F,,-] [B-D,F,,-][B-A,F,,-] [B-G,F,,-]2 [BF,F,,]2| \
+[dBGG,D,]z [e-^c-A-A,-E,-]4 [e-c-A-A,-E,-]3/2[becAA,E,]/2|
+[e-C,-][e-G,C,-] [e-B,C,-][e-^FC,-] [e-EC,-]2 [eDC,]2| \
+[E-B,-]4 [d'-E-B,-]3[d'-E-B,-]/2[d'bEB,]/2| \
+[e-C,-][e-G,C,-] [e-B,C,-][e-^FC,-] [e-eEC,-]2 [edDC,]2| \
+[B-F,,-][B-C,F,,-] [B-D,F,,-][B-A,F,,-] [B-G,F,,-]2 [BF,F,,]2|
+[dBGG,D,]z [e-^c-A-A,-E,-]4 [e-c-A-A,-E,-]3/2[ec^A=AA,E,]/2| \
+[f-D,-][f-A,D,-] [f-ED,-][f-^A,D,-] [fF-D,]4| \
+[adF-]4 [c'-f-F-]3[c'-f-F-]/2[c'bfF]/2| \
+[e-D,-][e-A,D,-] [e-ED,-][e-B,D,-] [e^G-D,]4|
+^G4- [e'-G-]3[e'-G-]/2[f'e'G]/2| \
+[^a-D,-][a-=A,D,-] [^a-ED,-][a-A,D,-] [aF-D,]4| \
+[a'd'F-]4 [c''-f'-F-]3[c''-f'-F-]/2[c''b'f'F]/2| \
+[e'-D,-][e'-A,D,-] [e'-ED,-][e'-B,D,-] [e'-^G-D,-]3[e'-G-D,-]/2[e'e'GD,]/2|
+[b-C,-][b-G,C,-] [b-B,C,-][b-^FC,-] [b-EC,-]2 [bDC,]2| \
+[E-B,-]4 [d'-E-B,-]3[d'-E-B,-]/2[d'bEB,]/2| \
+[e-C,-][e-G,C,-] [e-B,C,-][e-^FC,-] [e-eEC,-]2 [edDC,]2| \
+[B-F,,-][B-C,F,,-] [B-D,F,,-][B-A,F,,-] [B-G,F,,-]2 [BF,F,,]2|
+[dGG,D,]z [eAA,E,]6| \
+[cFF,^G,,]z [d=GF,^A,,]6|

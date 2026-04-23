@@ -148,9 +148,9 @@ class Entity {
 var dialogue = {
   visible: true,
   name: "Hero",
-  line1: "Hello traveler! Welcome to the network.",
-  line2: "Press any key to continue...",
-  portrait_id: 0,
+  line1: "Hello traveler! Welcome to the",
+  line2: "network. Press any key to continue...",
+  portrait_id: Portrait.Okawaru,
 };
 
 function render_dialogue() {

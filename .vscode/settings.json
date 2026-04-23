@@ -1,9 +1,51 @@
 {
     "cSpell.words": [
+        "Astryd",
         "Beisfrost",
         "btnp",
+        "Chryst",
+        "Fayth",
         "itertools",
         "izip",
+        "Maxt",
         "rhai"
+    ],
+    "foam.graph.views": [
+        {
+            "name": "Default",
+            "colorBy": "directory",
+            "show": {
+                "tag": {
+                    "enabled": true
+                },
+                "placeholder": {
+                    "enabled": true
+                }
+            }
+        },
+        {
+            "name": "Journal",
+            "colorBy": "directory",
+            "show": {
+                "tag": {
+                    "enabled": false
+                },
+                "placeholder": {
+                    "enabled": false
+                }
+            },
+            "groups": [
+                {
+                    "id": "journal",
+                    "label": "path=journal",
+                    "color": "#6bcb77",
+                    "enabled": true,
+                    "match": {
+                        "property": "path",
+                        "value": "journal"
+                    }
+                }
+            ]
+        }
     ]
 }

@@ -11,6 +11,7 @@ ARCS/DECISIONS
 
 - blind faith in the goddess -> the goddess is sometimes cruel -> developing his own moral compass from compassionate reasoning and collectivism and love
 - he will get tested and has to still have compassion for his enemies, even when they are terrible and kill and torture people, even his own devotees (he feels and hears their struggles, because he can hear their prayers)
+- he will get more and more lonely over the course of the story because he is too obsessed with his mission and pushes people away. this will be the main point of his character growth. he abandons everyone at the start of the story, but will learn to love and care for people again and will find a new family with his friends. this is temperance. not just to focus on your goals, but also on the people around you.
 
 ## Background
 

@@ -40,7 +40,7 @@ Astryd: (Drunk) You guys should be grateful, that the great nation of [[Maxt]] h
 Guy: I would be grateful, but we know how this goes. You are here to scout our defenses, and if we dont join your Nation soon, you will take our land by force.
 Astryd: There are more bandits than you can handle, and every nation that was integrated into the Maxt Nation has been thriving ever since. Also, you can keep your governor in position, under my supervision of course. 
 Guy: Than what choice do I have?
-A random guy tries to punch astryd, but chryst bubbles her and the punch does not hurt her.  
+A random guy tries to punch astryd, but chryst bubbles her and the punch does not hurt her. 
 
 Chryst goes to bed.
 

@@ -8,6 +8,7 @@
         "itertools",
         "izip",
         "Maxt",
+        "missionize",
         "rhai"
     ],
     "foam.graph.views": [

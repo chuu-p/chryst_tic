@@ -1,15 +1,15 @@
 ---
 type: "[[T Chapter]]"
 chapter_previous:
-chapter_next: "[[Bergen Chapter]]"
+chapter_next: "[[Chapter - Bryskyr]]"
 ---
-# Chapter: [[Beisfrost]] arrival
+# Chapter: [[Bysfrost]]
 
 ## Summary
-[[Chryst]] arrives in the snowy village of [[Beisfrost]], where he encounters the rigid [[Maxt]] knight [[Astryd]]. Through a series of events involving a bandit raid and the establishment of the first [[Cult of Fayth]] mission, Chryst begins his journey to transform the spiritual landscape of the continent while saving Astryd from her own internal and external failures.
+[[Chryst]] arrives in the snowy village of [[Bysfrost]], where he encounters the rigid [[Maxt]] knight [[Astryd]]. Through a series of events involving a bandit raid and the establishment of the first [[Cult of Fayth]] mission, Chryst begins his journey to transform the spiritual landscape of the continent while saving Astryd from her own internal and external failures.
 
 ## Scenes
-- [[Scene - Arrival at Beisfrost Tavern]]
+- [[Scene - Arrival at Bysfrost Tavern]]
 - [[Scene - The Midnight Raid]]
 - [[Scene - A Broken Knight's Grace]]
 - [[Scene - The First Mission]]
@@ -18,8 +18,8 @@ chapter_next: "[[Bergen Chapter]]"
 
 | property | value |
 | -------- | ----- |
-| Location | [[Beisfrost]] |
-| Main Characters | [[Chryst]], [[Astryd]], [[Beisfrost Mayor]] |
+| Location | [[Bysfrost]] |
+| Main Characters | [[Chryst]], [[Astryd]], [[Bysfrost Mayor]] |
 | Key Themes | Faith vs. Force, Redemption, Community |
 | Primary Outcome | First mission established, [[Astryd]] joins Chryst |
 

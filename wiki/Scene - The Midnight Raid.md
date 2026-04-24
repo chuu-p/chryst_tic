@@ -1,25 +1,34 @@
 ---
 type: "[[T Scene]]"
-scene_previous: "[[Scene - Arrival at Beisfrost Tavern]]"
+scene_previous: "[[Scene - Arrival at Bysfrost Tavern]]"
 scene_next: "[[Scene - A Broken Knight's Grace]]"
 ---
 # Scene: The Midnight Raid
 
-In the middle of the night, [[Chryst]] is jolted awake by the sounds of steel clashing and screams outside. He rushes to his window to see [[Beisfrost]] under attack by a band of bandits.
+In the middle of the night, [[Chryst]] is jolted awake by the sounds of steel clashing and screams outside. He rushes to his window to see [[Bysfrost]] under attack by a band of bandits.
 
 Outside, [[Astryd]] is fighting desperately. She has managed to take down several attackers, but she is clearly outmatched by the bandit leader. Despite her skills, she is struck down and left defenseless on the cold ground.
 
-Chryst offers to help, but Astryd shouts for him to stay back. She warns him that it is illegal for a commoner—especially a foreigner from a conquered land like [[Yswyndt]]—to use magical powers or interfere in [[Maxt]] military issues without permission. If he harms the bandit, he could be arrested for manslaughter under Maxt law.
-NOTE: Yswyndt is not yet conquered. It is the last northern nation not occupied by [[Maxt]]. 
-NOTE: The bandit leads a short discussion with Chryst, asking him why he would risk his life for a stranger. Chryst explains that it is the way of his goddess to help those in need, thou shalt not kill. 
-NOTE: The bandit says, that the nation of [[Maxt]] is cruel and oppressive, and that the people of [[Norholdt]] are suffering under their rule. Many of his people were killed by Maxt soldiers. He says that they have a right to live in peace in their homeland, and that he is fighting for the freedom of his people.
-NOTE: Chryst tells him, that he is right, and he has aright to his homeland, etc, but still his methods of fighting and killing is not right. you should only kill in self defense. The bandit says, they have invaded my home, is this not self defense? Chryst answers, you came here to assasinate astryd, how is this self defense? Then the bandit starts the killing blow 
-NOTE: Chryst does not make the decision to intervene himself. His sword is glowing, which is the goddess telling him to intervene. He trust the goddess blindly and therefore makes the decision to intervene.
+Chryst offers to help, but Astryd shouts for him to stay back. She warns him that it is illegal for a commoner—especially a foreigner from [[Yswyndt]], the last northern nation not yet occupied by [[Maxt]]—to use magical powers or interfere in military issues. If he harms the bandit, he could be arrested for manslaughter.
 
-Ignoring the threat of arrest, Chryst intervenes as the bandit leader prepares to strike the killing blow. He manifest a powerful "bubble" around Astryd, deflecting the heavy blade. Chryst then engages the leader with his glowing holy sword. The bandit, surprised by the divine power, flees into the night, promising to return with more men.
+As Chryst approaches, the bandit leader pauses, eyeing the priest with a mix of curiosity and contempt. "Why would you risk your life for a stranger?" the bandit asks, his voice harsh. "Especially for one who serves the empire that crushed your neighbors?"
+
+"It is the way of my goddess to help those in need," Chryst answers, his voice steady. "Thou shalt not kill."
+
+The bandit's eyes flash with anger. "The nation of [[Maxt]] is cruel and oppressive! The people of [[Norholdt]] are suffering under their boots. Many of my people were slaughtered by Maxt soldiers. We have a right to live in peace, and I am fighting for our freedom!"
+
+Chryst's expression softens. "You are right to want your homeland back. But your methods—fighting and killing—are not the way. You should only strike in self-defense."
+
+"They invaded my home!" the bandit snarls. "Is this not self-defense?"
+
+"You came here to assassinate Astryd," Chryst counters. "How is that defense?"
+
+As the bandit prepares his killing blow, Chryst feels a familiar warmth. His holy sword begins to glow with an intense, divine light. It is not his own decision to step in; it is the goddess telling him to intervene. Trusting her blindly, he moves.
+
+Ignoring the threat of arrest, Chryst intervenes. He manifests a powerful [[Holy Shield]] around Astryd, deflecting the heavy blade. Chryst then engages the leader with his glowing holy sword. The bandit leader, already wounded and sensing that Chryst's divine power is too formidable to overcome in his current state, chooses to disengage. He flees into the night, promising to return with more men.
 
 SUMMARY
-[[Chryst]] wakes up to a bandit raid and saves [[Astryd]] from certain death. Despite her warnings of the legal consequences of using his [[Cult of Fayth]] powers, he drives off the bandit leader.
+[[Chryst]] wakes up to a bandit raid and saves [[Astryd]] from certain death. After a moral debate with the bandit leader, and guided by his goddess's will through his glowing sword, he drives off the attackers using a [[Holy Shield]].
 
 ### music
 - Battle Theme (Urgent, Cold)
@@ -29,13 +38,14 @@ SUMMARY
 | property                  | value |
 | ------------------------- | ----- |
 | name of scene             | The Midnight Raid |
-| location                  | [[Beisfrost]] Village Streets |
+| location                  | [[Bysfrost]] Village Streets |
 | time of day               | Night |
 | perspective / protagonist | [[Chryst]] |
 | mood / lighting           | Dark, Brutal, Heroic |
 | soundtracks               | Battle Theme |
-| important features        | [[Maxt]] legal restrictions on magic |
-| plot                      | Chryst breaks the law to save a life |
+| important features        | [[Maxt]] legal restrictions; Glowing sword (Goddess's Will) |
+| plot                      | Chryst breaks the law, following the Goddess's will |
+
 
 ## four central questions
 
@@ -50,14 +60,14 @@ SUMMARY
 
 | property                                                               | answer |
 | ---------------------------------------------------------------------- | ------ |
-| how does this scene develop the character?                             | Chryst chooses his morals over legal safety |
-| how does this scene further the plot?                                  | Bonds Chryst and Astryd through a shared life-or-death moment |
-| how does this scene teach the audience something new about this world? | Reinforces the strict and often oppressive legal framework of Maxt |
+| how does this scene develop the character?                             | Chryst chooses his morals, blind devotion to his goddess, over legal safety |
+| how does this scene further the plot?                                  | Bonds Chryst and Astryd through a shared life-or-death moment, and sets up future conflict with the bandit leader |
+| how does this scene teach the audience something new about this world? | Reinforces the strict and oppressive legal framework of Maxt, and the harsh realities of life in the nordic lands |
 
 ## character developments
 orphan->wanderer->warrior->martyr
 
 | character | phase | want | obstacle | solution | twist | tracking: Headlines |
 | --------- | ----- | ---- | -------- | -------- | ----- | ------------------- |
-| [[Chryst]] | Wanderer | Peace | Bandit Leader | Holy Sword / Bubble | Illegal intervention | Hero of the Night |
+| [[Chryst]] | Wanderer | Peace | Bandit Leader | Goddess's Will / [[Holy Shield]] | Illegal intervention | Guided by Faith |
 | [[Astryd]] | Warrior | Victory | Overwhelming force | Chryst's help | Humiliation | Saved by a "Peasant" |

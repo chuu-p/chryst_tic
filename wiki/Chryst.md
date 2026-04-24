@@ -41,10 +41,9 @@ When did the character learn to behave in this way? How did it help them?
 
 ## CORE URGE
 
-A compulsion
-Note: this is a general solution to a specific problem.
+**To revive his brother at any cost.**
 
-In order to survive / get my needs met, I must...
+In order to survive and fulfill his ultimate goal, Chryst must amass enough followers and Fayth to manifest a miracle capable of splitting their fused souls and restoring his brother to life. This obsession driving his every action, often at the expense of his own well-being and relationships.
 
 ## STATED BELIEF (LIE)
 

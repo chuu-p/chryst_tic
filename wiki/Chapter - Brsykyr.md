@@ -23,16 +23,22 @@ chapter_next:
 the tournament is on one day and the final is on the next day. in the evening they have a press conference in a tavern
 chryst and the Maxt Champion [[Fexta]] are the finalists
 
-NOTE: Rewrite this entire dialogue with better writing style. it should be high fantasy novel style with a bit of nordic noir tone.
-someone in the tavern asks chryst: we heard, that you have struck a deal with mayor and your religion will be allowed if you win, is this why you are competing in the tournament?
-chryst: i am just following the way the goddess intended for me. this is the way she made me.
-and someone asks his opponent: why are you competing in the tournament? is it the slave [[Tymo]] or the money?
-fexta: the slave or the money? i dont want it. keep it. i just want to hurt people. this is how god created me. i just follow my natural way, and what i like most is hurting and killing people. i dont even hate them. 
-cause im in pain, i want them to see pain, i want his kids to feel pain. they also dont care about me or my kids. 
-fighting is the loneliest job in the world. i didnt fuck my wife in a year. and she probably glad about that. you think i care about some guy i am fighting or prizes? i havent seen my kids in months. 
-someone: why? 
-Fexta: none of your damm business. you think i care about you or anyone, i dont care about living or dying. i dont know why god created my this way and why he had me live my life in this way up until now.
-Chryst: Your god gave you the gift of strength, to bring pain to others but my goddess gave me the strength, to judge and punish the evil. Lets see who is stronger tomorrow.  
+The tavern was thick with the scent of stale ale and the sweat of desperate men. A voice, rasping and cynical, cut through the gloom.
+
+"Priest," a man sneered, leaning over his mug. "They say you've bartered with the Mayor. That your goddess gets her foothold in Brsykyr only if you bleed for it in the arena. Is that all your faith is worth? A wager?"
+
+Chryst looked at him, his eyes steady despite the weariness in his bones. "I walk the path the Megami has carved before me," he replied, his voice a low resonance in the quiet room. "It is not for me to question the stones she places beneath my feet, only to tread upon them with purpose."
+
+The attention turned to the shadow in the corner—Fexta, the Maxt champion, whose very presence seemed to drain the warmth from the hearth.
+
+"And you, Fexta?" another asked, his voice trembling. "What drives a man like you? Is it the Syrvann slave, Tymo? Or the gold the Mayor promises?"
+
+Fexta didn't look up from the whetstone he was dragging across his blade. The sound was like a dying scream. "Gold? Slaves?" he spat, the words like cold ash. "Keep them. They are burdens for the weak. I seek only the communion of the strike, the heavy silence that follows the breaking of a man. This is how the Maker forged me—a vessel for the world’s cruelty."
+
+He finally looked up, his eyes hollow and dark as a winter sea. "I feel only the gnawing ache of the void. If I cannot fill it, I will make the world scream with me. You think I fight for prizes? For family? I have forgotten the face of my wife, and my children would sooner weep at my return than my death. The arena is the only place where the world makes sense. In the blood, there is no lie."
+
+"Then we are more alike than you know," Chryst said, standing. "But where your god gave you the strength to spread the cold you carry, my Goddess has granted me the fire to purge it. Tomorrow, we shall see which will endure the frost."
+- at night he is not nervous and wonders about this. why am i not nervous? he just sleeps well
 They fight and chryst wins, because Astryd prays for him and he feels the fayth entering his body and says he can win because someone believes in him. Together we are strong. One Love.
 - chryst instantly gains a lot of followers for his religion, because he showed that his religion is stronger than the [[Cult of Maxt]] religion in this specific battle.
 - Chryst gets his slave [[Tymo]], because he won the tournament. chryst instantly grants tymo freedom and says he can come with him if he wants to, but does not have to. they will travel together and he will get a stake in the company, so that if they make money, he will earn some too. tymo is impressed by Chryst's strength and character and wants to free his people (Syrvann (Nordic country 2, like sweden))
@@ -55,12 +61,12 @@ in a later chapter, in the [[Maxt Capital City]], the supreme leader of [[Maxt]]
 
 ## Chapter Info
 
-| property        | value |
-| --------------- | ----- |
-| Location        |       |
-| Main Characters |       |
-| Key Themes      |       |
-| Primary Outcome |       |
+| property        | value                                                                                        |
+| --------------- | -------------------------------------------------------------------------------------------- |
+| Location        | Brsykyr, the occupied capital of [[Norholdt]]                                               |
+| Main Characters | [[Chryst]], [[Astryd]], [[Fexta]], [[Tymo]], [[Brsykyr occupational Mayor]]                  |
+| Key Themes      | Rebirth, the weight of power, the clash of ideologies (Strength vs. Faith), Nordic Noir      |
+| Primary Outcome | Chryst wins the tournament, legalizes the Cult of Fayth in Brsykyr, and goes to Maxt Capital |
 
 ## Character Arcs
 

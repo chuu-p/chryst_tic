@@ -16,7 +16,7 @@ Astryd looks up at him, her eyes red with frustration and shame. She hates him i
 
 Chryst shakes his head slowly. "No," he replies. "I do not seek to save your pride. I simply follow the way my goddess leads me."
 
-The response leaves Astryd in a deeper state of depression. Her old world is gone, and the man who saved her offers no easy comfort for her ego. Her path forward will be to regain faith not in her nation or her title, but in herself—developing an individual sense of worth that is not tied to being a knight of Maxt.
+The Astryd suddenly realizes, that chryst has demonstrated, that his religion is actually stronger than the [[Cult of Maxt]], and the bandits too, and she is alive because of the [[Cult of Fayth]], so she starts to believe in the Cult of fayth and becomes chrysts first follower of his new religion and develops a crush on him. Her old world is gone, and the man who saved her offers no easy comfort for her ego. Her path forward will be to help chryst from behind the scenes in maxt by manipulating key people to help chryst. She will regain faith not in her nation or her title, but in herself—developing an individual sense of worth and morals that is not tied to being a knight of Maxt.
 
 Seeing the village's need for hope and direction, Chryst asks the Mayor for permission to establish a community of the [[Cult of Fayth]]. Moved by Chryst's actions during the raid, the Mayor agrees, giving Chryst the space to build his first church.
 

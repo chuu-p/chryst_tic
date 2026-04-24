@@ -1,21 +1,21 @@
 # Welcome to the Chryst_TIC Wiki
 
-Welcome to the official documentation for **Chryst_TIC**, a story-driven RPG built for the TIC-80 fantasy console.
+Welcome to the official documentation for **Chryst**, a Christpunk story.
 
 ## Quick Links
 
-### 👤 Characters
+### Characters
 - **[[Chryst]]**: Our protagonist, a priest-mage on a mission to revive his brother.
 - **[[Astryd]]**: A fallen knight of the Maxt nation, bound by duty and debt.
 
-### 🗺️ Story Chapters
+### Story Chapters
 - **[[Chapter - Bysfrost]]**: The arrival of Chryst and the establishment of the first mission.
     - [[Scene - Arrival at Bysfrost Tavern]]
     - [[Scene - The Midnight Raid]]
     - [[Scene - A Broken Knight's Grace]]
     - [[Scene - The First Mission]]
 
-### 📜 Knowledge Base
+### Knowledge Base
 - **[[Holy Shield]]**: Details on the iconic divine protection spell.
 - **[[Cult of Fayth]]**: The religious order and magical tradition of the north.
 

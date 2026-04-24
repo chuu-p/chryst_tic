@@ -7,21 +7,14 @@ religion: "[[T Cult]]"
 
 ## Appearance
 
-
 ## Personality
 
+### GOALS
 
-### GOALS 
+### RELATIONSHIPS
 
+### LIFESTYLE
 
-### RELATIONSHIPS 
-
-
-### LIFESTYLE 
-
-
-### PRESENTATION 
-
+### PRESENTATION
 
 ### DIALOGUE
-

@@ -3,6 +3,7 @@ type: "[[T Scene]]"
 scene_previous:
 scene_next: "[[Scene - The Midnight Raid]]"
 ---
+
 # Scene: Arrival at Bysfrost Tavern
 
 [[Chryst]] arrives in [[Bysfrost]] after a few weeks at sea, traveling from his homeland of [[Yswyndt]]. The village is cold and weary, its atmosphere heavy with the weight of the ongoing war and the "protection" of the [[Maxt]] nation.
@@ -19,43 +20,44 @@ SUMMARY
 [[Chryst]] arrives in [[Bysfrost]] and visits the local tavern. There, he overhears [[Astryd]] boasting about [[Maxt]]'s protection and intervenes in a physical altercation using a [[Holy Shield]]. Instead of gratitude, he receives a death threat from the knight he protected.
 
 ### music
+
 - Tavern Theme (Boisterous but weary)
 
 ## scene info
 
-| property                  | value |
-| ------------------------- | ----- |
-| name of scene             | Arrival at Bysfrost Tavern |
-| location                  | [[Bysfrost Tavern]] |
-| time of day               | Afternoon / Evening |
-| perspective / protagonist | [[Chryst]] |
-| mood / lighting           | Cold, Tense, Dimly lit |
-| soundtracks               | Tavern Theme |
-| important features        | [[Astryd]]'s drunken boasting, First use of [[Holy Shield]] |
+| property                  | value                                                                |
+| ------------------------- | -------------------------------------------------------------------- |
+| name of scene             | Arrival at Bysfrost Tavern                                           |
+| location                  | [[Bysfrost Tavern]]                                                  |
+| time of day               | Afternoon / Evening                                                  |
+| perspective / protagonist | [[Chryst]]                                                           |
+| mood / lighting           | Cold, Tense, Dimly lit                                               |
+| soundtracks               | Tavern Theme                                                         |
+| important features        | [[Astryd]]'s drunken boasting, First use of [[Holy Shield]]          |
 | plot                      | Introduction of the conflict between Maxt and locals; Astryd's pride |
-
 
 ## four central questions
 
-| property                            | value |
-| ----------------------------------- | ----- |
-| who is your main character?         | [[Chryst]] |
-| what are they trying to accomplish? | Find rest and assess the local situation |
-| who's trying to stop them?          | Local tensions and drunken rowdiness |
+| property                            | value                                               |
+| ----------------------------------- | --------------------------------------------------- |
+| who is your main character?         | [[Chryst]]                                          |
+| what are they trying to accomplish? | Find rest and assess the local situation            |
+| who's trying to stop them?          | Local tensions and drunken rowdiness                |
 | what happens if they fail?          | He remains exposed and without a base of operations |
 
 ## character developments
 
-| property                                                               | answer |
-| ---------------------------------------------------------------------- | ------ |
-| how does this scene develop the character?                             | Shows Chryst's instinctive need to protect, even for those he doesn't know |
-| how does this scene further the plot?                                  | Establishes the relationship between Chryst and Astryd |
+| property                                                               | answer                                                                            |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| how does this scene develop the character?                             | Shows Chryst's instinctive need to protect, even for those he doesn't know        |
+| how does this scene further the plot?                                  | Establishes the relationship between Chryst and Astryd                            |
 | how does this scene teach the audience something new about this world? | Introduces the strained relationship between Maxt and its "protected" territories |
 
 ## character developments
+
 orphan->wanderer->warrior->martyr
 
-| character | phase | want | obstacle | solution | twist | tracking: Headlines |
-| --------- | ----- | ---- | -------- | -------- | ----- | ------------------- |
-| [[Chryst]] | Wanderer | Rest | Tavern brawl | [[Holy Shield]] | Instinctive magic | Death threat from the protected |
-| [[Astryd]] | Warrior | Glory | Local resentment | Chryst's intervention | Insulted pride | "Never cast a spell on me again" |
+| character  | phase    | want  | obstacle         | solution              | twist             | tracking: Headlines              |
+| ---------- | -------- | ----- | ---------------- | --------------------- | ----------------- | -------------------------------- |
+| [[Chryst]] | Wanderer | Rest  | Tavern brawl     | [[Holy Shield]]       | Instinctive magic | Death threat from the protected  |
+| [[Astryd]] | Warrior  | Glory | Local resentment | Chryst's intervention | Insulted pride    | "Never cast a spell on me again" |

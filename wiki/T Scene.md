@@ -3,7 +3,9 @@ type: "[[T Template]]"
 scene_previous:
 scene_next:
 ---
+
 SUMMARY - this and that happens
+
 ### music
 
 ## scene info
@@ -18,6 +20,7 @@ SUMMARY - this and that happens
 | soundtracks               |       |
 | important features        |       |
 | plot                      |       |
+
 ## four central questions
 
 | property                            | value |
@@ -36,6 +39,7 @@ SUMMARY - this and that happens
 | how does this scene teach the audience something new about this world? |        |
 
 ## character developments
+
 orphan->wanderer->warrior->martyr
 
 | character | phase | want | obstacle | solution | twist | tracking: Headlines |

@@ -31,44 +31,45 @@ SUMMARY
 [[Chryst]] establishes the [[Cult of Fayth]] in [[Bysfrost]], training the villagers and even forgiving the bandits. However, his illegal use of magic catches up with him when [[Astryd]] receives orders from [[Bryskyr]] to arrest him and bring him in for trial.
 
 ### music
+
 - Divine Hymn (Grand, Hopeful)
 
 ## scene info
 
-| property                  | value |
-| ------------------------- | ----- |
-| name of scene             | The First Mission |
-| location                  | [[Bysfrost]] Church / Gates |
-| time of day               | Sunday Evening |
-| perspective / protagonist | [[Chryst]] |
-| mood / lighting           | Grand, Triumphant |
-| soundtracks               | Divine Hymn |
+| property                  | value                                                 |
+| ------------------------- | ----------------------------------------------------- |
+| name of scene             | The First Mission                                     |
+| location                  | [[Bysfrost]] Church / Gates                           |
+| time of day               | Sunday Evening                                        |
+| perspective / protagonist | [[Chryst]]                                            |
+| mood / lighting           | Grand, Triumphant                                     |
+| soundtracks               | Divine Hymn                                           |
 | important features        | Altar of Fayth, 365-page Prayer Book, Order of Arrest |
-| plot                      | Establishment of the mission; Departure under arrest |
-
+| plot                      | Establishment of the mission; Departure under arrest  |
 
 ## four central questions
 
-| property                            | value |
-| ----------------------------------- | ----- |
-| who is your main character?         | [[Chryst]] |
-| what are they trying to accomplish? | Secure the mission and continue his journey |
-| who's trying to stop them?          | The returning bandits |
+| property                            | value                                        |
+| ----------------------------------- | -------------------------------------------- |
+| who is your main character?         | [[Chryst]]                                   |
+| what are they trying to accomplish? | Secure the mission and continue his journey  |
+| who's trying to stop them?          | The returning bandits                        |
 | what happens if they fail?          | The mission is destroyed before it can begin |
 
 ## character developments
 
-| property                                                               | answer |
-| ---------------------------------------------------------------------- | ------ |
-| how does this scene develop the character?                             | Chryst proves his power is tied to community, not just himself |
-| how does this scene further the plot?                                  | Transitions the story to [[Bryskyr]] with Chryst as a prisoner-escort |
+| property                                   | answer                                                                |
+| ------------------------------------------ | --------------------------------------------------------------------- |
+| how does this scene develop the character? | Chryst proves his power is tied to community, not just himself        |
+| how does this scene further the plot?      | Transitions the story to [[Bryskyr]] with Chryst as a prisoner-escort |
 
 | how does this scene teach the audience something new about this world? | Demonstrates the mechanics of "Holy Scripture" magic |
 
 ## character developments
+
 orphan->wanderer->warrior->martyr
 
-| character | phase | want | obstacle | solution | twist | tracking: Headlines |
-| --------- | ----- | ---- | -------- | -------- | ----- | ------------------- |
-| [[Chryst]] | Warrior | Security | Order of Arrest | Faith/Yielding | The trial awaits | Prisoner-Priest |
-| [[Astryd]] | Warrior | Duty | Arresting a savior | Hiring for "protection" | Conflict of loyalty | Reluctant Arrestor |
+| character  | phase   | want     | obstacle           | solution                | twist               | tracking: Headlines |
+| ---------- | ------- | -------- | ------------------ | ----------------------- | ------------------- | ------------------- |
+| [[Chryst]] | Warrior | Security | Order of Arrest    | Faith/Yielding          | The trial awaits    | Prisoner-Priest     |
+| [[Astryd]] | Warrior | Duty     | Arresting a savior | Hiring for "protection" | Conflict of loyalty | Reluctant Arrestor  |

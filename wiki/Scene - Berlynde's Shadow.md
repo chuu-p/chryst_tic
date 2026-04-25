@@ -12,43 +12,43 @@ _Tense, percussive cello with sudden, sharp violin stabs. The sound of distant a
 
 ## scene info
 
-| property                  | value                                                            |
-| ------------------------- | ---------------------------------------------------------------- |
-| name of scene             | Berlynde's Shadow                                                |
-| location                  | The Wounded Trench, Yswyndt Outskirts                            |
-| time of day               | High Noon, choked by grey smog                                   |
-| perspective / protagonist | Helfrych (17 years old)                                          |
-| mood / lighting           | Chaotic, muddy, orange flashes of explosion through thick fog    |
-| soundtracks               | 'The Trench's Breath', 'Flesh and Iron'                          |
-| important features        | Berlynde's Obsidian Aegis, Helfrych and Cosymo's coordination    |
-| plot                      | Teamwork allows them to resist Berlynde; Cosymo takes the blow   |
+| property                  | value                                                          |
+| ------------------------- | -------------------------------------------------------------- |
+| name of scene             | Berlynde's Shadow                                              |
+| location                  | The Wounded Trench, Yswyndt Outskirts                          |
+| time of day               | High Noon, choked by grey smog                                 |
+| perspective / protagonist | Helfrych (17 years old)                                        |
+| mood / lighting           | Chaotic, muddy, orange flashes of explosion through thick fog  |
+| soundtracks               | 'The Trench's Breath', 'Flesh and Iron'                        |
+| important features        | Berlynde's Obsidian Aegis, Helfrych and Cosymo's coordination  |
+| plot                      | Teamwork allows them to resist Berlynde; Cosymo takes the blow |
 
 ## four central questions
 
-| property                            | value                                                              |
-| ----------------------------------- | ------------------------------------------------------------------ |
-| who is your main character?         | Helfrych                                                           |
-| what are they trying to accomplish? | To repel General Berlynde and protect his brother.                 |
-| who's trying to stop them?          | General [[Berlynde]] and her forbidden shadow magic.             |
-| what happens if they fail?          | Both brothers die, and the Yswyndt line collapses.                 |
+| property                            | value                                                |
+| ----------------------------------- | ---------------------------------------------------- |
+| who is your main character?         | Helfrych                                             |
+| what are they trying to accomplish? | To repel General Berlynde and protect his brother.   |
+| who's trying to stop them?          | General [[Berlynde]] and her forbidden shadow magic. |
+| what happens if they fail?          | Both brothers die, and the Yswyndt line collapses.   |
 
 ## character developments
 
-| scene question (have at least 2 answered)                              | answer                                                                                                 |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| how does this scene develop the character?                             | It highlights Helfrych’s reliance on Cosymo and his sudden, devastating loss.                          |
-| how does this scene further the plot?                                  | It introduces the **Touch of Death** and forces the transformation into [[Chryst]].                   |
-| how does this scene teach the audience something new about this world? | It contrasts the power of trust/fayth against the cold efficiency of isolated imperial command.        |
+| scene question (have at least 2 answered)                              | answer                                                                                          |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| how does this scene develop the character?                             | It highlights Helfrych’s reliance on Cosymo and his sudden, devastating loss.                   |
+| how does this scene further the plot?                                  | It introduces the **Touch of Death** and forces the transformation into [[Chryst]].             |
+| how does this scene teach the audience something new about this world? | It contrasts the power of trust/fayth against the cold efficiency of isolated imperial command. |
 
 ## character developments
 
 orphan->wanderer->warrior->martyr
 
-| character | phase    | want                 | obstacle              | solution                 | twist                                            | tracking: Headlines   |
-| --------- | -------- | -------------------- | --------------------- | ------------------------ | ------------------------------------------------ | --------------------- |
-| Helfrych  | Warrior  | To stay together     | Berlynde’s Shadow     | Teamwork Coordination    | Their trust is their strength and their undoing. | The Bond of the North |
-| Cosymo    | Warrior  | To save Helfrych     | The Touch of Death    | Mutual Sacrifice         | He takes the hit intended for his brother.       | The Fallen Shield     |
-| Berlynde  | Antagonist| To conquer the trench | Lack of subordinate loyalty | Forbidden Shadow Magic | She is more powerful but more alone.            | The Lone Aegis        |
+| character | phase      | want                  | obstacle                    | solution               | twist                                            | tracking: Headlines   |
+| --------- | ---------- | --------------------- | --------------------------- | ---------------------- | ------------------------------------------------ | --------------------- |
+| Helfrych  | Warrior    | To stay together      | Berlynde’s Shadow           | Teamwork Coordination  | Their trust is their strength and their undoing. | The Bond of the North |
+| Cosymo    | Warrior    | To save Helfrych      | The Touch of Death          | Mutual Sacrifice       | He takes the hit intended for his brother.       | The Fallen Shield     |
+| Berlynde  | Antagonist | To conquer the trench | Lack of subordinate loyalty | Forbidden Shadow Magic | She is more powerful but more alone.             | The Lone Aegis        |
 
 ---
 
@@ -58,7 +58,7 @@ The air was a thick sludge of oil and iron, but Helfrych didn't need to look to 
 
 "Heave!" Helfrych barked.
 
-He surged upward, the golden winds of fayth swirling around his hands to create a momentary barrier. Cosymo didn't hesitate. He dived under the shield, his short sword carving a path through the Maxt vanguard with a precision born of years of shared practice. 
+He surged upward, the golden winds of fayth swirling around his hands to create a momentary barrier. Cosymo didn't hesitate. He dived under the shield, his short sword carving a path through the Maxt vanguard with a precision born of years of shared practice.
 
 Across the cratered field, [[Berlynde]] watched, her black plate armor reflecting the fires of the burning trenches. Her men stood several paces behind her, their eyes wide with a fear that wasn't for the enemy, but for the woman they served.
 
@@ -78,7 +78,7 @@ She dropped her guard, a move so reckless Helfrych hesitated. Her gauntlet began
 
 Berlynde lunged. Her hand, wreathed in the killing shadow, reached for Helfrych’s throat. Helfrych stood frozen, the golden winds around him faltering under the weight of the void.
 
-*Thump.*
+_Thump._
 
 A body slammed into him, knocking him back into the bloody slush of the trench.
 
@@ -92,9 +92,9 @@ Cosymo didn't fall. He grabbed Berlynde’s arm, his grip tightening even as his
 
 "Do it, brother," Cosymo wheezed. "Rewrite the rules."
 
-Berlynde pulled back, her shadow-exhausted form stumbling into the fog as her men finally rushed forward to retrieve her. 
+Berlynde pulled back, her shadow-exhausted form stumbling into the fog as her men finally rushed forward to retrieve her.
 
-Helfrych was left in the mud, clutching his brother's darkening body. The holy magic was useless here. The Goddess was silent. 
+Helfrych was left in the mud, clutching his brother's darkening body. The holy magic was useless here. The Goddess was silent.
 
 He reached into the hidden folds of his robes, touching the unholy scripts.
 

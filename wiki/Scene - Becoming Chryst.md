@@ -12,42 +12,42 @@ _Glitchy, distorted industrial synths that sound like a heart monitor failing, t
 
 ## scene info
 
-| property                  | value                                                              |
-| ------------------------- | ------------------------------------------------------------------ |
-| name of scene             | Becoming Chryst                                                     |
-| location                  | The Heart of the Trench, Yswyndt                                   |
-| time of day               | Sunset, blood-red light filtering through smoke                   |
-| perspective / protagonist | Chryst (The Fused)                                                 |
+| property                  | value                                                                |
+| ------------------------- | -------------------------------------------------------------------- |
+| name of scene             | Becoming Chryst                                                      |
+| location                  | The Heart of the Trench, Yswyndt                                     |
+| time of day               | Sunset, blood-red light filtering through smoke                      |
+| perspective / protagonist | Chryst (The Fused)                                                   |
 | mood / lighting           | Visceral, terrifying, a blue-cyan glow emanating from Chryst's chest |
-| soundtracks               | 'Soul-Stitch', 'The Resin Seal'                                    |
-| important features        | The [[Cyan Resin]] Gem, The Twin Hearts, The [[Unholy Bible]]      |
-| plot                      | Helfrych merges with Cosymo to save his soul; they become "Chryst" |
+| soundtracks               | 'Soul-Stitch', 'The Resin Seal'                                      |
+| important features        | The [[Cyan Resin]] Gem, The Twin Hearts, The [[Unholy Bible]]        |
+| plot                      | Helfrych merges with Cosymo to save his soul; they become "Chryst"   |
 
 ## four central questions
 
-| property                            | value                                                               |
-| ----------------------------------- | ------------------------------------------------------------------- |
-| who is your main character?         | Chryst                                                              |
+| property                            | value                                                              |
+| ----------------------------------- | ------------------------------------------------------------------ |
+| who is your main character?         | Chryst                                                             |
 | what are they trying to accomplish? | To preserve his brother's life at any cost, even his own humanity. |
-| who's trying to stop them?          | Death itself and the entropy of the unholy ritual.                  |
+| who's trying to stop them?          | Death itself and the entropy of the unholy ritual.                 |
 | what happens if they fail?          | Both brothers are consumed by the void.                            |
 
 ## character developments
 
-| scene question (have at least 2 answered)                              | answer                                                                                                 |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| how does this scene develop the character?                             | It marks the end of Helfrych and the birth of Chryst—a twin-souled force of nature.                    |
-| how does this scene further the plot?                                  | It launches the new entity of Chryst and his mission for global Fayth.                                 |
-| how does this scene teach the audience something new about this world? | It reveals the physical and spiritual cost of soul-fusion and the creation of the resin-heart.         |
+| scene question (have at least 2 answered)                              | answer                                                                                         |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| how does this scene develop the character?                             | It marks the end of Helfrych and the birth of Chryst—a twin-souled force of nature.            |
+| how does this scene further the plot?                                  | It launches the new entity of Chryst and his mission for global Fayth.                         |
+| how does this scene teach the audience something new about this world? | It reveals the physical and spiritual cost of soul-fusion and the creation of the resin-heart. |
 
 ## character developments
 
 orphan->wanderer->warrior->martyr
 
-| character | phase    | want                    | obstacle           | solution                      | twist                                                | tracking: Headlines            |
-| --------- | -------- | ----------------------- | ------------------ | ----------------------------- | ---------------------------------------------------- | ------------------------------ |
-| Helfrych  | Warrior  | To defy the Grave       | Cosymo's death     | Unholy Soul-Fusion            | To save Cosymo, he must cease to exist as himself.  | The Fusion of Essence          |
-| Cosymo    | Martyr   | To be saved             | Mortal entropy     | Becoming the frozen heart     | He is the battery now, the cold beat of Sundays.    | The Heart in the Gem           |
+| character | phase   | want              | obstacle       | solution                  | twist                                              | tracking: Headlines   |
+| --------- | ------- | ----------------- | -------------- | ------------------------- | -------------------------------------------------- | --------------------- |
+| Helfrych  | Warrior | To defy the Grave | Cosymo's death | Unholy Soul-Fusion        | To save Cosymo, he must cease to exist as himself. | The Fusion of Essence |
+| Cosymo    | Martyr  | To be saved       | Mortal entropy | Becoming the frozen heart | He is the battery now, the cold beat of Sundays.   | The Heart in the Gem  |
 
 ---
 
@@ -73,7 +73,7 @@ The golden life-winds of Cosymo's spirit rose, but it didn't flee toward the Aet
 
 Then came the part the scripts had warned of. The communion. To bind the souls, one must bind the flesh. Helfrych leaned down. He didn't see a brother anymore; he saw a vessel. He saw the only way to keep the promise he had made in the meadow so many years ago.
 
-He performed the ritual. The air in the trench turned into a vortex of blue energy and blood. Helfrych's final scream was double-toned—his own high-pitched agony and Cosymo's deep, dying rumble. 
+He performed the ritual. The air in the trench turned into a vortex of blue energy and blood. Helfrych's final scream was double-toned—his own high-pitched agony and Cosymo's deep, dying rumble.
 
 A flash of cyan light blinded everything for a kilometer.
 

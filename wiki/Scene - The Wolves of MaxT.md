@@ -12,16 +12,16 @@ _Deep, sustained cello with a cold, glassy reverb._
 
 ## scene info
 
-| property                  | value                                                                 |
-| ------------------------- | --------------------------------------------------------------------- |
-| name of scene             | The Wolves of MaxT                                                    |
-| location                  | The Southern Ramparts, Yswyndt                                        |
-| time of day               | Pre-dawn, the 'Ghost Hour'                                            |
-| perspective / protagonist | Helfrych (17 years old)                                               |
-| mood / lighting           | Stark, monochromatic, flickers of orange campfires in the dark        |
-| soundtracks               | 'Iron Horizon', 'The First Smoke'                                     |
-| important features        | The Banner of the Maxt Empire, Helfrych’s priest robes                |
-| plot                      | The arrival of the MaxT invaders; the start of the war                |
+| property                  | value                                                          |
+| ------------------------- | -------------------------------------------------------------- |
+| name of scene             | The Wolves of MaxT                                             |
+| location                  | The Southern Ramparts, Yswyndt                                 |
+| time of day               | Pre-dawn, the 'Ghost Hour'                                     |
+| perspective / protagonist | Helfrych (17 years old)                                        |
+| mood / lighting           | Stark, monochromatic, flickers of orange campfires in the dark |
+| soundtracks               | 'Iron Horizon', 'The First Smoke'                              |
+| important features        | The Banner of the Maxt Empire, Helfrych’s priest robes         |
+| plot                      | The arrival of the MaxT invaders; the start of the war         |
 
 ## four central questions
 
@@ -34,19 +34,19 @@ _Deep, sustained cello with a cold, glassy reverb._
 
 ## character developments
 
-| scene question (have at least 2 answered)                              | answer                                                                                                 |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| how does this scene develop the character?                             | It shows Helfrych’s transition from a ritualist to a defender; his cool exterior masks deep anxiety.    |
-| how does this scene further the plot?                                  | It launches the conflict that will lead to the "Becoming Chryst" transformation.                      |
-| how does this scene teach the audience something new about this world? | It reveals the visual scale and industrial might of the [[MAXT]] empire.                               |
+| scene question (have at least 2 answered)                              | answer                                                                                               |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| how does this scene develop the character?                             | It shows Helfrych’s transition from a ritualist to a defender; his cool exterior masks deep anxiety. |
+| how does this scene further the plot?                                  | It launches the conflict that will lead to the "Becoming Chryst" transformation.                     |
+| how does this scene teach the audience something new about this world? | It reveals the visual scale and industrial might of the [[MAXT]] empire.                             |
 
 ## character developments
 
 orphan->wanderer->warrior->martyr
 
-| character | phase   | want             | obstacle         | solution         | twist                                         | tracking: Headlines |
-| --------- | ------- | ---------------- | ---------------- | ---------------- | --------------------------------------------- | ------------------- |
-| Helfrych  | Warrior | To hold the line | Imperial numbers | Unyielding focus | The war is more machine than man.             | The Greying Horizon |
+| character | phase   | want              | obstacle         | solution         | twist                                        | tracking: Headlines |
+| --------- | ------- | ----------------- | ---------------- | ---------------- | -------------------------------------------- | ------------------- |
+| Helfrych  | Warrior | To hold the line  | Imperial numbers | Unyielding focus | The war is more machine than man.            | The Greying Horizon |
 | Cosymo    | Warrior | To protect Chryst | His own fear     | Stoic resolve    | Cosymo is better with a blade than a prayer. | The Shield-Brother  |
 
 ---

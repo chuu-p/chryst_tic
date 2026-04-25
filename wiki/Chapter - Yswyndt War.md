@@ -24,20 +24,23 @@ He emerges as **[[Chryst]]**, a twin-hearted "Bloody Phoenix"—a composite enti
 
 ## Chapter Info
 
-| property        | value                                                                                        |
-| --------------- | -------------------------------------------------------------------------------------------- |
-| Location        | Yswyndt Southern Gates, The Trenches                                                         |
-| Main Characters | [[Helfrych]], [[Cosymo]], [[Berlynde]]                                                       |
-| Key Themes      | Teamwork vs Isolation, Sacrifice, The Hero/Priest Hybrid, Detachment                         |
+| property        | value                                                                                     |
+| --------------- | ----------------------------------------------------------------------------------------- |
+| Location        | Yswyndt Southern Gates, The Trenches                                                      |
+| Main Characters | [[Helfrych]], [[Cosymo]], [[Berlynde]]                                                    |
+| Key Themes      | Teamwork vs Isolation, Sacrifice, The Hero/Priest Hybrid, Detachment                      |
 | Primary Outcome | Helfrych becomes Chryst; a ceasefire is established; the global mission for Fayth begins. |
 
 ## Character Arcs
 
 ### Helfrych / Chryst
+
 Helfrych’s journey is one of terminal transformation. He moves from a cooperative, empathetic defender to the detached, goal-oriented Chryst. His new identity is a "Hero/Priest" hybrid—a calm, casual force of nature whose eyes and blade glow with the redirected Fayth of his followers.
 
 ### Cosymo (The Second Heart)
+
 Cosymo transitions from Helfrych’s active protector to the permanent source of his power. As the "frozen heart" within the cyan resin gem, he provides the martial instinct and physical resilience that define Chryst's combat style, while fueling Chryst's singular obsession with his eventual revival.
 
 ### Berlynde
+
 The General serves as a dark mirror to the brothers. Despite her immense power, her lack of trust in her subordinates and her reliance on forbidden shadow magic like the **Touch of Death** ultimately lead to her near-assassination and retreat.

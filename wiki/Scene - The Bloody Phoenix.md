@@ -12,42 +12,42 @@ _Epic, heavy orchestral theme with a driving industrial beat. High-pitched choir
 
 ## scene info
 
-| property                  | value                                                               |
-| ------------------------- | ------------------------------------------------------------------- |
-| name of scene             | The Bloody Phoenix                                                  |
-| location                  | The Breach at Yswyndt Southern Gates                                |
-| time of day               | Sunset / Twilight                                                   |
-| perspective / protagonist | Chryst                                                              |
-| mood / lighting           | Hellish, red, silhouette of Chryst against a burning horizon        |
-| soundtracks               | 'The Bloody Phoenix', 'Awen's Rebuke'                              |
-| important features        | The [[Hero Armor]], The Hero Short Sword, The Cyan Gem’s pulse      |
+| property                  | value                                                                             |
+| ------------------------- | --------------------------------------------------------------------------------- |
+| name of scene             | The Bloody Phoenix                                                                |
+| location                  | The Breach at Yswyndt Southern Gates                                              |
+| time of day               | Sunset / Twilight                                                                 |
+| perspective / protagonist | Chryst                                                                            |
+| mood / lighting           | Hellish, red, silhouette of Chryst against a burning horizon                      |
+| soundtracks               | 'The Bloody Phoenix', 'Awen's Rebuke'                                             |
+| important features        | The [[Hero Armor]], The Hero Short Sword, The Cyan Gem’s pulse                    |
 | plot                      | Chryst repels the vanguard; clashes with an Unnamed General; ceasefire negotiated |
 
 ## four central questions
 
-| property                            | value                                                              |
-| ----------------------------------- | ------------------------------------------------------------------ |
-| who is your main character?         | Chryst                                                             |
-| what are they trying to accomplish? | To annihilate the immediate threat to the Yswyndt gates.            |
-| who's trying to stop them?          | The [[Unnamed Maxt General]] and the imperial vanguard.            |
-| what happens if they fail?          | The gates are breached, and Berlynde's rescue mission succeeds.     |
+| property                            | value                                                           |
+| ----------------------------------- | --------------------------------------------------------------- |
+| who is your main character?         | Chryst                                                          |
+| what are they trying to accomplish? | To annihilate the immediate threat to the Yswyndt gates.        |
+| who's trying to stop them?          | The [[Unnamed Maxt General]] and the imperial vanguard.         |
+| what happens if they fail?          | The gates are breached, and Berlynde's rescue mission succeeds. |
 
 ## character developments
 
-| scene question (have at least 2 answered)                              | answer                                                                                                 |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| how does this scene develop the character?                             | It showcases the "Cool and Casual" combat style of the Hero/Priest hybrid.                             |
-| how does this scene further the plot?                                  | It results in a tactical stalemate that allows for the year-long ceasefire.                             |
-| how does this scene teach the audience something new about this world? | It demonstrates how mass prayer can directly fuel an individual soldier's power.                       |
+| scene question (have at least 2 answered)                              | answer                                                                           |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| how does this scene develop the character?                             | It showcases the "Cool and Casual" combat style of the Hero/Priest hybrid.       |
+| how does this scene further the plot?                                  | It results in a tactical stalemate that allows for the year-long ceasefire.      |
+| how does this scene teach the audience something new about this world? | It demonstrates how mass prayer can directly fuel an individual soldier's power. |
 
 ## character developments
 
 orphan->wanderer->warrior->martyr
 
-| character | phase    | want                         | obstacle             | solution                       | twist                                             | tracking: Headlines            |
-| --------- | -------- | ---------------------------- | -------------------- | ------------------------------ | ------------------------------------------------- | ------------------------------ |
-| Chryst    | Warrior  | To cleanse the valley        | Multiple Generals    | Hero/Priest Synergy             | He fights with the casual ease of a veteran hero. | The Phoenix Rises              |
-|           |          |                              |                      |                                |                                                   |                                |
+| character | phase   | want                  | obstacle          | solution            | twist                                             | tracking: Headlines |
+| --------- | ------- | --------------------- | ----------------- | ------------------- | ------------------------------------------------- | ------------------- |
+| Chryst    | Warrior | To cleanse the valley | Multiple Generals | Hero/Priest Synergy | He fights with the casual ease of a veteran hero. | The Phoenix Rises   |
+|           |         |                       |                   |                     |                                                   |                     |
 
 ---
 
@@ -61,15 +61,15 @@ He stepped out of the frozen crater, the shredded remnants of his priest robes f
 
 The people of Yswyndt were praying. Thousands of them. Chryst could feel their voices as a physical weight—a golden pressure that surged into the cyan gem in his chest.
 
-He didn't run. He moved with a lazy, casual grace, his short sword held loosely at his side. 
+He didn't run. He moved with a lazy, casual grace, his short sword held loosely at his side.
 
 "Open fire!"
 
 The kinetic bolts converged. Chryst didn't raise a shield. He simply tilted his head, the sword flashing in a golden arc that didn't just parry the bolts but redirected them. He looked like Himmel after a decade of peace—relaxed, precise, almost bored.
 
-When the blade struck a Maxt soldier, it didn't just bite through steel. It erupted in a golden flash, the light of the Goddess judging the sinner's weight. 
+When the blade struck a Maxt soldier, it didn't just bite through steel. It erupted in a golden flash, the light of the Goddess judging the sinner's weight.
 
-*Clang.*
+_Clang._
 
 A massive iron spear slammed into the mud before him, stopping his advance. From the smog emerged another [[Unnamed Maxt General]], a giant of a man in heavy steam-powered plate. He had come to retrieve the wounded Berlynde.
 
@@ -81,7 +81,7 @@ Chryst didn't answer. He simply looked at the General with his golden eyes. He r
 
 The General looked at his shattered vanguard, then at the golden aura radiating from Chryst. He knew a losing wager when he saw one.
 
-"This isn't over, Priest," the General spat. He hauled Berlynde’s unconscious form over his shoulder. 
+"This isn't over, Priest," the General spat. He hauled Berlynde’s unconscious form over his shoulder.
 
 "Of course it isn't," Chryst replied, sheathing his sword with a click that sounded like a final period. "But for today, the sun is setting."
 

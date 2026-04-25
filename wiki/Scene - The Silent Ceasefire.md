@@ -12,16 +12,16 @@ _Soft, distant wind chimes and a lonely flute melody. The sound of melting ice._
 
 ## scene info
 
-| property                  | value                                                            |
-| ------------------------- | ---------------------------------------------------------------- |
-| name of scene             | The Silent Ceasefire                                             |
-| location                  | The Yswyndt Monastery, Overlooking the Valley                    |
-| time of day               | Dusk, the return of the 'Blue Hour'                              |
-| perspective / protagonist | Chryst                                                           |
-| mood / lighting           | Melancholic, peaceful but uneasy, soft blue light                |
-| soundtracks               | 'The Year of Silence', 'Departure'                               |
-| important features        | The Ceasefire Scrolls, Chryst’s traveling cloak                  |
-| plot                      | The ceasefire begins; Chryst decides to leave Yswyndt            |
+| property                  | value                                                 |
+| ------------------------- | ----------------------------------------------------- |
+| name of scene             | The Silent Ceasefire                                  |
+| location                  | The Yswyndt Monastery, Overlooking the Valley         |
+| time of day               | Dusk, the return of the 'Blue Hour'                   |
+| perspective / protagonist | Chryst                                                |
+| mood / lighting           | Melancholic, peaceful but uneasy, soft blue light     |
+| soundtracks               | 'The Year of Silence', 'Departure'                    |
+| important features        | The Ceasefire Scrolls, Chryst’s traveling cloak       |
+| plot                      | The ceasefire begins; Chryst decides to leave Yswyndt |
 
 ## four central questions
 
@@ -34,20 +34,20 @@ _Soft, distant wind chimes and a lonely flute melody. The sound of melting ice._
 
 ## character developments
 
-| scene question (have at least 2 answered)                              | answer                                                                                                  |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| how does this scene develop the character?                             | It reveals Chryst's detachment from nationalism; he is now a servant of a singular, private miracle.   |
-| how does this scene further the plot?                                  | It sets up the main quest of the game: traveling to connect the world and gathering allies like Tymo.  |
-| how does this scene teach the audience something new about this world? | It reveals the concept of [[Fayth]] as a quantifiable resource that can be centralized.                 |
+| scene question (have at least 2 answered)                              | answer                                                                                                |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| how does this scene develop the character?                             | It reveals Chryst's detachment from nationalism; he is now a servant of a singular, private miracle.  |
+| how does this scene further the plot?                                  | It sets up the main quest of the game: traveling to connect the world and gathering allies like Tymo. |
+| how does this scene teach the audience something new about this world? | It reveals the concept of [[Fayth]] as a quantifiable resource that can be centralized.               |
 
 ## character developments
 
 orphan->wanderer->warrior->martyr
 
-| character | phase    | want                | obstacle          | solution               | twist                                             | tracking: Headlines  |
-| --------- | -------- | ------------------- | ----------------- | ---------------------- | ------------------------------------------------- | -------------------- |
-| Chryst    | Wanderer | To scale his reach  | Limited geography | A global Fayth network | His homeland is merely the first node in his grid. | The First Step South |
-|           |          |                     |                   |                        |                                                   |                      |
+| character | phase    | want               | obstacle          | solution               | twist                                              | tracking: Headlines  |
+| --------- | -------- | ------------------ | ----------------- | ---------------------- | -------------------------------------------------- | -------------------- |
+| Chryst    | Wanderer | To scale his reach | Limited geography | A global Fayth network | His homeland is merely the first node in his grid. | The First Step South |
+|           |          |                    |                   |                        |                                                    |                      |
 
 ---
 

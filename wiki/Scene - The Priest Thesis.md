@@ -55,7 +55,7 @@ orphan->wanderer->warrior->martyr
 
 The Great Church of Yswyndt was filled to the rafters. Every villager, from the smallest child to the oldest Elder, stood in hushed expectation. At the altar, [[Fyrchtegott]] watched with his arms tucked into his heavy robes, his face an impenetrable mask of stone.
 
-"Thy thesis is at hand, Chryst," Fyrchtegott’s voice echoed. "Show them the Will of the Awen."
+"Thy thesis is at hand, Chryst," Fyrchtegott’s voice echoed. "Show them the Will of the Goddess."
 
 Chryst stood before a young lamb, its fleece white as the snow outside. He felt [[Cosymo]]'s hand on his shoulder—a warm, solid weight. Through [[Lend Invoke]], Cosymo was already funneling the steady, rhythmic energy of his own life into Chryst, preparing him for the strain.
 

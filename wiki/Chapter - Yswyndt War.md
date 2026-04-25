@@ -1,50 +1,43 @@
 ---
-type: "[[T Template]]"
-chapter_previous:
-chapter_next:
+type: "[[T Chapter]]"
+chapter_previous: "[[Chapter - Yswyndt Origins]]"
+chapter_next: "[[Chapter - Brsykyr]]"
 ---
 
-# Chapter: [Title]
+# Chapter: Yswyndt War
 
 ## Summary
 
-Super important scene: Becoming Chryst
+The peace of Yswyndt is shattered by the industrial might of the [[MAXT]] empire. Seventeen-year-old **Helfrych** and his brother [[Cosymo]] are thrust onto the front lines, defending their homeland against the mechanical efficiency of General [[Berlynde]]. Unlike the imperial forces, which are driven by fear and Berlynde's cold isolation, the brothers fight with a blind trust and teamwork that forges them into a singular shield.
 
-- when they are 17 years old the invaders attack and war breaks out
-  - they fight a harsh battle against the [[Maxt]] empire, where chryst and his brother are fighting [[Berlynde]]
-  - priests can potentially cast holy and unholy magic. but casting unholy magic harms your spirit and you can get psychosis. this is normally forbidden. during war chryst is pressured to use unholy magic too, which he hesitates to perform on humans, since he thinks it is not moral and too dangerous.
-  - Becoming Chryst scene: when his brother is mortally wounded he casts an unholy spell and performs the unholy soul fusing heart freezing ritual and devour corpse ritual
-    - he emerges from the bloody mess as chryst, reborn
-    - a mix of chryst and his brother, with a hero armor, priest robes, a hero short sword, a mix of a priest and hero
-    - where his heart is inside a blue ice gem that have runes carved on them to make it beat once a week on sundays, even though it is frozen, and cast in an icy gem
-    - chryst has one normal heart in his chest and on the other side one frozen heart that is visible from outside, cast in a cyan resin with runes carved into the resin, that beats once a week on sundays
-    - he rises from the bloody mess on the floor amongst corpses as a bloody phoenix, risen again as chryst
+The conflict reaches its climax when Berlynde, a powerful shadow mage, unleashes the forbidden **Touch of Death**. Though her target is Helfrych, Cosymo sacrifices himself to take the lethal blow. Driven by grief and a refusal to let death prevail, Helfrych performs a forbidden soul-fusion ritual, merging with his brother’s essence.
 
-- they continue fighting in the war for a few more years, where chryst gets extremely strong
-  - after a few years the [[Maxt]] empire realizes they cannot win and they agree on a ceasefire deal for a year
-
-now he embarks on a journey to connect the entire world. because even if he connected all of iceland, he would not have enough fayth for the revival ceremony.
-the thing that takes vast amount of energy is the unfreezing of the souls
-he tells everyone of his followers that they dont have to die and he can freeze their souls. even if you would die before heaven on earth
-
-he needs an alteration mage for this soul storing technology. he has an artifact in iceland that can store a small soul but he needs someone to develop better soul storage tevhnologies
-
-[Brief overview of the chapter's importance and plot]
+He emerges as **[[Chryst]]**, a twin-hearted "Bloody Phoenix"—a composite entity with the martial skill of a Hero and the divine radiance of a Priest. After clashing with a second [[Unnamed Maxt General]] who arrives to rescue the wounded Berlynde, Chryst forces an imperial retreat. The chapter ends with a year-long ceasefire, as Chryst, now detached from his homeland and focused solely on his brother's revival, departs the North to connect the world in a global network of [[Fayth]].
 
 ## Scenes
 
-- [[Scene 1]]
-- [[Scene 2]]
+- [[Scene - The Wolves of MaxT]]
+- [[Scene - Berlynde's Shadow]]
+- [[Scene - Becoming Chryst]]
+- [[Scene - The Bloody Phoenix]]
+- [[Scene - The Silent Ceasefire]]
 
 ## Chapter Info
 
-| property        | value |
-| --------------- | ----- |
-| Location        |       |
-| Main Characters |       |
-| Key Themes      |       |
-| Primary Outcome |       |
+| property        | value                                                                                        |
+| --------------- | -------------------------------------------------------------------------------------------- |
+| Location        | Yswyndt Southern Gates, The Trenches                                                         |
+| Main Characters | [[Helfrych]], [[Cosymo]], [[Berlynde]]                                                       |
+| Key Themes      | Teamwork vs Isolation, Sacrifice, The Hero/Priest Hybrid, Detachment                         |
+| Primary Outcome | Helfrych becomes Chryst; a ceasefire is established; the global mission for Fayth begins. |
 
 ## Character Arcs
 
-[Notes on how characters evolve throughout this chapter]
+### Helfrych / Chryst
+Helfrych’s journey is one of terminal transformation. He moves from a cooperative, empathetic defender to the detached, goal-oriented Chryst. His new identity is a "Hero/Priest" hybrid—a calm, casual force of nature whose eyes and blade glow with the redirected Fayth of his followers.
+
+### Cosymo (The Second Heart)
+Cosymo transitions from Helfrych’s active protector to the permanent source of his power. As the "frozen heart" within the cyan resin gem, he provides the martial instinct and physical resilience that define Chryst's combat style, while fueling Chryst's singular obsession with his eventual revival.
+
+### Berlynde
+The General serves as a dark mirror to the brothers. Despite her immense power, her lack of trust in her subordinates and her reliance on forbidden shadow magic like the **Touch of Death** ultimately lead to her near-assassination and retreat.

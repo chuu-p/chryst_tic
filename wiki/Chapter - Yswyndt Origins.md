@@ -1,5 +1,5 @@
 ---
-type: "[[T Template]]"
+type: "[[T Chapter]]"
 chapter_previous:
 chapter_next:
 ---
@@ -25,7 +25,7 @@ The chapter culminates in Chryst's final Priest Thesis: a public ritual during t
 | Location        | Yswyndt Village, The North                                                   |
 | Main Characters | [[Chryst]], [[Cosymo]], [[Fyrchtegott]]                                      |
 | Key Themes      | Empathy, Hubris, Soul-Binding, The Priest's Thesis                           |
-| Primary Outcome | Chryst proves death can be undone; the seed of the [[Cult of Awen]] is sown. |
+| Primary Outcome | Chryst proves death can be undone; the seed of the [[Cult of Fayth]] is sown. |
 
 ## Character Arcs
 

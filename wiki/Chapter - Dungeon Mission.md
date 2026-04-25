@@ -1,5 +1,5 @@
 ---
-type: "[[T Template]]"
+type: "[[T Chapter]]"
 chapter_previous:
 chapter_next:
 ---

@@ -6,10 +6,13 @@ scene_next:
 
 The gates of Brsykyr were tall and cold, their iron bars weeping with the morning mist. [[Chryst]] stood in the archway, his travel-worn robes a stark contrast to the opulence of the city he was leaving behind. With him stood [[Tymo]], the [[Syrvann]] slave he had won in the tournament—though Tymo was a slave no longer.
 
-NOTE: Chryst will not ask Tymo to join him. Chyst tells him he is free and can go where wants. Tymo comes to the conclusion, that he wants to free and unite the four nordic states. And his best bet is to join Chryst. this is why he asks Chryst if he can join him.
-"You are a free man, Tymo," Chryst said, looking out at the winding road.
+"You are a free man, Tymo," Chryst said, looking out at the winding road that led away from the iron gates. "The wager is settled. Go where thy heart leads thee. The North is wide, and thy chains are broken."
 
-Tymo, a man whose silence was as deep as his strength, nodded slowly. "I have seen your power. And I have seen your heart. I want to join you. I will not join the cult of fayth but i will help you spread it. I will unite the four nordic states."
+Tymo, a man whose silence was as deep as his strength, stood still for a long moment, the morning mist clinging to his broad shoulders. He looked not at the road, but at Chryst's hands—hands that had rewritten the fate of Brsykyr.
+
+"I have seen your power, Priest," Tymo said slowly. "And I have seen the rot that eats at the four Nordic states. Alone, I am but a shadow in the snow. But with you... with the Fayth you spread... perhaps I can give my people more than just freedom. I want to unite the states. I want to see them stand as one."
+
+He took a step forward, his eyes locking with Chryst's. "I will not join your faith. But I want to join your cause. Let me join you on this road south. I can help you with your travels, i can scout out for traps and I am a lot of fun to be around."
 
 [[Astryd]] stood nearby, her eyes bright with unshed tears. She had expected to walk this road with him, to be the shield at his side. But Chryst's eyes were fixed on the horizon, his obsession with his mission—with his brother—obscuring the love that stood right before him.
 

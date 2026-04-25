@@ -7,8 +7,11 @@
         "Bysfrost",
         "Christpunk",
         "Chryst",
+        "Cosymo",
         "Fayth",
         "Fexta",
+        "Frydemann",
+        "Fyrchtegott",
         "itertools",
         "izip",
         "Maxt",
@@ -18,7 +21,8 @@
         "Ofyo",
         "rhai",
         "Syrvann",
-        "Tymo"
+        "Tymo",
+        "Yswyndt"
     ],
     "foam.graph.views": [
         {

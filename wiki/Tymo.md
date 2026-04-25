@@ -9,7 +9,7 @@ religion: "[[Cult of Gold]]"
 
 one character is living in a very dystopic state like north korea but keeps his mental freedom (zizek idea) and joins the party as a happy go lucky guy (tymo)
 
-~~~
+```
 Slavoj Žižek has a pretty counterintuitive take on “mental freedom.” For him, we’re *least free* precisely when we think we’re freely choosing—because our desires are often shaped by hidden social pressures rather than explicit rules.
 
 ### The “authoritarian father” vs. “liberal father”
@@ -89,28 +89,29 @@ Mental freedom, for him, begins when you:
 * recognize these hidden pressures
 * question your own desires
 * and see how “your choices” might not be entirely yours
-~~~
+```
 
 beat sheet - tymo
+
 - grew up living in the icy forests with a nomadic hunter tribe from the decentralized country of [[Syrvann]]
-    - even when they had no luck with the hunt and everyone was hungry, they still sang while sitting around the fire and were happy. this is where tymo learned, that just because the situation is bad right now, he does not have to be sad. he is in control of his emotion and decides when to be happy and when to be sad
+  - even when they had no luck with the hunt and everyone was hungry, they still sang while sitting around the fire and were happy. this is where tymo learned, that just because the situation is bad right now, he does not have to be sad. he is in control of his emotion and decides when to be happy and when to be sad
 - the country gets invaded and occupied by the [[MAXT]] empire, and they take slaves
-    - he gets captured by [[MAXT]]
+  - he gets captured by [[MAXT]]
 - life as a slave
-    - they force him become an engineer and make weapons for them, since he is an alteration mage
-    - he performs he job well enough, he keeps some secrets, so that [[MAXT]] do not get gunpowder weapons, which he invents later in the story with chryst. 
-    - he still stays happy, positive and hopeful, while still hating his situation and this nation in general
-- somehow his boss fucks up and he offers tymo as compensation 
-    - he gets put up as a prize by the government, that someone who wins the [[MAXT Tournament]] will win him, and a lot of money
-    - chryst wins the tournament
+  - they force him become an engineer and make weapons for them, since he is an alteration mage
+  - he performs he job well enough, he keeps some secrets, so that [[MAXT]] do not get gunpowder weapons, which he invents later in the story with chryst.
+  - he still stays happy, positive and hopeful, while still hating his situation and this nation in general
+- somehow his boss fucks up and he offers tymo as compensation
+  - he gets put up as a prize by the government, that someone who wins the [[MAXT Tournament]] will win him, and a lot of money
+  - chryst wins the tournament
 - tymo joins chryst
-    - chryst instantly grants tymo freedom and says he can come with him if he wants to, but does not have to. they will travel together and he will get a stake in the company, so that if they make money, he will earn some too
-    - tymo is impressed by chrysts strength and character and wants to free his people
+  - chryst instantly grants tymo freedom and says he can come with him if he wants to, but does not have to. they will travel together and he will get a stake in the company, so that if they make money, he will earn some too
+  - tymo is impressed by chrysts strength and character and wants to free his people
 - ...
 - some story happens
 - ...
 - he invents guns, and would be strong enough to take back his homeland with his people now
-    - If he gives them guns, his people are free but become ruthless conquerors themselves, leaving Tymo devastated by what he created (Punishment). If he chooses the harder, bloodless route, MAXT collapses from within, and Tymo’s people walk away with their humanity intact (Reward). this is the impossible choice. peaceful protest is almost always the correct way.
+  - If he gives them guns, his people are free but become ruthless conquerors themselves, leaving Tymo devastated by what he created (Punishment). If he chooses the harder, bloodless route, MAXT collapses from within, and Tymo’s people walk away with their humanity intact (Reward). this is the impossible choice. peaceful protest is almost always the correct way.
 
 ## Background
 

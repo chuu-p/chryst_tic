@@ -63,7 +63,7 @@ The fly stopped. Its tiny legs curled, one by one, like the fingers of a miser c
 
 But Chryst did not see a corpse.
 
-He saw a shimmer. A pale, translucent thread—no larger than a grain of salt—drifted upward from the fly's blackened thorax. It pulsed with a weak, blue light, a tiny star falling into an abyss of shadow.
+He saw a shimmer. A pale, translucent thread—no larger than a grain of salt—drifted upward from the fly's blackened thorax. It pulsed with a weak, golden light, a tiny star falling into an abyss of shadow.
 
 "Do not go," Chryst said.
 

@@ -67,7 +67,7 @@ Chryst stepped forward. His hands moved with a surgeon’s precision. He extract
 
 As the villagers began to chant the ancient prayers, the icy resin began to glow with a blinding, blue-white light. It wasn't just freezing the heart; it was amplifying the Fayth of the room, turning the congregation into a singular battery of spiritual energy. Chryst used this surge to guide the lamb's escaping soul, sealing it into the heart with runes of the [[Holy Language]].
 
-He then turned to the lamb’s corpse. With a wave of his hand and a surge of mana, he cast [[A Broken Knight's Grace]]. The wound in the throat closed; the blood vanished. The body lay there—whole, healthy, but empty.
+He then turned to the lamb’s corpse. With a wave of his hand and a surge of Fayth, he cast [[A Broken Knight's Grace]]. The wound in the throat closed; the blood vanished. The body lay there—whole, healthy, but empty.
 
 With a final, focused effort, Chryst transplanted the glowing resin-heart back into the chest of the lamb.
 

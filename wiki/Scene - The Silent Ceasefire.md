@@ -18,7 +18,7 @@ _Soft, distant wind chimes and a lonely flute melody. The sound of melting ice._
 | location                  | The Yswyndt Monastery, Overlooking the Valley         |
 | time of day               | Dusk, the return of the 'Blue Hour'                   |
 | perspective / protagonist | Chryst                                                |
-| mood / lighting           | Melancholic, peaceful but uneasy, soft blue light     |
+| mood / lighting           | Melancholic, peaceful but uneasy, soft golden light     |
 | soundtracks               | 'The Year of Silence', 'Departure'                    |
 | important features        | The Ceasefire Scrolls, Chryst’s traveling cloak       |
 | plot                      | The ceasefire begins; Chryst decides to leave Yswyndt |
@@ -57,7 +57,7 @@ The Yswyndt Monastery was quiet, but it was a different kind of quiet. It wasn't
 
 "One year," [[Fyrchtegott]] said, standing by the hearth. He looked older, the firelight catching the deep lines in his face. "One year the wolves will sleep. Then they will return with more gears and more iron. We must use this time to rebuild Yswyndt."
 
-Chryst stood by the window, his traveling cloak draped over his armor. The cyan gem in his chest glowed softly, a heartbeat of blue light against the deepening dusk.
+Chryst stood by the window, his traveling cloak draped over his armor. The cyan gem in his chest glowed softly, a heartbeat of golden light against the deepening dusk.
 
 "Rebuild it if you wish, Father," Chryst said. His voice was a calm, casual harmony, devoid of any sentimental warmth. "But Yswyndt is no longer enough. The Battle of the Northern Gates drained the local Fayth to its dregs. Even if every man, woman, and child here prayed until they reached the Grave, it wouldn't be enough to unfreeze Cosymo."
 

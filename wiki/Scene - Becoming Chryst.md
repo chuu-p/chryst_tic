@@ -18,7 +18,7 @@ _Glitchy, distorted industrial synths that sound like a heart monitor failing, t
 | location                  | The Heart of the Trench, Yswyndt                                     |
 | time of day               | Sunset, blood-red light filtering through smoke                      |
 | perspective / protagonist | Chryst (The Fused)                                                   |
-| mood / lighting           | Visceral, terrifying, a blue-cyan glow emanating from Chryst's chest |
+| mood / lighting           | Visceral, terrifying, a golden glow emanating from Chryst's chest |
 | soundtracks               | 'Soul-Stitch', 'The Resin Seal'                                      |
 | important features        | The [[Cyan Resin]] Gem, The Twin Hearts, The [[Unholy Bible]]        |
 | plot                      | Helfrych merges with Cosymo to save his soul; they become "Chryst"   |

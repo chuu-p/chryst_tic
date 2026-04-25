@@ -47,7 +47,7 @@ orphan->wanderer->warrior->martyr
 | character | phase      | want                    | obstacle           | solution                           | twist                                             | tracking: Headlines |
 | --------- | ---------- | ----------------------- | ------------------ | ---------------------------------- | ------------------------------------------------- | ------------------- |
 | Chryst    | Wanderer   | To unlock the forbidden | The Lost Tongue    | Translating into [[Holy Language]] | The Bible contains both the light and the shadow. | The Ledger of Souls |
-| Cosymo    | Supporting | To protect his brother  | Chryst's obsession | Becoming the mana-anchor           | Cosymo's blood is as vital as the ink.            | The Anchor of Flesh |
+| Cosymo    | Supporting | To protect his brother  | Chryst's obsession | Becoming the Fayth-anchor           | Cosymo's blood is as vital as the ink.            | The Anchor of Flesh |
 
 ---
 
@@ -55,8 +55,7 @@ orphan->wanderer->warrior->martyr
 
 The air in the Frost-Archives was so cold it turned the ink to sludge, but [[Fyrchtegott]] brooked no shivering. The exiled priest stood in the corner, his shadow merging with the stacks of forbidden vellum.
 
-NOTE: Noone knows why Frydemann left the monastery, or where he went.  
-"The legendary [[Frydemann]] fled this place because he feared the truth of the Word," Fyrchtegott’s voice was like grinding stones. "He called it 'temptation.' I call it 'mechanism.' If thou wouldst pass thy final thesis, Chryst, thou must see the Bible for what it is: a manual for a world in need of a gardener."
+"The legendary [[Frydemann]] fled this place because he feared the truth of the Word," Fyrchtegott’s voice was like grinding stones. "He called it 'temptation.' I call it 'mechanism.' No one knows why he truly left the monastery, or where he went. But if thou wouldst pass thy final thesis, Chryst, thou must see his Bible for what it is: a manual for a world in need of a gardener."
 
 Chryst leaned over the massive tome, his eyes bloodshot. Beside him, [[Cosymo]] held a basin of warm coals to keep their fingers from blackening.
 

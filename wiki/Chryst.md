@@ -19,7 +19,7 @@ i see an old lady walking back from the market with a basket full of apples and 
 
 this is the great evil in the story:
 capitalism without temperance
-there are no evil people, just people that want to make number go up and make the the most amount of money. they pay the respective governments, and they are corrupt to take it, and not inhibit the capitalistic growth. (like in the real world)
+The idea that there are no evil people, just individuals operating in the unethical pursuit of profit optimization. This theme will be heavily explored when they encounter the **Cult of Handrich** in the Byzantine merchant cities—a faction that strips the land of soul-energy purely for profit, paying corrupt governments to look the other way.
 
 chyst challenges
 
@@ -90,6 +90,9 @@ Unhealthy people usually aren’t conscious of the fact that their urges are cop
 ### GOALS
 
 ### RELATIONSHIPS
+- **Tymo**: Their relationship is highly transactional and fraught with tension. While they are allies, Tymo's goal is political liberation (uniting the Nordic states against MaxT), whereas Chryst views people mainly as "anchors" for his Fayth network. Chryst believes his religion should be strictly pacifist and network-focused, vehemently rejecting Tymo's attempts to weaponize the followers of Fayth for a war of liberation.
+- **Astryd**: He cares for her, potentially harboring a crush, but continually distances himself because attachments threaten the efficiency of his grand mission.
+- **His followers**: Viewed more as components of his power grid than individual lives. 
 
 ### LIFESTYLE
 

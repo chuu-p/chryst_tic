@@ -28,5 +28,5 @@ chapter_next: "[[Chapter - Bryskyr]]"
 
 ## Character Arcs
 
-- **[[Chryst]]**: Transitions from a lone wanderer to a spiritual leader and mission founder.
-- **[[Astryd]]**: Experiences a total collapse of her "strength is everything" worldview and finds a new path through Chryst's intervention.
+- **[[Chryst]]**: Transitions from a lone wanderer to a spiritual leader and mission founder. Crucially, this chapter begins to foreshadow his intense detachment—he increasingly views the people of Bysfrost not as friends, but as tactical "anchors" to strengthen his Fayth network for his ultimate goal.
+- **[[Astryd]]**: Experiences a total collapse of her "strength is everything" worldview and finds a new path through Chryst's intervention, setting up her deep loyalty.

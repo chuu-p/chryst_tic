@@ -8,7 +8,11 @@ chapter_next:
 
 ## Summary
 
-Chryst and Astryd arrive in the occupied capital of [[Norholdt]], [[Brsykyr]]. Astryd is dishonorably discharged from the [[Maxt]] army, while Chryst strikes a daring wager with the [[Brsykyr occupational Mayor]]: win the annual tournament, and the [[Cult of Fayth]] will be officially recognized. During the preparation, Chryst baptizes Astryd, marking her rebirth. After winning three grueling rounds and a philosophical clash with the champion [[Fexta]], Chryst overcomes the giant through the collective power of faith. Despite his victory, Chryst makes the fateful mistake of leaving Astryd behind as he departs for the [[Maxt Capital City]] with his new ally [[Tymo]], setting the stage for future trials.
+[[Chryst]] and [[Astryd]] arrive in the occupied capital of [[Norholdt]], [[Brsykyr]]. Astryd is dishonorably discharged from the [[Maxt]] army, while Chryst strikes a daring wager with the [[Brsykyr occupational Mayor]]: win the annual tournament, and the [[Cult of Fayth]] will be officially recognized. During the preparation, Chryst baptizes Astryd, marking her rebirth, and the two grow dangerously close.
+
+After winning three grueling rounds and a philosophical clash with the champion [[Fexta]], Chryst overcomes the giant through the collective power of faith. However, a major "almost works" moment strikes when Chryst attempts to fully integrate the newly sanctioned city into the Fayth network—it overloads and nearly collapses the local congregation, requiring a massive sacrifice of his own energy.
+
+Ultimately, Chryst is faced with an impossible choice: stay in Brsykyr and build a life with Astryd (who he realizes he loves), or depart for the [[Maxt Capital City]] to further build the network and save his brother. Choosing his brother, he heartlessly leaves Astryd behind as an "anchor," breaking both their hearts and solidifying his tragic detachment. He continues his journey with his new ally [[Tymo]].
 
 ## Scenes
 

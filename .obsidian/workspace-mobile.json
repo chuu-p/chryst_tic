@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Chryst.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chryst"
+              "title": "README"
             }
           }
         ]
@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f288db55845b214",
+  "active": "200312d8bcce46ec",
   "lastOpenFiles": [
+    "wiki/Chryst.md",
     "game/TODO.md",
     "wiki/T Class.md",
     "game/res/spritesheet.png",
@@ -213,7 +214,6 @@
     "wiki/Holy Shield.md",
     "game/tic-midi/example/test_out.tic",
     "wiki/T Spell.md",
-    "wiki/Chryst.md",
     "game/music/honey.music.py",
     "game/tic-midi/flake.lock",
     "game/chryst.js",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "wiki/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Home"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "200312d8bcce46ec",
   "lastOpenFiles": [
+    "README.md",
     "wiki/Chryst.md",
     "game/TODO.md",
     "wiki/T Class.md",
@@ -213,7 +214,6 @@
     "wiki/Home.md",
     "wiki/Holy Shield.md",
     "game/tic-midi/example/test_out.tic",
-    "wiki/T Spell.md",
     "game/music/honey.music.py",
     "game/tic-midi/flake.lock",
     "game/chryst.js",

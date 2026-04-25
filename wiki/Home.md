@@ -27,7 +27,7 @@ Chryst (born Helfrych) is a twin-hearted Hero-Priest on a global mission to conn
 - **[[World]]**: Geography, politics, and the tech-level of the 12th-century inspired setting.
 - **[[Cult of Fayth]]**: The religious Order that channels human belief into measurable energy.
 - **[[Holy Language]]**: The non-linear grammar used to rewrite reality.
-- **[[Holy Shield]]**: Iconic defensive spells.
+- **[[Holy Shield]]**: Iconic defensive spell.
 
 ---
 

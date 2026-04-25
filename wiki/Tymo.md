@@ -147,9 +147,11 @@ Unhealthy people usually aren’t conscious of the fact that their urges are cop
 ## THE CORE URGE AFFECTS ALL AREAS OF THEIR LIFE
 
 ### GOALS
-To liberate his people in Syrvann and unite the Nordic regions. His obstacles are twofold: the highly organized MaxT military occupation, and the ancient blood feuds that keep the Nordic states fractured. 
+
+To liberate his people in Syrvann and unite the Nordic regions. His obstacles are twofold: the highly organized MaxT military occupation, and the ancient blood feuds that keep the Nordic states fractured.
 
 ### RELATIONSHIPS
+
 - **Chryst**: Tymo is deeply grateful for his freedom but their alliance is ultimately transactional. Tymo constantly tries to convince Chryst to leverage his massive religious following for a war of liberation. He respects Chryst's strength but despises his obsession with the "network" over the tangible suffering of occupied people.
 
 ### LIFESTYLE

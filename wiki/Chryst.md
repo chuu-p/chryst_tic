@@ -90,9 +90,10 @@ Unhealthy people usually aren’t conscious of the fact that their urges are cop
 ### GOALS
 
 ### RELATIONSHIPS
+
 - **Tymo**: Their relationship is highly transactional and fraught with tension. While they are allies, Tymo's goal is political liberation (uniting the Nordic states against MaxT), whereas Chryst views people mainly as "anchors" for his Fayth network. Chryst believes his religion should be strictly pacifist and network-focused, vehemently rejecting Tymo's attempts to weaponize the followers of Fayth for a war of liberation.
 - **Astryd**: He cares for her, potentially harboring a crush, but continually distances himself because attachments threaten the efficiency of his grand mission.
-- **His followers**: Viewed more as components of his power grid than individual lives. 
+- **His followers**: Viewed more as components of his power grid than individual lives.
 
 ### LIFESTYLE
 

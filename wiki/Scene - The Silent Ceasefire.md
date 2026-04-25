@@ -18,7 +18,7 @@ _Soft, distant wind chimes and a lonely flute melody. The sound of melting ice._
 | location                  | The Yswyndt Monastery, Overlooking the Valley         |
 | time of day               | Dusk, the return of the 'Blue Hour'                   |
 | perspective / protagonist | Chryst                                                |
-| mood / lighting           | Melancholic, peaceful but uneasy, soft golden light     |
+| mood / lighting           | Melancholic, peaceful but uneasy, soft golden light   |
 | soundtracks               | 'The Year of Silence', 'Departure'                    |
 | important features        | The Ceasefire Scrolls, Chryst’s traveling cloak       |
 | plot                      | The ceasefire begins; Chryst decides to leave Yswyndt |

@@ -47,7 +47,7 @@ orphan->wanderer->warrior->martyr
 | character | phase      | want                    | obstacle           | solution                           | twist                                             | tracking: Headlines |
 | --------- | ---------- | ----------------------- | ------------------ | ---------------------------------- | ------------------------------------------------- | ------------------- |
 | Chryst    | Wanderer   | To unlock the forbidden | The Lost Tongue    | Translating into [[Holy Language]] | The Bible contains both the light and the shadow. | The Ledger of Souls |
-| Cosymo    | Supporting | To protect his brother  | Chryst's obsession | Becoming the Fayth-anchor           | Cosymo's blood is as vital as the ink.            | The Anchor of Flesh |
+| Cosymo    | Supporting | To protect his brother  | Chryst's obsession | Becoming the Fayth-anchor          | Cosymo's blood is as vital as the ink.            | The Anchor of Flesh |
 
 ---
 

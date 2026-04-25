@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "4e1b5faf8901afb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "22544e08b8f2b318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "200312d8bcce46ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Chryst.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chryst"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c861f2decfea684",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cba82395dfa27369",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "0ea6624c8b7ac263",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "57f0505d7c21d7a9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f8ac70b599927edf",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "395b4dc5254704af",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2e0fdf59076cf48b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "45dd152d19d642fb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "wiki/Chryst.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "dca6706384c1f48f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "wiki/Chryst.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a75bc452249bba46",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "wiki/Chryst.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "3f288db55845b214",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3f288db55845b214",
+  "lastOpenFiles": [
+    "game/TODO.md",
+    "wiki/T Class.md",
+    "game/res/spritesheet.png",
+    "wiki/Scene - Arrival at Bysfrost Tavern.md",
+    "wiki/Chapter - Yswyndt Origins.md",
+    "wiki/Chapter - Dungeon Mission.md",
+    "wiki/T Template.md",
+    "game/res/tilesheet.png",
+    "game/tic-midi/example/visualization.tic",
+    "game/tic-midi/example/test.mid",
+    "wiki/story_feedback.md",
+    "wiki/Scene - Becoming Chryst.md",
+    "wiki/World.md",
+    "wiki/Scene - A Broken Knight's Grace.md",
+    "wiki/Scene - The First Mission.md",
+    "wiki/Scene - Becoming Astryd.md",
+    "game/tic-midi/README.md",
+    "wiki/T Event.md",
+    "game/AGENTS.md",
+    "game/tic-midi/tic_midi.py",
+    "wiki/T Supporting Character.md",
+    "wiki/Scene - Judgment of the Mayor.md",
+    "wiki/T Cult.md",
+    "wiki/T Chapter.md",
+    "wiki/Scene - The Champion's Fall.md",
+    "wiki/Scene - The Final Eve.md",
+    "wiki/Scene - The Silent Ceasefire.md",
+    "game/justfile",
+    "wiki/Home.md",
+    "wiki/Holy Shield.md",
+    "game/tic-midi/example/test_out.tic",
+    "wiki/T Spell.md",
+    "wiki/Chryst.md",
+    "game/music/honey.music.py",
+    "game/tic-midi/flake.lock",
+    "game/chryst.js",
+    "game/tic80.d.ts",
+    "game/tic-midi/LICENSE"
+  ]
+}

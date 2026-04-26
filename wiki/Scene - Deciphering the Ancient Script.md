@@ -36,7 +36,7 @@ _The scratching of a quill against parchment, layered over a low, haunting Grego
 
 | scene question (have at least 2 answered)                              | answer                                                                                                  |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| how does this scene develop the character?                             | It shows Chryst's dual mastery of holy and unholy arts under Fyrchtegott's dark Cult of Death wisdom.               |
+| how does this scene develop the character?                             | It shows Chryst's dual mastery of holy and unholy arts under Fyrchtegott's dark Cult of Death wisdom.   |
 | how does this scene further the plot?                                  | It introduces the linguistic key to the Bible and the goal of the Priest Thesis.                        |
 | how does this scene teach the audience something new about this world? | It reveals the existence of the [[Holy Language]] and the history of [[Fyrchtegott]] and [[Frydemann]]. |
 

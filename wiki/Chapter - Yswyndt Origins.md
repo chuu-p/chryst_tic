@@ -8,7 +8,7 @@ chapter_next:
 
 ## Summary
 
-The frost-rimed village of Yswyndt serves as the crucible for Chryst’s awakening. Driven by a stoic refusal to accept the inevitability of death, Chryst uncovers his innate ability to perceive the _anima_—the shimmering soul that departs a body at the moment of passing. Under the tutelage of the exiled priest [[Fyrchtegott]], who brought both holy and unholy arts to the Yswyndt Monastery after [[Frydemann]]'s departure, Chryst masters the [[Holy Language]] to translate the [[Bible]].
+The frost-rimed village of Yswyndt serves as the crucible for Chryst’s awakening. Driven by a stoic refusal to accept the inevitability of death, Chryst uncovers his innate ability to perceive the _anima_—the shimmering soul that departs a body at the moment of passing. Under the tutelage of the Cult of Death Village Priest [[Fyrchtegott]], who brought both holy and unholy arts to the Yswyndt Monastery after [[Frydemann]]'s departure, Chryst masters the [[Holy Language]] to translate the [[Bible]].
 
 The chapter culminates in Chryst's final Priest Thesis: a public ritual during the Sunday service. Alongside his brother [[Cosymo]], Chryst performs the "Miracle of the Frozen Soul," converting the congregation's Fayth into a force that resurrects a slaughtered lamb. This act of defiance marks the birth of his obsession: the final conquest of the Grave.
 

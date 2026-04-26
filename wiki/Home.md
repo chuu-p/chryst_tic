@@ -14,7 +14,7 @@ Chryst (born Helfrych) is a twin-hearted Hero-Priest on a global mission to conn
 - **[[Cosymo]]**: Chryst's brother and the energetic anchor of their shared existence.
 - **[[Astryd]]**: A former MaxT knight turned Fayth priestess, anchoring the mission in Brsykyr.
 - **[[Tymo]]**: A Syrvann hunter and Alteration Mage seeking to liberate his homeland.
-- **[[Fyrchtegott]]**: The exiled mentor who taught Chryst the dual nature of holy and unholy arts.
+- **[[Fyrchtegott]]**: The Cult of Death Village Priest who mentored Chryst through the dual nature of holy and unholy arts.
 - **[[Berlynde]]**: The cold MaxT General and wielder of the Obsidian Aegis.
 
 ### Story Chapters

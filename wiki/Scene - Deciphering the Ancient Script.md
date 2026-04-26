@@ -36,7 +36,7 @@ _The scratching of a quill against parchment, layered over a low, haunting Grego
 
 | scene question (have at least 2 answered)                              | answer                                                                                                  |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| how does this scene develop the character?                             | It shows Chryst's dual mastery of holy and unholy arts under Fyrchtegott's exiled wisdom.               |
+| how does this scene develop the character?                             | It shows Chryst's dual mastery of holy and unholy arts under Fyrchtegott's dark Cult of Death wisdom.               |
 | how does this scene further the plot?                                  | It introduces the linguistic key to the Bible and the goal of the Priest Thesis.                        |
 | how does this scene teach the audience something new about this world? | It reveals the existence of the [[Holy Language]] and the history of [[Fyrchtegott]] and [[Frydemann]]. |
 
@@ -53,7 +53,7 @@ orphan->wanderer->warrior->martyr
 
 ### The Ink that Never Freezes
 
-The air in the Frost-Archives was so cold it turned the ink to sludge, but [[Fyrchtegott]] brooked no shivering. The exiled priest stood in the corner, his shadow merging with the stacks of forbidden vellum.
+The air in the Frost-Archives was so cold it turned the ink to sludge, but [[Fyrchtegott]] brooked no shivering. The Cult of Death priest stood in the corner, his smoke-wreathed shadow merging with the stacks of forbidden vellum.
 
 "The legendary [[Frydemann]] fled this place because he feared the truth of the Word," Fyrchtegott’s voice was like grinding stones. "He called it 'temptation.' I call it 'mechanism.' No one knows why he truly left the monastery, or where he went. But if thou wouldst pass thy final thesis, Chryst, thou must see his Bible for what it is: a manual for a world in need of a gardener."
 

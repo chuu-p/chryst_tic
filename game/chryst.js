@@ -162,8 +162,18 @@ function render_dialogue() {
 
   var portrait_x = 240 - 32 - 10;
   var portrait_y = box_y - 32;
-  // spr(id x y colorkey=-1 scale=1 flip=0 rotate=0 w=1 h=1) 
-  spr(dialogue.portrait_id, portrait_x, portrait_y, Color.Transparent, 1, 0, 0, 4, 4);
+  // spr(id x y colorkey=-1 scale=1 flip=0 rotate=0 w=1 h=1)
+  spr(
+    dialogue.portrait_id,
+    portrait_x,
+    portrait_y,
+    Color.Transparent,
+    1,
+    0,
+    0,
+    4,
+    4,
+  );
 
   var text_x = 10;
   var text_y = box_y + 8;
@@ -185,7 +195,7 @@ function render() {
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
-      entity.code_runner.execute_every_ticks - (Duration.Second / 2)
+        entity.code_runner.execute_every_ticks - Duration.Second / 2
     ) {
       color = Color.Yellow;
     }
@@ -206,12 +216,12 @@ function render() {
     // x, y, radius
     print(
       "[" +
-      entity.position.x +
-      " " +
-      entity.position.y +
-      " r" +
-      entity.transmission.radius +
-      "]",
+        entity.position.x +
+        " " +
+        entity.position.y +
+        " r" +
+        entity.transmission.radius +
+        "]",
       entity.position.x + 12,
       entity.position.y - 4,
       Color.Grey,
@@ -219,12 +229,12 @@ function render() {
     // messages in, out
     print(
       "[" +
-      entity.code_runner.messages_in.length +
-      " " +
-      entity.code_runner.messages_out.length +
-      " " +
-      "node:1" + // script name and revision
-      "]",
+        entity.code_runner.messages_in.length +
+        " " +
+        entity.code_runner.messages_out.length +
+        " " +
+        "node:1" + // script name and revision
+        "]",
       entity.position.x + 12,
       entity.position.y + 4,
       Color.Grey,
@@ -232,8 +242,13 @@ function render() {
     // messages in, out
     print(
       "[" +
-      entity.transmission.connections.map((/** @type {{ to_node_name: any; }} */ connection) => connection.to_node_name).join(", ") +
-      "]",
+        entity.transmission.connections
+          .map(
+            (/** @type {{ to_node_name: any; }} */ connection) =>
+              connection.to_node_name,
+          )
+          .join(", ") +
+        "]",
       entity.position.x + 12,
       entity.position.y + 12,
       Color.Grey,
@@ -260,7 +275,9 @@ function render() {
  * @param {string} node_name
  */
 function get_message_count(node_name) {
-  let node = world.entities.filter((e) => e.node !== null && e.node.name === node_name)[0];
+  let node = world.entities.filter(
+    (e) => e.node !== null && e.node.name === node_name,
+  )[0];
   if (!node || !node.code_runner) return 0;
   return node.code_runner.messages_in.length;
 }
@@ -268,8 +285,10 @@ function get_message_count(node_name) {
  * @param {string} node_name
  */
 function pop_message(node_name) {
-  let node = world.entities.filter((e) => e.node !== null && e.node.name === node_name)[0];
-  if (!node || !node.code_runner) return null; // TODO: return custom error type when implementing error handling 
+  let node = world.entities.filter(
+    (e) => e.node !== null && e.node.name === node_name,
+  )[0];
+  if (!node || !node.code_runner) return null; // TODO: return custom error type when implementing error handling
   return node.code_runner.messages_in.pop();
 }
 /**
@@ -277,8 +296,10 @@ function pop_message(node_name) {
  * @param {string} message
  */
 function push_message(node_name, message) {
-  let node = world.entities.filter((e) => e.node !== null && e.node.name === node_name)[0];
-  if (!node || !node.code_runner) return; // TODO: return custom error type when implementing error handling 
+  let node = world.entities.filter(
+    (e) => e.node !== null && e.node.name === node_name,
+  )[0];
+  if (!node || !node.code_runner) return; // TODO: return custom error type when implementing error handling
   node.code_runner.messages_out.push(message);
 }
 /**
@@ -332,13 +353,15 @@ function check_and_update_neighbors() {
 
       // guard: already connected
       const alreadyConnected = entity.transmission.connections.some(
-        (/** @type {{ to_node_name: string; }} */ c) => c.to_node_name === neighbor_node_name,
+        (/** @type {{ to_node_name: string; }} */ c) =>
+          c.to_node_name === neighbor_node_name,
       );
       if (alreadyConnected) {
         // remove connection if already connected so it gets refreshed
         entity.transmission.connections =
           entity.transmission.connections.filter(
-            (/** @type {{ to_node_name: any; }} */ c) => c.to_node_name !== neighbor_node_name,
+            (/** @type {{ to_node_name: any; }} */ c) =>
+              c.to_node_name !== neighbor_node_name,
           );
       }
 
@@ -368,7 +391,7 @@ function code_global_run() {
     if (
       entity.code_runner.last_execution_time === null ||
       t - entity.code_runner.last_execution_time >=
-      entity.code_runner.execute_every_ticks
+        entity.code_runner.execute_every_ticks
     ) {
       var func = new Function(
         "trace",
@@ -848,4 +871,3 @@ function TIC() {
 // <PALETTE>
 // 000:000000bababafefefe894523cd6754ef9889febaab01326723768923abba4576452398459cba8cfecd0173003100ff00
 // </PALETTE>
-

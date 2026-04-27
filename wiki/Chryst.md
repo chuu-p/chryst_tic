@@ -9,13 +9,23 @@ religion: "[[Cult of Fayth]]"
 
 temp notes
 
-the strongest mage ever tells him
-the strongest mage ever is the guy who wrote the bible in this world. the bible gets used by all christians to cast holy magic, but this is just how this guy wrote the bible
+the strongest cult of fayth mage ever is the guy who wrote the bible in this world. the bible gets used by all cult of fayth members to cast holy magic, but this is just how this guy wrote the bible
 there is more to life than magic
 this is something chryst cannot overcome. he is obsessed and everything in his life revolves around magic and now the strongest mag ever tells him there is more to life than magic
 you are taking it too seriously. you have to take it for what it is. you are putting too much pressure on yourself to perform properly. you cannot force anything. go with the flow. it is only magic, dont make it bigger than it actually is
 just in the tower and watch some people
 i see an old lady walking back from the market with a basket full of apples and stuff. she does not care about this religion
+NOTE: 
+
+NOTE: Chryst and Berlynde (who killed his brother) fight with each other but cannot beat each other. Then they agree to a truce and go their separate ways, but they are in love with each other. This is why chryst hires her as the (role) for his squad.
+
+when speaking with the maxt emperor, he makes a good point. The nordic nations are weak right now and should be conquered and united, so they are strong and can defend themselves. Tymo agrees, but says that the revolution should come from inside, not outside. The emperor agrees, but in the last 200 years this has not happened, so he decided to take the wheel. 
+
+A noxian cool rebel genius kid type character, that is extremely cool and good at assasinations and combat in general, but makes his own rules kinda (what lesson can chryst teach him and what can he teach chryst?)
+
+
+his arc will be to not work on holy magic research alone, but to open source it and build an academy. he will teach someone with a lot of talent. 
+
 
 this is the great evil in the story:
 capitalism without temperance

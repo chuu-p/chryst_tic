@@ -7,9 +7,6 @@ religion: "[[Cult of Fayth]]" (Formerly "[[Cult of Maxt]]")
 
 # Astryd
 
-NOTE: Please retroactively change the story so that astryd does not stay behind in the city as a priest. she is still a beleiver in the cult of fayth but she does not stay behind. she does found the community in this big city and she also is the first beleiver in the cult of fayth. But then she goes on the adventure with chryst and the others. 
-NOTE: Please also retroactively change the story so that astryd is the daugher of the mayor and chryst gambles that he wants to take her as a slave, too if he wins the tournament and if not he will join noxus and teach them everything and stuff. the mayor takes him up on it and chryst wins and takes astryd with him on his next adventures. 
-
 Astryd is a former soldier of the [[Macht]] Empire who undergoes a profound spiritual transformation after encountering [[Chryst]]. Originally known as Axtritt, a rigid Maxt knight governed by the belief that "strength is everything," she experiences a total collapse of her worldview and is reborn as a devoted priestess of the Fayth.
 
 
@@ -20,10 +17,13 @@ She served as a loyal knight in the Maxt expansion forces, actively participatin
 ## Appearance
 
 Tall, imposing, and bearing the scars of imperial warfare. She previously wore the sleek, severe black-and-crimson armor of a Maxt officer, but after her baptism, she stripped the insignias and wrapped herself in the heavy, woolen vestments of the Fayth. She still carries her military-grade longsword, seeing no contradiction between faith and being armed.
+![alt text](wiki/media/image.png)
 
 ## Personality
 
 Intensely disciplined, fiercely loyal, and protective. As a Maxt soldier, she was cold and pragmatic. As a follower of Fayth, she channels that same discipline into unwavering devotion. She is deeply conflicted by her past sins but seeks redemption through service.
+
+- **Theme/Virtue**: **Humility (vs Pride)**. As a teenager, she is very proud and thinks she knows everything, and her arc involves learning true humility through her new faith.
 
 ### GOALS
 
@@ -45,3 +45,9 @@ A fallen knight turned holy protector. She speaks with a militaristic bluntness,
 ### DIALOGUE
 
 "A sword is just steel until you give it a purpose. I swung for an empire of shadows, and it broke my spirit. The golden winds gave me a reason to hold the line again."
+
+## Abilities & Combat
+
+- **Noxus Paladin Abilities**
+  - She fights with a sword and shield, acting as a primary tank with moderate damage output, resembling a young Leona or a shield-hero.
+  - (Further abilities to be developed)

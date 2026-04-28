@@ -123,8 +123,12 @@ beat sheet - tymo
 
 ## Appearance
 
+![alt text](wiki/media/imagev.png)
+(Tymo this but male)
+
 ## Personality
 
+- **Theme/Virtue**: **Patience (vs Wrath)**. Tymo is always happy and never gets genuinely angry. He waits a long time for the perfect moment to reclaim his homeland with as little bloodshed as possible, performing his duties as a sniper efficiently.
 # CHARACTER MAP
 
 CHARACTER NAME:
@@ -152,10 +156,30 @@ To liberate his people in Syrvann and unite the Nordic regions. His obstacles ar
 
 ### RELATIONSHIPS
 
-- **Chryst**: Tymo is deeply grateful for his freedom but their alliance is ultimately transactional. Tymo constantly tries to convince Chryst to leverage his massive religious following for a war of liberation. He respects Chryst's strength but despises his obsession with the "network" over the tangible suffering of occupied people.
-
+- **Chryst**: Tymo is deeply grateful for his freedom but their alliance is ultimately transactional. They maintain a professional relationship and don't talk much except when necessary. Tymo is always in a good mood, which Chryst occasionally misinterprets as eager employee behavior, when Tymo is simply happy and a bit cheeky. Tymo constantly tries to convince Chryst to leverage his massive religious following for a war of liberation. He respects Chryst's strength but despises his obsession with the "network" over the tangible suffering of occupied people.
+- **Berlynde**: When she joins, her naughty and flirty behavior makes Tymo cringe, but he also finds it funny. In the squad's dynamic ("rock paper scissors"), Berlynde beats Tymo because she can mind-control him with her magic.
 ### LIFESTYLE
 
 ### PRESENTATION
 
 ### DIALOGUE
+
+## Abilities & Combat
+
+- **Alteration Magic**
+  - `[[change material]]` (active) - Changes any material into another (e.g., sword to whip).
+  - `[[alter body]]` (active) - Alters his body to be stronger, faster, and more durable.
+  - `[[advanced materials]]` - Creates tech and guns from first principles, like carbon nanotubes and graphene.
+  - `[[Kinetic Metamaterial]]` (passive) - Altered clothing acting as a non-Newtonian fluid. Hardens on impact and stores kinetic energy for physical agility bursts.
+  - `[[Phase Traps]]` (active) - Depletes ground density temporarily, sinking enemies into solid rock before solidifying again to trap them.
+- **Inventor Skills**
+  - `[[gunsmithing]]` (active) - Crafts advanced firearms.
+  - `[[Graphene-Weave Cloak]]` (passive) - Structural cloak giving functional immunity to all cold debuffs.
+  - `[[The Silent Lead]]` (active) - Suppressed rail gun sniper rifle powered by alteration a vacuum barrel.
+- **Hunter Skills**
+  - `[[hunter's bow]]` & `[[sniper rifle]]` (active) - Extraordinary marksmanship.
+  - `[[hunter's senses]]` & `[[hunter's tracking]]` (passive/active) - Elite perception to detect ambushes and track targets.
+  - `[[hunter's stealth]]` & `[[hunter's trap]]` (passive/active) - Sets traps and turns invisible after preparation.
+  - `[[hunter's agility]]` (passive) - Peak agility rivaling 'physically gifted' warriors despite lacking the innate trait, powered by his body alteration.
+- **Good Mood**
+  - `[[good mood]]` (passive) / `[[Sisu Philosophy]]` (passive) - Radical Finnish stoicism ("Inner freedom"). Prevents fear or pain-shock, allowing 100% combat efficiency regardless of injury until death.

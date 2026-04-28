@@ -1,6 +1,6 @@
 # Welcome to the Chryst_TIC Wiki
 
-Welcome to the official documentation for **Chryst**, a Christpunk story set in a world of frost, faith, and forbidden mechanisms.
+Welcome to the official documentation for **Chryst**, a nordic noir high fantasy visual novel and Christpunk story set in a world of frost, faith, and forbidden mechanisms.
 
 ## Core Premise
 

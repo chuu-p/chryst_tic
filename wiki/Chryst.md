@@ -15,9 +15,7 @@ this is something chryst cannot overcome. he is obsessed and everything in his l
 you are taking it too seriously. you have to take it for what it is. you are putting too much pressure on yourself to perform properly. you cannot force anything. go with the flow. it is only magic, dont make it bigger than it actually is
 just in the tower and watch some people
 i see an old lady walking back from the market with a basket full of apples and stuff. she does not care about this religion
-NOTE: 
 
-NOTE: Chryst and Berlynde (who killed his brother) fight with each other but cannot beat each other. Then they agree to a truce and go their separate ways, but they are in love with each other. This is why chryst hires her as the (role) for his squad.
 
 when speaking with the maxt emperor, he makes a good point. The nordic nations are weak right now and should be conquered and united, so they are strong and can defend themselves. Tymo agrees, but says that the revolution should come from inside, not outside. The emperor agrees, but in the last 200 years this has not happened, so he decided to take the wheel. 
 
@@ -75,8 +73,47 @@ He departs from Iceland to missionize Europe, and arrives at [[Bysfrost]]. This 
 
 ## Appearance
 
+![[Pasted image 20260428004511.jpg]]
+(Chryst this but male)
+
 ## Personality
 
+- **Theme/Virtue**: **Temperance (vs Gluttony)**. He is a workaholic and must learn work-life balance and not get too obsessed with his mission.
+- **Theme Songs**: 
+  - You don't know what love is
+  - I'm a fool to want you
+  - All alone
+  - What could have been
+  - Heavy is the crown
+## Abilities & Combat
+
+- **Unholy Spells**
+  - `[[invigorate vitae]]` (active) - Drinking the blood of a freshly killed corpse heals his own wounds. Strongly boosted if the whole corpse is consumed.
+  - `[[heal corpse]]` (active) - He can heal a corpse by laying on his hands.
+- **Holy Spells**
+  - `[[healing hands]]` (active) - Heats/heals a person by laying hands and transferring Fayth.
+  - `[[insta heal]]` (active) - Instantly heals a person from a distance.
+  - `[[banish undead]]` (active) - Banishes or kills undead creatures with holy magic.
+  - `[[holy shield]]` (active) - A bubble of pure Fayth energy that blocks all damage.
+  - `[[holy shield parry]]` (active) - Parries with the shield to deflect blows.
+  - `[[judgement smite]]` (active) - Smites an enemy (sinner/undead) with massive holy damage.
+- **Holy Blade Spells**
+  - `[[holy blade]]` (passive/active) - A dull sword carved with holy programming runes that judges its victims. Bounces off the pure of heart. Can send ranged beams of Fayth.
+- **Frozen Heart Abilities**
+  - `[[frozen heart]]` (passive) - Carries a second heart frozen in an icy gem etched with code. Saves excess Fayth from Sunday services.
+    - *Resistance* - 50% resistance to mind control magic.
+    - *Absorbing Magic* - Converts some incoming magic damage into Fayth stored in the heart.
+    - *Fayth Store* - Can store and cast from Fayth locally.
+    - *Emotional Coldness* - Distant and emotionally cold.
+    - *Physically Gifted* - Bestows him with immense physical strength and speed, allowing him to fight world-class knights.
+- **Holy Network/Programming Abilities**
+  - `[[holy programming]]` (active) - Writes prayers as holy code to cast spells or schedule operations using a magic e-ink display and split keyboard.
+  - `[[holy tattoos]]` (passive) - Tattoos act as executable code that glow, improving casting efficiency.
+  - `[[holy network listener]]` (active) - Hears prayers, feels the network's emotions, and communicates telepathically. Can be mentally taxing.
+  - `[[DDoS Prayer (Overload)]]` (active) - Routes aggressive sensory overload inputs into an enemy's mind.
+  - `[[Open Source Miracles]]` (passive) - Leaves background scripts in allies' gear (e.g. auto heal when HP < 10%).
+  - `[[Unholy Sandbox]]` (active) - Isolates a reality pocket where moral laws are suspended so he can use blood magic.
+  
 # CHARACTER MAP
 
 CHARACTER NAME:
@@ -101,7 +138,10 @@ Unhealthy people usually aren’t conscious of the fact that their urges are cop
 
 ### RELATIONSHIPS
 
-- **Tymo**: Their relationship is highly transactional and fraught with tension. While they are allies, Tymo's goal is political liberation (uniting the Nordic states against MaxT), whereas Chryst views people mainly as "anchors" for his Fayth network. Chryst believes his religion should be strictly pacifist and network-focused, vehemently rejecting Tymo's attempts to weaponize the followers of Fayth for a war of liberation.
+- **Tymo**: Their relationship is highly transactional and fraught with tension. They act professionally and don't speak much except when necessary. Tymo is always happy, which Chryst interprets as wanting to be a good employee. Tymo wants Chryst to leverage his religious following for a war of liberation. He respects Chryst's strength but despises his obsession with the "network".
+- **Berlynde**: When she joins, her extra naughty and flirty behavior flusters Chryst. Tymo cringes at her but finds it funny. In their dynamic, Chryst beats Berlynde because he is 50% immune to her mind control.
+- **Styllfried**: As the dynamic gets chaotic with Berlynde, Chryst realizes they need an "adult" and a professional, leading him to hire Styllfried.
+- **The Demacian Prince**: A friend for Styllfried since he is also a mature adult.
 - **Astryd**: He cares for her, potentially harboring a crush, but continually distances himself because attachments threaten the efficiency of his grand mission.
 - **His followers**: Viewed more as components of his power grid than individual lives.
 

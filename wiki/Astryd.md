@@ -7,7 +7,11 @@ religion: "[[Cult of Fayth]]" (Formerly "[[Cult of Maxt]]")
 
 # Astryd
 
+NOTE: Please retroactively change the story so that astryd does not stay behind in the city as a priest. she is still a beleiver in the cult of fayth but she does not stay behind. she does found the community in this big city and she also is the first beleiver in the cult of fayth. But then she goes on the adventure with chryst and the others. 
+NOTE: Please also retroactively change the story so that astryd is the daugher of the mayor and chryst gambles that he wants to take her as a slave, too if he wins the tournament and if not he will join noxus and teach them everything and stuff. the mayor takes him up on it and chryst wins and takes astryd with him on his next adventures. 
+
 Astryd is a former soldier of the [[Macht]] Empire who undergoes a profound spiritual transformation after encountering [[Chryst]]. Originally known as Axtritt, a rigid Maxt knight governed by the belief that "strength is everything," she experiences a total collapse of her worldview and is reborn as a devoted priestess of the Fayth.
+
 
 ## Background
 

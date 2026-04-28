@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Fyrchtegott.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fyrchtegott"
+              "title": "README"
             }
           }
         ]
@@ -181,9 +181,15 @@
   },
   "active": "200312d8bcce46ec",
   "lastOpenFiles": [
+    "Pasted image 20260428010309.jpg",
+    "Pasted image 20260428010054.jpg",
+    "Pasted image 20260428005954.jpg",
+    "Pasted image 20260428005024.jpg",
+    "Pasted image 20260428004511.jpg",
+    "Pasted image 20260428004205.jpg",
+    "wiki/Fyrchtegott.md",
     "wiki/Frydemann.md",
     "wiki/Home.md",
-    "wiki/Fyrchtegott.md",
     "wiki/Astryd.md",
     "wiki/Scene - The Overload.md",
     "wiki/Scene - The Network Builder.md",
@@ -210,7 +216,6 @@
     "wiki/Scene - The First Mission.md",
     "wiki/Scene - Becoming Astryd.md",
     "game/tic-midi/README.md",
-    "wiki/T Event.md",
     "game/tic-midi/tic_midi.py",
     "game/justfile",
     "game/tic-midi/example/test_out.tic",

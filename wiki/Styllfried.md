@@ -10,13 +10,16 @@ religion: ""
 The squad's main tank and anti-mage, functioning as the professional "adult" of the group.
 
 ## Themes
+
 - **Virtue**: **Diligence (vs Sloth)**. He is deeply traumatized and originally refuses to fight ("sandbagging"). He learns diligence through his journey, eventually caring about the mission and fighting at his true skill level to protect others.
 
 ## Relationships
+
 - **Chryst**: Chryst hires him to add a level-headed, professional adult to the team after the chaotic dynamic with Berlynde and Tymo. He only agrees to join by fighting strictly defensively.
 - **Ygor**: Ygor is hired as a peer to keep Styllfried company, as they are both grounded adults.
 
 ## Abilities & Combat
+
 - Styllfried wields defensive void magic and a massive shield.
 - **Void Mage**
   - `[[nullify spell]]` (active) - Nullifies spells cast near him.
@@ -27,4 +30,5 @@ The squad's main tank and anti-mage, functioning as the professional "adult" of 
   - `[[Silence the Room]]` (active) - Slams his shield into the earth, creating a suffocating dome of absolute void energy. All active spells are canceled, and no one (including allies) can cast magic. Forces everyone into a pure gritty melee brawl, where the guy with the biggest shield usually wins.
 
 ## Appearance
+
 ![[Pasted image 20260428010054.jpg]]

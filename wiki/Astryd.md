@@ -9,7 +9,6 @@ religion: "[[Cult of Fayth]]" (Formerly "[[Cult of Maxt]]")
 
 Astryd is a former soldier of the [[Macht]] Empire who undergoes a profound spiritual transformation after encountering [[Chryst]]. Originally known as Axtritt, a rigid Maxt knight governed by the belief that "strength is everything," she experiences a total collapse of her worldview and is reborn as a devoted priestess of the Fayth.
 
-
 ## Background
 
 She served as a loyal knight in the Maxt expansion forces, actively participating in the occupation of Nordic regions like [[Norholdt]]. However, the cold, purely utilitarian philosophy of her commanders left her disillusioned. After crossing paths with Chryst in the snowy village of [[Bysfrost]], she is shown the power of radical compassion. During the events in the chapter of [[Brsykyr]], she is officially dishonorably discharged from the Maxt army and baptized by Chryst, solidifying her new identity.

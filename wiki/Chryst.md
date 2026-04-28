@@ -16,14 +16,11 @@ you are taking it too seriously. you have to take it for what it is. you are put
 just in the tower and watch some people
 i see an old lady walking back from the market with a basket full of apples and stuff. she does not care about this religion
 
-
-when speaking with the maxt emperor, he makes a good point. The nordic nations are weak right now and should be conquered and united, so they are strong and can defend themselves. Tymo agrees, but says that the revolution should come from inside, not outside. The emperor agrees, but in the last 200 years this has not happened, so he decided to take the wheel. 
+when speaking with the maxt emperor, he makes a good point. The nordic nations are weak right now and should be conquered and united, so they are strong and can defend themselves. Tymo agrees, but says that the revolution should come from inside, not outside. The emperor agrees, but in the last 200 years this has not happened, so he decided to take the wheel.
 
 A noxian cool rebel genius kid type character, that is extremely cool and good at assasinations and combat in general, but makes his own rules kinda (what lesson can chryst teach him and what can he teach chryst?)
 
-
-his arc will be to not work on holy magic research alone, but to open source it and build an academy. he will teach someone with a lot of talent. 
-
+his arc will be to not work on holy magic research alone, but to open source it and build an academy. he will teach someone with a lot of talent.
 
 this is the great evil in the story:
 capitalism without temperance
@@ -79,12 +76,13 @@ He departs from Iceland to missionize Europe, and arrives at [[Bysfrost]]. This 
 ## Personality
 
 - **Theme/Virtue**: **Temperance (vs Gluttony)**. He is a workaholic and must learn work-life balance and not get too obsessed with his mission.
-- **Theme Songs**: 
+- **Theme Songs**:
   - You don't know what love is
   - I'm a fool to want you
   - All alone
   - What could have been
   - Heavy is the crown
+
 ## Abilities & Combat
 
 - **Unholy Spells**
@@ -101,11 +99,11 @@ He departs from Iceland to missionize Europe, and arrives at [[Bysfrost]]. This 
   - `[[holy blade]]` (passive/active) - A dull sword carved with holy programming runes that judges its victims. Bounces off the pure of heart. Can send ranged beams of Fayth.
 - **Frozen Heart Abilities**
   - `[[frozen heart]]` (passive) - Carries a second heart frozen in an icy gem etched with code. Saves excess Fayth from Sunday services.
-    - *Resistance* - 50% resistance to mind control magic.
-    - *Absorbing Magic* - Converts some incoming magic damage into Fayth stored in the heart.
-    - *Fayth Store* - Can store and cast from Fayth locally.
-    - *Emotional Coldness* - Distant and emotionally cold.
-    - *Physically Gifted* - Bestows him with immense physical strength and speed, allowing him to fight world-class knights.
+    - _Resistance_ - 50% resistance to mind control magic.
+    - _Absorbing Magic_ - Converts some incoming magic damage into Fayth stored in the heart.
+    - _Fayth Store_ - Can store and cast from Fayth locally.
+    - _Emotional Coldness_ - Distant and emotionally cold.
+    - _Physically Gifted_ - Bestows him with immense physical strength and speed, allowing him to fight world-class knights.
 - **Holy Network/Programming Abilities**
   - `[[holy programming]]` (active) - Writes prayers as holy code to cast spells or schedule operations using a magic e-ink display and split keyboard.
   - `[[holy tattoos]]` (passive) - Tattoos act as executable code that glow, improving casting efficiency.
@@ -113,7 +111,7 @@ He departs from Iceland to missionize Europe, and arrives at [[Bysfrost]]. This 
   - `[[DDoS Prayer (Overload)]]` (active) - Routes aggressive sensory overload inputs into an enemy's mind.
   - `[[Open Source Miracles]]` (passive) - Leaves background scripts in allies' gear (e.g. auto heal when HP < 10%).
   - `[[Unholy Sandbox]]` (active) - Isolates a reality pocket where moral laws are suspended so he can use blood magic.
-  
+
 # CHARACTER MAP
 
 CHARACTER NAME:

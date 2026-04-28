@@ -47,6 +47,7 @@ Priests wear thick, layered vestments suitable for the biting cold of the Nordic
 ### Personality
 
 Pious, profoundly empathetic, yet burdened by the sorrow of the world. They operate with solemn diligence, acting as both spiritual guides and arcane engineers of their community's protective network. Furthermore, the Cult's company employs support staff to handle secular duties:
+
 - **Baumeyster**: The bookkeeper, merchant, and eventually the CEO of the resulting electricity company.
 - **A trans programmer**: Crucial tech support for the vast Fayth network infrastructure.
 

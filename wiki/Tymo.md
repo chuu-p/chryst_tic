@@ -129,6 +129,7 @@ beat sheet - tymo
 ## Personality
 
 - **Theme/Virtue**: **Patience (vs Wrath)**. Tymo is always happy and never gets genuinely angry. He waits a long time for the perfect moment to reclaim his homeland with as little bloodshed as possible, performing his duties as a sniper efficiently.
+
 # CHARACTER MAP
 
 CHARACTER NAME:
@@ -158,6 +159,7 @@ To liberate his people in Syrvann and unite the Nordic regions. His obstacles ar
 
 - **Chryst**: Tymo is deeply grateful for his freedom but their alliance is ultimately transactional. They maintain a professional relationship and don't talk much except when necessary. Tymo is always in a good mood, which Chryst occasionally misinterprets as eager employee behavior, when Tymo is simply happy and a bit cheeky. Tymo constantly tries to convince Chryst to leverage his massive religious following for a war of liberation. He respects Chryst's strength but despises his obsession with the "network" over the tangible suffering of occupied people.
 - **Berlynde**: When she joins, her naughty and flirty behavior makes Tymo cringe, but he also finds it funny. In the squad's dynamic ("rock paper scissors"), Berlynde beats Tymo because she can mind-control him with her magic.
+
 ### LIFESTYLE
 
 ### PRESENTATION

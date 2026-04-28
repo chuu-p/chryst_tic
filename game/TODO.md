@@ -11,6 +11,11 @@ kanban-plugin: board
 	- Implemented for all commands (help, quit, node add/edit/set/neighbors, map, debug, echo, energy)
 
 
+- [ ] implement dialog system
+	- handle reputation effects and path consequences (pacifist vs ruthless capitalist)
+- [ ] implement code editor / business logic editor
+- [ ] implement worker management status system (rollercoaster tycoon style)
+
 ## done
 
 - [x] refactor command parsing to be implemented like this:

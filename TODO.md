@@ -11,8 +11,6 @@ kanban-plugin: board
 	  - this is the second line of the explanation
 - [ ] (this task is only for humans, not ai agents) define osts/themes for each character
 	  - tymo - nature boy
-- [ ] #5 Add summary pages and link pages and update Home.md so that a reader of the wiki can easily navigate the wiki and read the main branch of the story chapter by chapter and scene by scene. Also check if all scenes have a previous and next scene, etc.  
-- [ ] #6 Scan the wiki folder for NOTE: annotations and work on them, implement what is written in the annotation into the story 
 
 ## done (keep heading)
 
@@ -35,6 +33,12 @@ kanban-plugin: board
 - [x] #4 Add Location pages (with template T Location) for all major named locations, and link them to the character/scene pages. Also flesh out the locations a bit more in their respective pages.
 	  - Created 21 location pages covering cities, specific locations, and faction bases
 	  - Locations include Yswyndt, Bysfrost, Brsykyr, Syrvann, Maxt Capital City, Byzantine, Frozen Hell Dungeon, etc.
+- [x] #5 Add summary pages and link pages and update Home.md so that a reader of the wiki can easily navigate the wiki and read the main branch of the story chapter by chapter and scene by scene. Also check if all scenes have a previous and next scene, etc.
+	  - Fixed broken scene chain links: The First Mission -> Judgment of the Mayor, The Priest Thesis -> The Wolves of MaxT
+	  - Added frontmatter to The Network Builder scene, linked from The Overload
+	  - Implemented NOTE retcon: Astryd marked as slave after discharge, Chryst wagers for her and Tymo's freedom
+- [x] #6 Scan the wiki folder for NOTE: annotations and work on them, implement what is written in the annotation into the story
+	  - Implemented the Astryd slave retcon NOTE from Parting of Ways into both Parting of Ways and Judgment of the Mayor scenes
 
 
 ***

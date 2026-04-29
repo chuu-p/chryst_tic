@@ -1,10 +1,13 @@
+import sys
+import os
 from modfile import ModFile
 from wavetable import make_wavetable
 from io import BytesIO
 from ticfile import TICFile, Chunk, ChunkType
 from collections import defaultdict
 
-mod = ModFile.open("GUITAROU.MOD")
+mod_file = sys.argv[1] if len(sys.argv) > 1 else "GUITAROU.MOD"
+mod = ModFile.open(mod_file)
 
 wavetable_data_buffer = BytesIO()
 wavetable_data_length = 0

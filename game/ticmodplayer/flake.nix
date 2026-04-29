@@ -1,5 +1,5 @@
 {
-  description = "Run build.py with mixed nix + pip deps";
+  description = "Run build.py (fully nix, no pip)";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
@@ -11,36 +11,35 @@
       let
         pkgs = import nixpkgs { inherit system; };
 
-        python = pkgs.python3.withPackages (ps: [
+        python = pkgs.python3;
+
+        ticfile = python.pkgs.buildPythonPackage rec {
+          pname = "ticfile";
+          version = "0.1";
+
+          src = pkgs.fetchFromGitHub {
+            owner = "gasman";
+            repo = "ticfile";
+            rev = "master";
+            sha256 = "sha256-GnvIOgg0Lud2cpdIPKqmcd+wPRrkYi528uhS8ml68xI=";
+          };
+
+          format = "setuptools";
+          doCheck = false;
+        };
+
+        pythonEnv = python.withPackages (ps: [
           ps.numpy
           ps.scipy
-          ps.pip
-          ps.setuptools
-          ps.wheel
+          ticfile
         ]);
-
-        app = pkgs.writeShellApplication {
-          name = "run-build";
-          runtimeInputs = [ python ];
-          text = ''
-            if [ ! -d .venv ]; then
-              echo "Creating venv for ticfile..."
-              ${python}/bin/python -m venv .venv
-              .venv/bin/pip install --upgrade pip
-              .venv/bin/pip install ticfile
-            fi
-
-            # merge nix python + venv site-packages
-            export PYTHONPATH="${python}/${python.sitePackages}:$PWD/.venv/lib/python*/site-packages"
-
-            exec ${python}/bin/python build.py
-          '';
-        };
 
       in {
         apps.default = {
           type = "app";
-          program = "${app}/bin/run-build";
+          program = "${pkgs.writeShellScript "run-build" ''
+            exec ${pythonEnv}/bin/python build.py "$@"
+          ''}";
         };
       }
     );

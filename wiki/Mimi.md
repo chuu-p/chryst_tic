@@ -37,7 +37,7 @@ Classic icy Tsundere. Aloof, easily flustered, and visually stunning with her fr
 
 ### DIALOGUE
 
-"I didn't freeze them and shatter their bones to save *you*, idiot. They were just ruining the pristine snow. Hmph!"
+"I didn't freeze them and shatter their bones to save _you_, idiot. They were just ruining the pristine snow. Hmph!"
 
 ## Abilities & Combat
 

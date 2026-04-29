@@ -116,15 +116,18 @@ beat sheet - tymo
 ## Character Arcs
 
 ### Imperialism vs. Internal Revolution
-During the Hamburg chapter, Tymo comes face-to-face with the Maxt Emperor. The Emperor argues a terrifyingly pragmatic philosophy: the Nordic nations are weak, fractured by ancient blood feuds, and the only way they will ever be strong enough to survive the dark is if the Maxt Empire conquers them and forces them to unite under a single iron banner. 
-- **The Choice**: Tymo is offered a position to lead this forced unification, supposedly sparing his people further bloodshed if they just submit. 
+
+During the Hamburg chapter, Tymo comes face-to-face with the Maxt Emperor. The Emperor argues a terrifyingly pragmatic philosophy: the Nordic nations are weak, fractured by ancient blood feuds, and the only way they will ever be strong enough to survive the dark is if the Maxt Empire conquers them and forces them to unite under a single iron banner.
+
+- **The Choice**: Tymo is offered a position to lead this forced unification, supposedly sparing his people further bloodshed if they just submit.
 - **The Counter**: Tymo must rely on his deep-seated "Sisu" philosophy to reject the offer. He counters that true strength and revolution must come from within the people themselves. Forced, exterior imperialism only creates obedient slaves, not a united front. This resolves his ultimate internal debate: he chooses the grueling, slow path of peaceful, organic revolution over the quick, bloody path of forced conquest.
 
 ### Enemy Foil: The Blood-Rebel (Philosophy Clash)
+
 - **The Enemy**: A radical, wrathful Syrvann rebel leader from Tymo's own homeland, who has given in to pure vengeance against Maxt. He uses terrifying blood-magic powered by his own burning rage.
 - **The Philosophical Clash**: The Rebel accuses Tymo of cowardice and passivity, arguing that peace and patience are betrayals of their enslaved people, and that only relentless, agonizing wrath will free them.
 - **The Fight Mechanic**: The Rebel operates on a feedback loop—he deals exponentially more damage the angrier his opponent becomes. If Tymo shows any fear, frustration, or anger, the Rebel's blood-magic becomes an unstoppable storm that rips his enemies apart.
-- **The Resolution**: Tymo wins the debate by proving that wrath is brittle and exhausting, while true patience (*Sisu*) is an unbreakable foundation. Tymo simply sits still, absorbing terrifying superficial damage without reacting or showing a hint of fear. The Rebel literally exhausts his own lifecycle trying to break Tymo's spirit. Tymo waits with perfect, chilling calm until the Rebel's rage burns itself out, and then ends the fight with a single, completely emotionless, non-lethal shot that disarms the Rebel.
+- **The Resolution**: Tymo wins the debate by proving that wrath is brittle and exhausting, while true patience (_Sisu_) is an unbreakable foundation. Tymo simply sits still, absorbing terrifying superficial damage without reacting or showing a hint of fear. The Rebel literally exhausts his own lifecycle trying to break Tymo's spirit. Tymo waits with perfect, chilling calm until the Rebel's rage burns itself out, and then ends the fight with a single, completely emotionless, non-lethal shot that disarms the Rebel.
 
 ## Background
 
@@ -150,7 +153,7 @@ CHARACTER NAME: Tymo
 
 ## ORIGIN OF URGE
 
-Growing up in the icy nomadic forests of Syrvann, and later surviving as a slave engineer for the Maxt Empire, Tymo learned that he couldn't control his physical circumstances. To survive without breaking, he developed *Sisu*—a radical internal freedom where he completely controlled his emotional response, choosing joy and patience regardless of external horrors.
+Growing up in the icy nomadic forests of Syrvann, and later surviving as a slave engineer for the Maxt Empire, Tymo learned that he couldn't control his physical circumstances. To survive without breaking, he developed _Sisu_—a radical internal freedom where he completely controlled his emotional response, choosing joy and patience regardless of external horrors.
 
 ## CORE URGE
 

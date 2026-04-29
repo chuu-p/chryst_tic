@@ -61,8 +61,9 @@ Ascetic and vigilant. Though she holds the title of founder of the Brsykyr congr
 ## Character Arcs
 
 ### Enemy Foil: The Maxt Vanguard (Philosophy Clash)
+
 - **The Enemy**: A towering, heavily augmented Maxt Commander who served in Axtritt's (Astryd's) former unit. He embodies exactly who she used to be: utterly pragmatic, intensely proud, and wielding terrifying, analog industrial force.
-- **The Philosophical Clash**: The Commander mocks Astryd for adopting a "soft" religion, arguing that true strength only comes from crushing your enemies, and that humility is just a pathetic excuse for weakness. 
+- **The Philosophical Clash**: The Commander mocks Astryd for adopting a "soft" religion, arguing that true strength only comes from crushing your enemies, and that humility is just a pathetic excuse for weakness.
 - **The Fight Mechanic**: The Vanguard wields a steam-powered siege hammer specifically designed to shatter defensive wards and shields. Astryd's old, proud Maxt instinct would be to aggressively strike back to prove she is stronger. However, if she attacks, his heavy armor absorbs it and he crushes her.
 - **The Resolution**: Astryd wins the ideological debate by accepting that true strength doesn't require proving yourself by inflicting pain. She drops her longsword entirely, fully embracing her role as a pure protector. She pours 100% of her soul and humility into an immovable, towering Fayth shield. Frustrated, the Commander strikes with all his rage, and the sheer feedback of striking absolute, peaceful conviction causes his own mechanical hammer—and his arms—to shatter, defeating him without Astryd having to swing a single time.
 

@@ -57,9 +57,10 @@ Seductive, deeply cynical, and visually intimidating. She uses morbid humor and 
 ## Character Arcs
 
 ### Enemy Foil: The Byzantine Bard (Philosophy Clash)
+
 - **The Enemy**: A universally adored, pure-light Illusionist/Bard from Byzantine who thrives on public worship and stealing people's egos. They represent extreme superficial validation.
-- **The Philosophical Clash**: The Bard targets Berlynde's greatest vulnerability: her profound loneliness and need for validation. The Bard claims that a life without public love and beauty is worthless, reflecting Berlynde's own deep-seated self-loathing regarding her isolating, monstrous powers. 
-- **The Fight Mechanic**: The Bard is a master of light syntax. They summon brilliant, overwhelming illusions of everyone who has ever feared, rejected, or fled from Berlynde, blinding her visually and spiritually. Because Berlynde relies on shadows, the immense stage lighting completely neuters her standard shadow-magic. 
+- **The Philosophical Clash**: The Bard targets Berlynde's greatest vulnerability: her profound loneliness and need for validation. The Bard claims that a life without public love and beauty is worthless, reflecting Berlynde's own deep-seated self-loathing regarding her isolating, monstrous powers.
+- **The Fight Mechanic**: The Bard is a master of light syntax. They summon brilliant, overwhelming illusions of everyone who has ever feared, rejected, or fled from Berlynde, blinding her visually and spiritually. Because Berlynde relies on shadows, the immense stage lighting completely neuters her standard shadow-magic.
 - **The Resolution**: Berlynde wins the debate exactly when she stops caring about being "loved" or seeking external validation. She drops her seductive, aloof mask that she uses to cope, fully accepting her nature as a terrifying monster rather than a tragic outcast. She plunges the entire arena into `[[Sensory Deletion]]`—causing absolute, horrifying darkness and silence. The Bard, utterly stripped of their audience, light, and external validation, suffers a complete mental collapse from the silence, proving that true power comes from surviving your own internal abyss.
 
 ## Abilities & Combat

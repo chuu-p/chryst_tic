@@ -29,7 +29,7 @@ _Epic, heavy orchestral theme with a driving industrial beat. High-pitched choir
 | ----------------------------------- | --------------------------------------------------------------- |
 | who is your main character?         | Chryst                                                          |
 | what are they trying to accomplish? | To annihilate the immediate threat to the Yswyndt gates.        |
-| who's trying to stop them?          | The [[Xlodwich]] and the imperial vanguard.         |
+| who's trying to stop them?          | The [[Xlodwich]] and the imperial vanguard.                     |
 | what happens if they fail?          | The gates are breached, and Berlynde's rescue mission succeeds. |
 
 ## character developments

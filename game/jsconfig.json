@@ -1,13 +1,8 @@
 {
-    "compilerOptions": {
-        "checkJs": true,
-        "strict": true,
-        "lib": [
-            "ES2022"
-        ]
-    },
-    "include": [
-        "**/*.js",
-        "**/*.d.ts"
-    ]
+  "compilerOptions": {
+    "checkJs": true,
+    "strict": true,
+    "lib": ["ES2022"]
+  },
+  "include": ["**/*.js", "**/*.d.ts"]
 }

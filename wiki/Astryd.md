@@ -2,7 +2,7 @@
 type: "[[T Supporting Character]]"
 race: Human
 class: Knight / Priestess
-religion: "[[Cult of Fayth]]" 
+religion: "[[Cult of Fayth]]"
 ---
 
 # Astryd

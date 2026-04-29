@@ -16,9 +16,7 @@
                 "file": "TODO.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
+                  "list-collapse": [false]
                 }
               },
               "icon": "lucide-trello",

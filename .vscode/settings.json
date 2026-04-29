@@ -1,69 +1,69 @@
 {
-    "cSpell.words": [
-        "Astryd",
-        "Axtritt",
-        "Berlynde",
-        "Brsykyr",
-        "btnp",
-        "Bysfrost",
-        "Christpunk",
-        "Chryst",
-        "Cosymo",
-        "Fayth",
-        "Fexta",
-        "Frydemann",
-        "Fyrchtegott",
-        "Helfrych",
-        "itertools",
-        "izip",
-        "Maxt",
-        "Megami",
-        "missionize",
-        "Norholdt",
-        "Ofyo",
-        "rhai",
-        "Syrvann",
-        "Tymo",
-        "Warhammer",
-        "Yswyndt"
-    ],
-    "foam.graph.views": [
-        {
-            "name": "Default",
-            "colorBy": "directory",
-            "show": {
-                "tag": {
-                    "enabled": true
-                },
-                "placeholder": {
-                    "enabled": true
-                }
-            }
+  "cSpell.words": [
+    "Astryd",
+    "Axtritt",
+    "Berlynde",
+    "Brsykyr",
+    "btnp",
+    "Bysfrost",
+    "Christpunk",
+    "Chryst",
+    "Cosymo",
+    "Fayth",
+    "Fexta",
+    "Frydemann",
+    "Fyrchtegott",
+    "Helfrych",
+    "itertools",
+    "izip",
+    "Maxt",
+    "Megami",
+    "missionize",
+    "Norholdt",
+    "Ofyo",
+    "rhai",
+    "Syrvann",
+    "Tymo",
+    "Warhammer",
+    "Yswyndt"
+  ],
+  "foam.graph.views": [
+    {
+      "name": "Default",
+      "colorBy": "directory",
+      "show": {
+        "tag": {
+          "enabled": true
         },
-        {
-            "name": "Journal",
-            "colorBy": "directory",
-            "show": {
-                "tag": {
-                    "enabled": false
-                },
-                "placeholder": {
-                    "enabled": false
-                }
-            },
-            "groups": [
-                {
-                    "id": "journal",
-                    "label": "path=journal",
-                    "color": "#6bcb77",
-                    "enabled": true,
-                    "match": {
-                        "property": "path",
-                        "value": "journal"
-                    }
-                }
-            ]
+        "placeholder": {
+          "enabled": true
         }
-    ],
-    "markdown.validate.enabled": false
+      }
+    },
+    {
+      "name": "Journal",
+      "colorBy": "directory",
+      "show": {
+        "tag": {
+          "enabled": false
+        },
+        "placeholder": {
+          "enabled": false
+        }
+      },
+      "groups": [
+        {
+          "id": "journal",
+          "label": "path=journal",
+          "color": "#6bcb77",
+          "enabled": true,
+          "match": {
+            "property": "path",
+            "value": "journal"
+          }
+        }
+      ]
+    }
+  ],
+  "markdown.validate.enabled": false
 }

@@ -8,11 +8,11 @@ chapter_next:
 
 ## Summary
 
-[[Chryst]] and [[Astryd]] arrive in the occupied capital of [[Norholdt]], [[Brsykyr]]. Astryd is dishonorably discharged from the [[Maxt]] army, while Chryst strikes a daring wager with the [[Brsykyr occupational Mayor]]: win the annual tournament, and the [[Cult of Fayth]] will be officially recognized. During the preparation, Chryst baptizes Astryd, marking her rebirth, and the two grow dangerously close.
+[[Chryst]] and [[Astryd]] arrive in the heavily surveilled, occupied capital of [[Norholdt]], [[Brsykyr]]—a brutalist city of cold stone, perpetual overcast skies, and deep paranoia. Astryd is dishonorably discharged from the [[Maxt]] army, while Chryst strikes a daring wager with the corrupt [[Brsykyr occupational Mayor]]: win the underground tournament, and the [[Cult of Fayth]] will be officially recognized. The tournament is no glorious arena, but a desperate, illegal, grueling bloodsport held in a freezing stone pit. During the preparation, Chryst baptizes Astryd, marking her heavy rebirth, and the two grow dangerously close.
 
-After winning three grueling rounds and a philosophical clash with the champion [[Fexta]], Chryst overcomes the giant through the collective power of faith. However, a major "almost works" moment strikes when Chryst attempts to fully integrate the newly sanctioned city into the Fayth network—it overloads and nearly collapses the local congregation, requiring a massive sacrifice of his own energy.
+After surviving three brutal rounds and a philosophical clash with the champion [[Fexta]], Chryst overcomes the giant through the quiet, collective desperation of the Fayth. However, a major tragedy strikes when Chryst attempts to fully integrate the newly sanctioned city into the Fayth network—it overloads and nearly collapses the local congregation, requiring a massive sacrifice of his own energy.
 
-Ultimately, Chryst is faced with an impossible choice: stay in Brsykyr and build a life with Astryd (who he realizes he loves), or depart for the [[Maxt Capital City]] to further build the network and save his brother. Choosing his brother, he heartlessly leaves Astryd behind as an "anchor," breaking both their hearts and solidifying his tragic detachment. He continues his journey with his new ally [[Tymo]].
+Ultimately, Chryst departs for the [[Maxt Capital City]] to further build the network and save his brother. Though she is the founder of the community in Brsykyr and the very first believer, [[Astryd]] refuses to be left behind as a mere "anchor." Embracing her quiet, lifelong burden of atonement, she chooses to join Chryst on his terrifying journey, continuing by his side as his shield. He continues onward with Astryd and his new cynical ally, [[Tymo]].
 
 ## Scenes
 
@@ -35,5 +35,5 @@ Ultimately, Chryst is faced with an impossible choice: stay in Brsykyr and build
 ## Character Arcs
 
 - **[[Chryst]]**: Moves from a lone wanderer to a leader of a sanctioned mission, but his obsession with his brother begins to blind him to his own attachments.
-- **[[Astryd]]**: Transforms from a disgraced soldier [[Axtritt]] to a devoted priestess and follower of the Fayth, finding a new purpose even as she is left behind to anchor the mission.
+- **[[Astryd]]**: Transforms from the disgraced soldier [[Axtritt]] to a devoted priestess and follower of the Fayth. Embracing her heavy guilt, she founds the community in Brsykyr but chooses to continue traveling with Chryst as his loyal shield.
 - **[[Tymo]]**: Gains his freedom and finds a reason to hope for the liberation of his people in [[Syrvann]].

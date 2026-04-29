@@ -41,11 +41,11 @@
     "statusBar": "disabled"
   },
   "lineAuthor": {
-    "show": true,
+    "show": false,
     "followMovement": "inactive",
-    "authorDisplay": "initials",
+    "authorDisplay": "full",
     "showCommitHash": false,
-    "dateTimeFormatOptions": "date",
+    "dateTimeFormatOptions": "natural language",
     "dateTimeFormatCustomString": "YYYY-MM-DD HH:mm",
     "dateTimeTimezone": "viewer-local",
     "coloringMaxAge": "1y",
@@ -61,8 +61,8 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 12,
-    "lastShownAuthorDisplay": "initials",
-    "lastShownDateTimeFormatOptions": "date"
+    "gutterSpacingFallbackLength": 21,
+    "lastShownAuthorDisplay": "full",
+    "lastShownDateTimeFormatOptions": "natural language"
   }
 }

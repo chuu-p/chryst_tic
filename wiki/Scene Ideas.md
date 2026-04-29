@@ -7,3 +7,13 @@
 - **Tymo Weapon Aesthetic**: Uzi mit schalldämpfer "sie ist fast so groß wie ich" (because he is a halfling and sniper).
 - **Misc Ref**: Twisted fate.
 - **Visual Mood**: [Reference Video](https://www.youtube.com/watch?v=nfIVcY-YtIY)
+
+## Impossible Choices (Avant-Garde Nordic Noir Cinematic)
+
+### Chapter - Yswyndt Origins
+
+### Chapter - Yswyndt War
+
+### Chapter - Bysfrost
+
+### Chapter - Brsykyr

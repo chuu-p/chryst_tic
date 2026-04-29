@@ -18,6 +18,7 @@
 
 a nordic noir high fantasy story about a priest who wants to revive his brother by creating a religion with a huge network of followers.
 
-- universe wiki: [[Home]]
-- tic-80 visual novel/coding game: ![](./game/README.md) 
+- [universe wiki](./wiki/Home.md)
+
+- [tic-80 visual novel/coding game](./game/README.md) 
 

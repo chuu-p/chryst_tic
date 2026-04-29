@@ -30,12 +30,12 @@ To protect Chryst and his mission at all costs, and to atone for her role in the
 
 ### RELATIONSHIPS
 
-- **[[Chryst]]**: She bears a deep, complex loyalty and possible romantic affection for him. However, Chryst's terrifying commitment to his network forces him to maintain an emotional distance. In Bryskyr, he chooses to leave her behind as a local anchor, a decision that breaks her heart but cements her religious duty.
+- **[[Chryst]]**: She bears a deep, complex loyalty and possible romantic affection for him. However, Chryst's terrifying commitment to his network forces him to maintain an emotional distance. In Brsykyr, she refuses to be left behind as a mere anchor. She founds the local community, but ultimately chooses to join Chryst on his journey as his loyal, heavy shield.
 - **The Maxt Empire**: She views her past allegiance with profound disgust and shame.
 
 ### LIFESTYLE
 
-Ascetic and vigilant. As the anchor of the Brsykyr congregation, she lives simply among the people, constantly tending to their physical and spiritual needs while waiting for Chryst's eventual return.
+Ascetic and vigilant. Though she holds the title of founder of the Brsykyr congregation, she lives a nomadic life on the road with Chryst, constantly tending to the squad's physical and spiritual needs as their frontline protector.
 
 ### PRESENTATION
 

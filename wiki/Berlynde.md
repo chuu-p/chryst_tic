@@ -15,7 +15,7 @@ The cold MaxT General and wielder of the Obsidian Aegis.
 
 ## Relationships
 
-- **Chryst**: When she joins the squad, her extra naughty and flirty behavior leaves Chryst constantly flustered. In the squad's "rock paper scissors" dynamic, Chryst beats Berlynde because his second heart makes him 50% immune to her mind-control magic.
+- **Chryst**: Chryst and Berlynde have a complicated, intense history. She is the one who unleashed the Touch of Death that killed his childhood love, Carolyn. When they later encounter each other, they fight to a brutal standstill, unable to beat one another. Recognizing their equal strength and a dark, twisted mutual attraction, they agree to a truce. Chryst ultimately hires her into his squad as a frontline damage dealer. Despite their past, her extra naughty and flirty behavior leaves Chryst constantly flustered. In the squad's "rock-paper-scissors" dynamic, Chryst beats Berlynde because his second heart makes him 50% immune to her mind-control magic.
 - **Tymo**: She teases Chryst heavily, which Tymo cringes at but finds secretly funny. She beats Tymo in the squad's dynamic because she can fully mind-control him.
 
 ## Abilities & Combat

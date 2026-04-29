@@ -8,11 +8,11 @@ chapter_next: "[[Chapter - Brsykyr]]"
 
 ## Summary
 
-The peace of Yswyndt is shattered by the industrial might of the [[MAXT]] empire. Seventeen-year-old **Helfrych** and his brother [[Cosymo]] are thrust onto the front lines, defending their homeland against the mechanical efficiency of General [[Berlynde]]. Unlike the imperial forces, which are driven by fear and Berlynde's cold isolation, the brothers fight with a blind trust and teamwork that forges them into a singular shield.
+The suffocating peace of Yswyndt is shattered by the industrial might of the [[MAXT]] empire. Seventeen-year-old [[Chryst|Helfrych]] and his childhood love the female hero [[Carolyn]] are thrust into grueling trench warfare, where red and black uniform, industrial weaponry, and shadow magic permanently stain the pristine snow. They defend their homeland against the mechanical efficiency of the [[Unnamed Maxt General]] and [[Berlynde]]. Unlike the imperial forces, which are driven by trauma and Berlynde's cold isolation, they fight with a blind trust and teamwork that forges them into a singular shield.
 
-The conflict reaches its climax when Berlynde, a powerful shadow mage, unleashes the forbidden **Touch of Death**. Though her target is Helfrych, Cosymo sacrifices himself to take the lethal blow. Driven by grief and a refusal to let death prevail, Helfrych performs a forbidden soul-fusion ritual, merging with his brother’s essence.
+The conflict reaches its psychological breaking point when Berlynde, a terrifying shadow mage, unleashes the forbidden **Touch of Death**—an intimate, cold, and horrifyingly quiet execution rather than a glorious ultimate move. Though her target is Helfrych, Carolyn sacrifices herself to take the lethal blow. Driven by grief and a refusal to let death prevail, Helfrych performs a forbidden, macabre soul-fusion ritual, merging with his childhood love Carolyn's essence.
 
-He emerges as **[[Chryst]]**, a twin-hearted "Bloody Phoenix"—a composite entity with the martial skill of a Hero and the divine radiance of a Priest. After clashing with a second [[Unnamed Maxt General]] who arrives to rescue the wounded Berlynde, Chryst forces an imperial retreat. The chapter ends with a year-long ceasefire, as Chryst, now detached from his homeland and focused solely on his brother's revival, departs the North to connect the world in a global network of [[Fayth]].
+He emerges as **[[Chryst]]**, a twin-hearted "Bloody Phoenix". Far from a heroic awakening, this form is a tragic, monstrous necessity—a composite entity with the sword and martial skill of a Hero and the terrifying, detached radiance of a Priest. After clashing with the [[Unnamed Maxt General]] who arrives to rescue the wounded Berlynde, Chryst forces an imperial retreat. The aftermath of the battle feels melancholic and hollow. The chapter ends with a year-long ceasefire, as Chryst, now detached from his homeland and focused solely on his childhood love's revival, departs the North to connect the world in a global network of [[Fayth]].
 
 ## Scenes
 
@@ -37,9 +37,9 @@ He emerges as **[[Chryst]]**, a twin-hearted "Bloody Phoenix"—a composite enti
 
 Helfrych’s journey is one of terminal transformation. He moves from a cooperative, empathetic defender to the detached, goal-oriented Chryst. His new identity is a "Hero/Priest" hybrid—a calm, casual force of nature whose eyes and blade glow with the redirected Fayth of his followers.
 
-### Cosymo (The Second Heart)
+### Girl 1 (The Second Heart)
 
-Cosymo transitions from Helfrych’s active protector to the permanent source of his power. As the "frozen heart" within the cyan resin gem, he provides the martial instinct and physical resilience that define Chryst's combat style, while fueling Chryst's singular obsession with his eventual revival.
+Girl 1 transitions from Helfrych’s active protector to the permanent source of his power. As the "frozen heart" within the cyan resin gem, she provides the martial instinct and physical resilience that define Chryst's combat style, while fueling Chryst's singular obsession with her eventual revival.
 
 ### Berlynde
 

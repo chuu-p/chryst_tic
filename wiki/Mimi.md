@@ -12,7 +12,7 @@ A master ice and snow puppeteer mage, living in Bysfrost as an immigrant.
 ## Themes
 
 - **Virtue**: **Charity (vs Greed)**. Placing others' needs before your own.
-- **Theme Song**: I can't get high
+- **Theme Song**: "I can't get high" (Icy Tsundere Fairy Song)
 
 ## Background
 
@@ -21,7 +21,7 @@ When they meet again later, she has developed icy wings protruding from her hips
 
 ## Personality
 
-She has become a tsundere and acts quite selfishly. She is in love with Chryst, but he does not reciprocate (since he loves Astryd/Girl 1). With others, she is friendly but not exceptionally warm.
+She has become a tsundere and acts quite selfishly. She is in love with Chryst, but he does not reciprocate (since he loves Carolyn). With others, she is friendly but not exceptionally warm.
 
 ## Abilities & Combat
 

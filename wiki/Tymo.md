@@ -129,6 +129,7 @@ beat sheet - tymo
 ## Personality
 
 - **Theme/Virtue**: **Patience (vs Wrath)**. Tymo is always happy and never gets genuinely angry. He waits a long time for the perfect moment to reclaim his homeland with as little bloodshed as possible, performing his duties as a sniper efficiently.
+- **Theme Song**: *Nature Boy* (Acoustic/Folk style)
 
 # CHARACTER MAP
 

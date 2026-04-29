@@ -495,7 +495,7 @@ world.entities.push({
 const drk = [0, 0, 1, 2, 3, 6, 7, 15, 0, 8, 9, 10, 13, 14, 15, 0];
 
 const rnd = (a = 0, b = 1) => a + Math.random() * (b - a);
-
+const rnd_choice = (a = 0, b = 1) => (Math.random() > 0.5 ? a : b);
 /**
  * @type {{ t: string; x: any; y: any; d: number; c: number; ftl: number; s: number; }[]}
  */
@@ -503,7 +503,7 @@ let particles = [];
 
 function water() {
   const h = 68;
-  const tt = time() / 200;
+  const tt = time() / 400;
 
   for (let x = 0; x <= 239; x++) {
     for (let y = h; y <= 135; y++) {
@@ -528,9 +528,9 @@ function part(x, y) {
     x,
     y,
     d: Math.PI / 2 + rnd(0, Math.PI / 8),
-    c: Math.floor(rnd(12, 15)),
+    c: rnd_choice(Color.White, Color.Magenta),
     ftl: 80 + rnd(0, 90),
-    s: rnd(0, 1),
+    s: rnd(0) / 4,
   });
 }
 
@@ -544,9 +544,9 @@ function part2(x, y) {
     x,
     y,
     d: Math.PI / 2 + rnd(0, Math.PI / 8),
-    c: 10,
+    c: Color.Green,
     ftl: 30,
-    s: rnd(),
+    s: rnd() / 8,
   });
 }
 
@@ -571,9 +571,10 @@ function drawParticles() {
       p.x += Math.cos(p.d) * p.s;
       p.y += Math.sin(p.d) * p.s;
     } else {
-      let c = 10;
-      if (p.ftl < 10) c = 9;
-      if (p.ftl < 5) c = 8;
+      /** @type {number} */
+      let c = Color.White;
+      if (p.ftl < 10) c = Color.Cyan;
+      if (p.ftl < 5) c = Color.Blue;
 
       ellib(p.x, p.y, 8 - p.ftl / 5, 4 - p.ftl / 10, c);
     }
@@ -604,8 +605,8 @@ function TIC() {
 
   water();
 
-  // spawn rain
-  for (let i = 0; i < 2; i++) {
+  // spawn rain — rate: 0.5 particles/frame (1/4 of original 2/frame)
+  if (t % 2 === 0) {
     const x = rnd(-20, 260);
     const y = -5;
     part(x, y);

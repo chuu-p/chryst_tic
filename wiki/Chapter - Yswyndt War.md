@@ -27,7 +27,7 @@ He emerges as **[[Chryst]]**, a twin-hearted "Bloody Phoenix". Far from a heroic
 | property        | value                                                                                     |
 | --------------- | ----------------------------------------------------------------------------------------- |
 | Location        | Yswyndt Southern Gates, The Trenches                                                      |
-| Main Characters | [[Helfrych]], [[Cosymo]], [[Berlynde]]                                                    |
+| Main Characters | [[Helfrych]], [[Carolyn]], [[Berlynde]]                                                    |
 | Key Themes      | Teamwork vs Isolation, Sacrifice, The Hero/Priest Hybrid, Detachment                      |
 | Primary Outcome | Helfrych becomes Chryst; a ceasefire is established; the global mission for Fayth begins. |
 
@@ -43,4 +43,4 @@ Girl 1 transitions from Helfrych’s active protector to the permanent source of
 
 ### Berlynde
 
-The General serves as a dark mirror to the brothers. Despite her immense power, her lack of trust in her subordinates and her reliance on forbidden shadow magic like the **Touch of Death** ultimately lead to her near-assassination and retreat.
+The General serves as a dark mirror to the duo. Despite her immense power, her lack of trust in her subordinates and her reliance on forbidden shadow magic like the **Touch of Death** ultimately lead to her near-assassination and retreat.

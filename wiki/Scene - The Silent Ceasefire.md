@@ -30,7 +30,7 @@ _Soft, distant wind chimes and a lonely flute melody. The sound of melting ice._
 | who is your main character?         | Chryst                                                             |
 | what are they trying to accomplish? | To plan a path beyond Yswyndt to gather more Fayth for the ritual. |
 | who's trying to stop them?          | The isolation of his homeland and the exhaustion of his soul.      |
-| what happens if they fail?          | The ceasefire ends, and his brother remains frozen forever.        |
+| what happens if they fail?          | The ceasefire ends, and Carolyn remains frozen forever.        |
 
 ## character developments
 
@@ -59,11 +59,11 @@ The Yswyndt Monastery was quiet, but it was a different kind of quiet. It wasn't
 
 Chryst stood by the window, his traveling cloak draped over his armor. The cyan gem in his chest glowed softly, a heartbeat of golden light against the deepening dusk.
 
-"Rebuild it if you wish, Father," Chryst said. His voice was a calm, casual harmony, devoid of any sentimental warmth. "But Yswyndt is no longer enough. The Battle of the Northern Gates drained the local Fayth to its dregs. Even if every man, woman, and child here prayed until they reached the Grave, it wouldn't be enough to unfreeze Cosymo."
+"Rebuild it if you wish, Father," Chryst said. His voice was a calm, casual harmony, devoid of any sentimental warmth. "But Yswyndt is no longer enough. The Battle of the Northern Gates drained the local Fayth to its dregs. Even if every man, woman, and child here prayed until they reached the Grave, it wouldn't be enough to unfreeze Carolyn."
 
-Fyrchtegott turned, his eyes narrowing. "Cosymo is gone, boy. You saved his soul, yes, but you cannot sacrifice the future of your people for a ghost."
+Fyrchtegott turned, his eyes narrowing. "Carolyn is gone, boy. You saved her soul, yes, but you cannot sacrifice the future of your people for a ghost."
 
-Chryst looked at his hands, then at the mercury reflection in the glass. "They are not my people. They are... participants. And Cosymo is not a ghost. He is a work in progress."
+Chryst looked at his hands, then at the mercury reflection in the glass. "They are not my people. They are... participants. And Carolyn is not a ghost. She is a work in progress."
 
 He turned to face the old priest. "I have calculated the requirements. To truly unfreeze the cyan heart, I need a global network. I need the Fayth of the South, the East, and the West. I need every node on this continent to pulse with the same belief."
 

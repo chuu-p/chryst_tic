@@ -12,7 +12,7 @@ He placed his hands on her shoulders. They were warm, a stark contrast to the fr
 
 "I have been a weapon for so long," she whispered, her voice cracking. "I do not know how to be a person again."
 
-"You will not be a person. You will be a light," Chryst replied. He guided her into the fountain until the water reached her heart. "Let the ice enter your veins and freeze the sins of the past. When you rise, you shall be tempered by the cold and reborn in the fire of the Megami's love."
+"You will not be a person. You will be a light," Chryst replied. He guided her into the fountain until the water reached her heart. "Let the ice enter your veins and freeze the sins of the past. When you rise, you shall be tempered by the cold and reborn in the fire of the Goddess's love."
 
 He pressed her back, the dark water closing over her head. For a moment, there was only the silence of the deep. Then, with a gasp, she emerged, the moonlight clinging to her like a shroud.
 

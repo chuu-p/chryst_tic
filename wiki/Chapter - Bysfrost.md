@@ -1,7 +1,7 @@
 ---
 type: "[[T Chapter]]"
 chapter_previous:
-chapter_next: "[[Chapter - Bryskyr]]"
+chapter_next: "[[Chapter - Brsykyr]]"
 ---
 
 # Chapter: [[Bysfrost]]

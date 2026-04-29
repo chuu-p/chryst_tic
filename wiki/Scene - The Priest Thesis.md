@@ -47,7 +47,7 @@ orphan->wanderer->warrior->martyr
 | character | phase      | want                  | obstacle            | solution                    | twist                                               | tracking: Headlines      |
 | --------- | ---------- | --------------------- | ------------------- | --------------------------- | --------------------------------------------------- | ------------------------ |
 | Chryst    | Wanderer   | To prove his Mastery  | The Soul's escape   | Icy Resin + Mass Prayer     | The revival is a perfect clinical success.          | The Breath of the Void   |
-| Cosymo    | Supporting | To anchor his brother | Physical exhaustion | Holding the [[Lend Invoke]] | Cosymo realizes he has become a tool of the arcane. | The Bearer of the Burden |
+| Carolyn    | Supporting | To anchor Helfrych | Physical exhaustion | Holding the [[Lend Invoke]] | Carolyn realizes he has become a tool of the arcane. | The Bearer of the Burden |
 
 ---
 
@@ -57,7 +57,7 @@ The Great Church of Yswyndt was filled to the rafters. Every villager, from the 
 
 "Thy thesis is at hand, Chryst," Fyrchtegott’s voice echoed. "Show them the Will of the Goddess."
 
-Chryst stood before a young lamb, its fleece white as the snow outside. He felt [[Cosymo]]'s hand on his shoulder—a warm, solid weight. Through [[Lend Invoke]], Cosymo was already funneling the steady, rhythmic energy of his own life into Chryst, preparing him for the strain.
+Chryst stood before a young lamb, its fleece white as the snow outside. He felt [[Carolyn]]'s hand on his shoulder—a warm, solid weight. Through [[Lend Invoke]], Carolyn was already funneling the steady, rhythmic energy of his own life into Chryst, preparing him for the strain.
 
 The ritual began with the stroke of a blade. A clean kill. The Priest of the village performed the slaughter, as tradition dictated, but then he stepped aside.
 
@@ -75,7 +75,7 @@ With a final, focused effort, Chryst transplanted the glowing resin-heart back i
 
 The congregation’s voices rose in a thunderous crescendo. The air in the church vibrated. The icy resin within the lamb began to crackle and thaw, releasing the trapped soul like a spring flood.
 
-For a long, terrifying moment, both Chryst and Cosymo were bent double, their faces pale under the strain of the massive energy transfer.
+For a long, terrifying moment, both Chryst and Carolyn were bent double, their faces pale under the strain of the massive energy transfer.
 
 Then, the lamb’s eyes snapped open.
 
@@ -85,4 +85,4 @@ The villagers erupted into a sound of awe and relief. They reached out to touch 
 
 Fyrchtegott stepped forward, his eyes finally showing a flicker of approval. "The thesis is complete. Thou art a Priest of the Yswyndt, Chryst. Go forth and teach them that death is but a debt we no longer need to pay."
 
-Chryst looked at the happy lamb, then at his brother Cosymo, who looked utterly drained. He smiled, but it was a cold, tired smile. The miracle was his, and the power was absolute.
+Chryst looked at the happy lamb, then at his brother Carolyn, who looked utterly drained. He smiled, but it was a cold, tired smile. The miracle was his, and the power was absolute.

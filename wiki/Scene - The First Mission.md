@@ -22,13 +22,13 @@ In a final act of grace, Chryst forgives the bandits. He allows them to live amo
 
 Over the next two weeks, Chryst remains in Bysfrost to solidify the mission. He hires a local man to serve as the village priest, training him and Astryd in the ways of the [[Cult of Fayth]]. Under his guidance, the village begins to thrive.
 
-However, the peace is short-lived. A messenger arrives from [[Bryskyr]] with urgent orders for [[Astryd]]. She is commanded to return to the city immediately—and she is ordered to arrest Chryst for the illegal use of magic without permission and bring him to [[Bryskyr]] for trial.
+However, the peace is short-lived. A messenger arrives from [[Brsykyr]] with urgent orders for [[Astryd]]. She is commanded to return to the city immediately—and she is ordered to arrest Chryst for the illegal use of magic without permission and bring him to [[Brsykyr]] for trial.
 
-Astryd is torn between her duty to [[Maxt]] and her deep debt to the man who saved her. Hiding her true conflicting feelings, she tells Chryst she will escort him to [[Bryskyr]] under "guard" for his protection, though both know the true weight of the shackles that now hang over their journey.
+Astryd is torn between her duty to [[Maxt]] and her deep debt to the man who saved her. Hiding her true conflicting feelings, she tells Chryst she will escort him to [[Brsykyr]] under "guard" for his protection, though both know the true weight of the shackles that now hang over their journey.
 As the sun sets, Chryst and Astryd leave Bysfrost behind, heading toward the next leg of their journey.
 
 SUMMARY
-[[Chryst]] establishes the [[Cult of Fayth]] in [[Bysfrost]], training the villagers and even forgiving the bandits. However, his illegal use of magic catches up with him when [[Astryd]] receives orders from [[Bryskyr]] to arrest him and bring him in for trial.
+[[Chryst]] establishes the [[Cult of Fayth]] in [[Bysfrost]], training the villagers and even forgiving the bandits. However, his illegal use of magic catches up with him when [[Astryd]] receives orders from [[Brsykyr]] to arrest him and bring him in for trial.
 
 ### music
 
@@ -61,7 +61,7 @@ SUMMARY
 | property                                   | answer                                                                |
 | ------------------------------------------ | --------------------------------------------------------------------- |
 | how does this scene develop the character? | Chryst proves his power is tied to community, not just himself        |
-| how does this scene further the plot?      | Transitions the story to [[Bryskyr]] with Chryst as a prisoner-escort |
+| how does this scene further the plot?      | Transitions the story to [[Brsykyr]] with Chryst as a prisoner-escort |
 
 | how does this scene teach the audience something new about this world? | Demonstrates the mechanics of "Holy Scripture" magic |
 

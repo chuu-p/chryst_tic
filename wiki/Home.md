@@ -4,14 +4,14 @@ Welcome to the official documentation for **Chryst**, a nordic noir high fantasy
 
 ## Core Premise
 
-Chryst (born Helfrych) is a twin-hearted Hero-Priest on a global mission to connect the world through a network of **Fayth**. Driven by the obsession to revive his fallen brother **Cosymo**, he travels across the frozen North and into the heart of the **MaxT Empire**, building a spiritual power grid to fuel his ultimate miracle.
+Chryst (born Helfrych) is a twin-hearted Hero-Priest on a global mission to connect the world through a network of **Fayth**. Driven by the obsession to revive his childhood love **Carolyn**, he travels across the frozen North and into the heart of the **MaxT Empire**, building a spiritual power grid to fuel his ultimate miracle.
 
 ## Quick Links
 
 ### Key Characters
 
-- **[[Chryst]]**: The Fused Messiah. A hybrid of Warrior and Priest carrying his brother's soul in a cyan resin heart.
-- **[[Cosymo]]**: Chryst's brother and the energetic anchor of their shared existence.
+- **[[Chryst]]**: The Fused Messiah. A hybrid of Warrior and Priest carrying Carolyn's soul in a cyan resin heart.
+- **[[Carolyn]]**: The Hero and the energetic anchor of their shared existence.
 - **[[Astryd]]**: A former MaxT knight turned Fayth priestess, anchoring the mission in Brsykyr.
 - **[[Tymo]]**: A Syrvann hunter and Alteration Mage seeking to liberate his homeland.
 - **[[Fyrchtegott]]**: The Cult of Death Village Priest who mentored Chryst through the dual nature of holy and unholy arts.

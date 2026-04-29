@@ -17,7 +17,7 @@ The second was a warrior of honor, a veteran whose steel moved with the grace of
 **Round 3: The Greedy Shadow**
 The final match of the day was against a man who smelled of poison and ambition. He fought dirty, throwing ash into Chryst's eyes and feigning injury to draw him in. He wanted the prize at any cost, his soul black with the rot of greed.
 "Balance," Chryst whispered, blinking away the stinging dust. "You seek to tip the scales too far."
-The opponent lunged with a hidden dagger, but [[Megami]]’s light flared from Chryst’s chest. The unholy malice in the man’s heart acted as a lightning rod for the holy magic. The blast threw him back, his own treachery turned against him.
+The opponent lunged with a hidden dagger, but [[Goddess]]’s light flared from Chryst’s chest. The unholy malice in the man’s heart acted as a lightning rod for the holy magic. The blast threw him back, his own treachery turned against him.
 "To win is good," Chryst told the fallen, dying man. "To win at the cost of your soul is to lose everything. You chose the dark, and the light has judged you."
 
 SUMMARY

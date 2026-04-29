@@ -13,7 +13,7 @@ Fyrchtegott is the democratically elected Village Priest of [[Yswyndt]], taking 
 
 Historically, the Cult of Death operated in the shadows—a macabre school utilizing heavy smoke magic and necromantic aesthetics to enact their faith. However, Fyrchtegott proved that death is simply another mechanism of the world. After assuming the role of Village Priest, one of his primary duties became the training of apprentice priests within the icy confines of the Yswyndt Monastery.
 
-He acts as the harsh, pragmatic mentor to [[Chryst|Helfrych]] (the boy who would become [[Chryst]]). However, their relationship is fundamentally detached. Chryst is intensely self-reliant, choosing his own curriculum and relying on Fyrchtegott merely for oversight and guidance into the forbidden [[Holy Language]]. At the same time, Chryst's brother, [[Cosymo]], was educated entirely separately by a different mentor dedicated to training hero apprentices, structurally separating the brothers' foundations before they eventually merged.
+He acts as the harsh, pragmatic mentor to [[Chryst|Helfrych]] (the boy who would become [[Chryst]]). However, their relationship is fundamentally detached. Chryst is intensely self-reliant, choosing his own curriculum and relying on Fyrchtegott merely for oversight and guidance into the forbidden [[Holy Language]]. At the same time, Carolyn, the Hero, was educated entirely separately by a different mentor dedicated to training hero apprentices, structurally separating their foundations before they eventually merged.
 
 ## Appearance
 

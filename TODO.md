@@ -11,12 +11,26 @@ kanban-plugin: board
 	  - this is the second line of the explanation
 - [ ] (this task is only for humans, not ai agents) define osts/themes for each character
 	  - tymo - nature boy
-- [ ] Read each Chapter and Scene again and check them for inconsistencies, also flesh out ideas, scenes, feelings, etc. if necessary and make it nordic noir feeling
-- [ ] Generate new scene ideas for each chapter, for greater arcs and chapters, and for impossible choices for the main characters. What is missing from this story that would fit the nordic noir / philosophical / high fantasy tone and themes?
+- [ ] #3 Add Spell pages (with template T Spell) for all spells and abilities, and link them to the character pages. Each of the 7 characters have abilities that can be refactored into their own pages. 
+- [ ] #4 Add Location pages (with template T Location) for all major named locations, and link them to the character/scene pages. Also flesh out the locations a bit more in their respective pages.  
+- [ ] #5 Add summary pages and link pages and update Home.md so that a reader of the wiki can easily navigate the wiki and read the main branch of the story chapter by chapter and scene by scene. Also check if all scenes have a previous and next scene, etc.  
+- [ ] #6 Scan the wiki folder for NOTE: annotations and work on them, implement what is written in the annotation into the story 
 
 ## done (keep heading)
 
 **Complete**
+
+- [x] #1 Read each Chapter and Scene again and check them for inconsistencies, also flesh out ideas, scenes, feelings, etc. if necessary and make it nordic noir feeling
+	  - Replaced all Cosymo references with Carolyn across 10+ files
+	  - Fixed gender pronouns and "brother" references in scenes
+	  - Fixed Bryskyr typos to Brsykyr in chapter links and scenes
+	  - Rewrote Parting of Ways scene so Astryd joins the party (matching chapter summary)
+	  - Fixed Tymo size inconsistency, replaced Megami with Goddess
+- [x] #2 Generate new scene ideas for each chapter, for greater arcs and chapters, and for impossible choices for the main characters. What is missing from this story that would fit the nordic noir / philosophical / high fantasy tone and themes?
+	  - Added 8 impossible choices for Yswyndt Origins, Yswyndt War, Bysfrost, and Brsykyr
+	  - Added 6 new scene ideas to Meet Cutes section
+	  - Fully fleshed out "Going to Ofyo" chapter with summary, scenes, info, arcs
+	  - Fully fleshed out "Dungeon Mission" chapter (renamed "The Frozen Hell")
 
 
 ***

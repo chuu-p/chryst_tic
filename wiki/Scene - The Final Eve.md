@@ -8,7 +8,7 @@ The tavern was thick with the scent of stale ale and the sweat of desperate men.
 
 "Priest," a man sneered, leaning over his mug. "They say you've bartered with the Mayor. That your goddess gets her foothold in Brsykyr only if you bleed for it in the arena. Is that all your faith is worth? A wager?"
 
-[[Chryst]] looked at him, his eyes steady despite the weariness in his bones. "I walk the path the Megami has carved before me," he replied, his voice a low resonance in the quiet room. "It is not for me to question the stones she places beneath my feet, only to tread upon them with purpose."
+[[Chryst]] looked at him, his eyes steady despite the weariness in his bones. "I walk the path the Goddess has carved before me," he replied, his voice a low resonance in the quiet room. "It is not for me to question the stones she places beneath my feet, only to tread upon them with purpose."
 
 The attention turned to the shadow in the corner—[[Fexta]], the [[Maxt]] champion, whose very presence seemed to drain the warmth from the hearth.
 

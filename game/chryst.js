@@ -501,6 +501,31 @@ const rnd_choice = (a = 0, b = 1) => (Math.random() > 0.5 ? a : b);
  */
 let particles = [];
 
+// --- FADE / GAME STATE ---
+const FADE_DURATION = 1500;
+/** @type {"fade" | "title"} */
+let gameState = "fade";
+
+// Snapshot palette at module load (before any cls() zeros the screen buffer).
+// 0x3FC0 is the display palette (16 colors × 3 bytes = 48 bytes).
+// This must live in global scope so cls() inside TIC() can't corrupt it.
+const DISP_PAL = 0x3fc0;
+/** @type {number[]} */
+const origPal = [];
+for (let _i = 0; _i < 48; _i++) {
+  origPal.push(peek(DISP_PAL + _i));
+}
+
+/**
+ * Lerp display palette from black toward origPal.
+ * @param {number} progress 0.0 (black) → 1.0 (full color)
+ */
+function fadePalette(progress) {
+  for (let i = 0; i < 48; i++) {
+    poke(DISP_PAL + i, Math.floor(origPal[i] * progress));
+  }
+}
+
 function water() {
   const h = 68;
   const tt = time() / 400;
@@ -601,21 +626,32 @@ function drawParticles() {
 //#region main
 function TIC() {
   cls(0);
-  map();
-
+  // print("debug", 120, 60, Color.White);
+  // x=0 y=0 w=30 h=17 sx=0 sy=0 colorkey=-1 scale=1 remap=nil
+  map(0, 0, 30, 17, 0, 0, Color.Black, 1);
   water();
+  if (gameState === "fade") {
+    // Fade palette from black to full color over FADE_DURATION ticks
+    const progress = Math.min(t / FADE_DURATION, 1);
+    fadePalette(progress);
 
-  // spawn rain — rate: 0.5 particles/frame (1/4 of original 2/frame)
-  if (t % 2 === 0) {
-    const x = rnd(-20, 260);
-    const y = -5;
-    part(x, y);
-  }
-
-  drawParticles();
-
-  if (t % 120 < 60) {
-    print(`press start`, 96, 60, Color.Grey);
+    if (t >= FADE_DURATION) {
+      // Restore palette to full color and advance state
+      fadePalette(1);
+      gameState = "title";
+    }
+  } else {
+    // Title screen UI
+    if (t % 240 < 120) {
+      print("press start", 95, 60, Color.Grey);
+    }
+    // spawn rain — rate: 0.5 particles/frame (1/4 of original 2/frame)
+    if (t % 6 === 0) {
+      const x = rnd(-20, 260);
+      const y = -5;
+      part(x, y);
+    }
+    drawParticles();
   }
 
   t++;

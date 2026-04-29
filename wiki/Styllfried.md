@@ -38,12 +38,12 @@ A heavily armored, bearded veteran who functions as the grounded, tired, reliabl
 
 - Styllfried wields defensive void magic and a massive shield.
 - **Void Mage**
-  - `[[nullify spell]]` (active) - Nullifies spells cast near him.
-  - `[[resist magic]]` (passive) - High passive resistance to all schools of magic (including Berlynde's mind control).
+  - [[Spell - Nullify Spell]] (active) - Nullifies spells cast near him.
+  - [[Spell - Resist Magic]] (passive) - High passive resistance to all schools of magic (including Berlynde's mind control).
 - **Big Shield**
-  - `[[big shield]]` (passive) - Blocks massive amounts of physical damage.
-  - `[[Event Horizon]]` (passive) - His heavy metal shield contains a miniature void singularity that bends the trajectory of nearby magical projectiles, sucking them in to protect nearby allies.
-  - `[[Silence the Room]]` (active) - Slams his shield into the earth, creating a suffocating dome of absolute void energy. All active spells are canceled, and no one (including allies) can cast magic. Forces everyone into a pure gritty melee brawl, where the guy with the biggest shield usually wins.
+  - [[Spell - Big Shield]] (passive) - Blocks massive amounts of physical damage.
+  - [[Spell - Event Horizon]] (passive) - His heavy metal shield contains a miniature void singularity that bends the trajectory of nearby magical projectiles, sucking them in to protect nearby allies.
+  - [[Spell - Silence the Room]] (active) - Slams his shield into the earth, creating a suffocating dome of absolute void energy. All active spells are canceled, and no one (including allies) can cast magic. Forces everyone into a pure gritty melee brawl, where the guy with the biggest shield usually wins.
 
 ## Appearance
 

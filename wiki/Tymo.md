@@ -186,19 +186,19 @@ To liberate his people in Syrvann and unite the Nordic regions. His obstacles ar
 ## Abilities & Combat
 
 - **Alteration Magic**
-  - `[[change material]]` (active) - Changes any material into another (e.g., sword to whip).
-  - `[[alter body]]` (active) - Alters his body to be stronger, faster, and more durable.
+  - [[Spell - Change Material]] (active) - Changes any material into another (e.g., sword to whip).
+  - [[Spell - Alter Body]] (active) - Alters his body to be stronger, faster, and more durable.
   - `[[advanced materials]]` - Creates tech and guns from first principles, like carbon nanotubes and graphene.
-  - `[[Kinetic Metamaterial]]` (passive) - Altered clothing acting as a non-Newtonian fluid. Hardens on impact and stores kinetic energy for physical agility bursts.
-  - `[[Phase Traps]]` (active) - Depletes ground density temporarily, sinking enemies into solid rock before solidifying again to trap them.
+  - [[Spell - Kinetic Metamaterial]] (passive) - Altered clothing acting as a non-Newtonian fluid. Hardens on impact and stores kinetic energy for physical agility bursts.
+  - [[Spell - Phase Traps]] (active) - Depletes ground density temporarily, sinking enemies into solid rock before solidifying again to trap them.
 - **Inventor Skills**
-  - `[[gunsmithing]]` (active) - Crafts advanced firearms.
-  - `[[Graphene-Weave Cloak]]` (passive) - Structural cloak giving functional immunity to all cold debuffs.
-  - `[[The Silent Lead]]` (active) - Suppressed rail gun sniper rifle powered by alteration a vacuum barrel.
+  - [[Spell - Gunsmithing]] (active) - Crafts advanced firearms.
+  - [[Spell - Graphene-Weave Cloak]] (passive) - Structural cloak giving functional immunity to all cold debuffs.
+  - [[Spell - The Silent Lead]] (active) - Suppressed rail gun sniper rifle powered by alteration a vacuum barrel.
 - **Hunter Skills**
-  - `[[hunter's bow]]` & `[[sniper rifle]]` (active) - Extraordinary marksmanship.
-  - `[[hunter's senses]]` & `[[hunter's tracking]]` (passive/active) - Elite perception to detect ambushes and track targets.
-  - `[[hunter's stealth]]` & `[[hunter's trap]]` (passive/active) - Sets traps and turns invisible after preparation.
-  - `[[hunter's agility]]` (passive) - Peak agility rivaling 'physically gifted' warriors despite lacking the innate trait, powered by his body alteration.
+  - [[Spell - Hunter's Bow]] & [[Spell - Sniper Rifle]] (active) - Extraordinary marksmanship.
+  - [[Spell - Hunter's Senses]] & [[Spell - Hunter's Tracking]] (passive/active) - Elite perception to detect ambushes and track targets.
+  - [[Spell - Hunter's Stealth]] & [[Spell - Hunter's Trap]] (passive/active) - Sets traps and turns invisible after preparation.
+  - [[Spell - Hunter's Agility]] (passive) - Peak agility rivaling 'physically gifted' warriors despite lacking the innate trait, powered by his body alteration.
 - **Good Mood**
-  - `[[good mood]]` (passive) / `[[Sisu Philosophy]]` (passive) - Radical Finnish stoicism ("Inner freedom"). Prevents fear or pain-shock, allowing 100% combat efficiency regardless of injury until death.
+  - [[Spell - Good Mood]] (passive) / [[Spell - Sisu Philosophy]] (passive) - Radical Finnish stoicism ("Inner freedom"). Prevents fear or pain-shock, allowing 100% combat efficiency regardless of injury until death.

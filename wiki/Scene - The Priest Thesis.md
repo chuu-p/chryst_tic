@@ -47,7 +47,7 @@ orphan->wanderer->warrior->martyr
 | character | phase      | want                  | obstacle            | solution                    | twist                                               | tracking: Headlines      |
 | --------- | ---------- | --------------------- | ------------------- | --------------------------- | --------------------------------------------------- | ------------------------ |
 | Chryst    | Wanderer   | To prove his Mastery  | The Soul's escape   | Icy Resin + Mass Prayer     | The revival is a perfect clinical success.          | The Breath of the Void   |
-| Carolyn    | Supporting | To anchor Helfrych | Physical exhaustion | Holding the [[Lend Invoke]] | Carolyn realizes he has become a tool of the arcane. | The Bearer of the Burden |
+| Carolyn    | Supporting | To anchor Helfrych | Physical exhaustion | Holding the [[Spell - Lend Invoke]] | Carolyn realizes he has become a tool of the arcane. | The Bearer of the Burden |
 
 ---
 
@@ -57,7 +57,7 @@ The Great Church of Yswyndt was filled to the rafters. Every villager, from the 
 
 "Thy thesis is at hand, Chryst," Fyrchtegott’s voice echoed. "Show them the Will of the Goddess."
 
-Chryst stood before a young lamb, its fleece white as the snow outside. He felt [[Carolyn]]'s hand on his shoulder—a warm, solid weight. Through [[Lend Invoke]], Carolyn was already funneling the steady, rhythmic energy of his own life into Chryst, preparing him for the strain.
+Chryst stood before a young lamb, its fleece white as the snow outside. He felt [[Carolyn]]'s hand on his shoulder—a warm, solid weight. Through [[Spell - Lend Invoke]], Carolyn was already funneling the steady, rhythmic energy of his own life into Chryst, preparing him for the strain.
 
 The ritual began with the stroke of a blade. A clean kill. The Priest of the village performed the slaughter, as tradition dictated, but then he stepped aside.
 
@@ -67,7 +67,7 @@ Chryst stepped forward. His hands moved with a surgeon’s precision. He extract
 
 As the villagers began to chant the ancient prayers, the icy resin began to glow with a blinding, blue-white light. It wasn't just freezing the heart; it was amplifying the Fayth of the room, turning the congregation into a singular battery of spiritual energy. Chryst used this surge to guide the lamb's escaping soul, sealing it into the heart with runes of the [[Holy Language]].
 
-He then turned to the lamb’s corpse. With a wave of his hand and a surge of Fayth, he cast [[A Broken Knight's Grace]]. The wound in the throat closed; the blood vanished. The body lay there—whole, healthy, but empty.
+He then turned to the lamb’s corpse. With a wave of his hand and a surge of Fayth, he cast [[Spell - A Broken Knight's Grace]]. The wound in the throat closed; the blood vanished. The body lay there—whole, healthy, but empty.
 
 With a final, focused effort, Chryst transplanted the glowing resin-heart back into the chest of the lamb.
 

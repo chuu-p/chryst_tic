@@ -48,7 +48,7 @@ Chryst’s primary struggle is between his obsessive mission and his found famil
 
 ### The Moral Compass Arc: Faith vs. Compassion
 
-Chryst begins his journey with absolute, chilling, blind faith in the Cult of Fayth's Doctrine. He entirely relies on his `[[holy blade]]` to glow when someone is "sinful," outsourcing all moral weight and ethical burdens to the Goddess.
+Chryst begins his journey with absolute, chilling, blind faith in the Cult of Fayth's Doctrine. He entirely relies on his [[Spell - Holy Blade]] to glow when someone is "sinful," outsourcing all moral weight and ethical burdens to the Goddess.
 
 - **The Dogmatic Failures**: Throughout the mid-game, he makes multiple horrifically unjust choices solely because the Goddess "judged it so". When his blade demands the brutalization of starving children or ignores sadistic torturers, he begins to see the horrifying flaws in divine doctrine.
 - **The Awakening**: He realizes the Goddess, while immensely powerful, operates on a bizarrely alien logic disconnected from actual human trauma.
@@ -72,31 +72,31 @@ In the opulent city of Byzantine, the dangerously obsessed Chryst finally tracks
 ## Abilities & Combat
 
 - **Unholy Spells**
-  - `[[invigorate vitae]]` (active) - Drinking the blood of a freshly killed corpse heals his own wounds. Strongly boosted if the whole corpse is consumed.
-  - `[[heal corpse]]` (active) - He can heal a corpse by laying on his hands.
+  - [[Spell - Invigorate Vitae]] (active) - Drinking the blood of a freshly killed corpse heals his own wounds. Strongly boosted if the whole corpse is consumed.
+  - [[Spell - Heal Corpse]] (active) - He can heal a corpse by laying on his hands.
 - **Holy Spells**
-  - `[[healing hands]]` (active) - Heats/heals a person by laying hands and transferring Fayth.
-  - `[[insta heal]]` (active) - Instantly heals a person from a distance.
-  - `[[banish undead]]` (active) - Banishes or kills undead creatures with holy magic.
-  - `[[holy shield]]` (active) - A bubble of pure Fayth energy that blocks all damage.
-  - `[[holy shield parry]]` (active) - Parries with the shield to deflect blows.
-  - `[[judgement smite]]` (active) - Smites an enemy (sinner/undead) with massive holy damage.
+  - [[Spell - Healing Hands]] (active) - Heats/heals a person by laying hands and transferring Fayth.
+  - [[Spell - Insta Heal]] (active) - Instantly heals a person from a distance.
+  - [[Spell - Banish Undead]] (active) - Banishes or kills undead creatures with holy magic.
+  - [[Spell - Holy Shield]] (active) - A bubble of pure Fayth energy that blocks all damage.
+  - [[Spell - Holy Shield Parry]] (active) - Parries with the shield to deflect blows.
+  - [[Spell - Judgement Smite]] (active) - Smites an enemy (sinner/undead) with massive holy damage.
 - **Holy Blade Spells**
-  - `[[holy blade]]` (passive/active) - A dull sword carved with holy programming runes that judges its victims. Bounces off the pure of heart. Can send ranged beams of Fayth.
+  - [[Spell - Holy Blade]] (passive/active) - A dull sword carved with holy programming runes that judges its victims. Bounces off the pure of heart. Can send ranged beams of Fayth.
 - **Frozen Heart Abilities**
-  - `[[frozen heart]]` (passive) - Carries a second heart frozen in an icy gem etched with code. Saves excess Fayth from Sunday services.
+  - [[Spell - Frozen Heart]] (passive) - Carries a second heart frozen in an icy gem etched with code. Saves excess Fayth from Sunday services.
     - _Resistance_ - 50% resistance to mind control magic.
     - _Absorbing Magic_ - Converts some incoming magic damage into Fayth stored in the heart.
     - _Fayth Store_ - Can store and cast from Fayth locally.
     - _Emotional Coldness_ - Distant and emotionally cold.
     - _Physically Gifted_ - Bestows him with immense physical strength and speed, allowing him to fight world-class knights.
 - **Holy Network/Programming Abilities**
-  - `[[holy programming]]` (active) - Writes prayers as holy code to cast spells or schedule operations using a magic e-ink display and split keyboard.
-  - `[[holy tattoos]]` (passive) - Tattoos act as executable code that glow, improving casting efficiency.
-  - `[[holy network listener]]` (active) - Hears prayers, feels the network's emotions, and communicates telepathically. Can be mentally taxing.
-  - `[[DDoS Prayer (Overload)]]` (active) - Routes aggressive sensory overload inputs into an enemy's mind.
-  - `[[Open Source Miracles]]` (passive) - Leaves background scripts in allies' gear (e.g. auto heal when HP < 10%).
-  - `[[Unholy Sandbox]]` (active) - Isolates a reality pocket where moral laws are suspended so he can use blood magic.
+  - [[Spell - Holy Programming]] (active) - Writes prayers as holy code to cast spells or schedule operations using a magic e-ink display and split keyboard.
+  - [[Spell - Holy Tattoos]] (passive) - Tattoos act as executable code that glow, improving casting efficiency.
+  - [[Spell - Holy Network Listener]] (active) - Hears prayers, feels the network's emotions, and communicates telepathically. Can be mentally taxing.
+  - [[Spell - DDoS Prayer]] (active) - Routes aggressive sensory overload inputs into an enemy's mind.
+  - [[Spell - Open Source Miracles]] (passive) - Leaves background scripts in allies' gear (e.g. auto heal when HP < 10%).
+  - [[Spell - Unholy Sandbox]] (active) - Isolates a reality pocket where moral laws are suspended so he can use blood magic.
 
 # CHARACTER MAP
 

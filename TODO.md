@@ -11,8 +11,6 @@ kanban-plugin: board
 	  - this is the second line of the explanation
 - [ ] (this task is only for humans, not ai agents) define osts/themes for each character
 	  - tymo - nature boy
-- [ ] #3 Add Spell pages (with template T Spell) for all spells and abilities, and link them to the character pages. Each of the 7 characters have abilities that can be refactored into their own pages. 
-- [ ] #4 Add Location pages (with template T Location) for all major named locations, and link them to the character/scene pages. Also flesh out the locations a bit more in their respective pages.  
 - [ ] #5 Add summary pages and link pages and update Home.md so that a reader of the wiki can easily navigate the wiki and read the main branch of the story chapter by chapter and scene by scene. Also check if all scenes have a previous and next scene, etc.  
 - [ ] #6 Scan the wiki folder for NOTE: annotations and work on them, implement what is written in the annotation into the story 
 
@@ -31,6 +29,12 @@ kanban-plugin: board
 	  - Added 6 new scene ideas to Meet Cutes section
 	  - Fully fleshed out "Going to Ofyo" chapter with summary, scenes, info, arcs
 	  - Fully fleshed out "Dungeon Mission" chapter (renamed "The Frozen Hell")
+- [x] #3 Add Spell pages (with template T Spell) for all spells and abilities, and link them to the character pages. Each of the 7 characters have abilities that can be refactored into their own pages.
+	  - Created 53 spell pages for all character abilities (Chryst: 19, Berlynde: 7, Tymo: 10, Mimi: 7, Styllfried: 5, Ygor: 4, Combo: 1)
+	  - Updated all spell references in character pages and scenes to use new [[Spell - Name]] format
+- [x] #4 Add Location pages (with template T Location) for all major named locations, and link them to the character/scene pages. Also flesh out the locations a bit more in their respective pages.
+	  - Created 21 location pages covering cities, specific locations, and faction bases
+	  - Locations include Yswyndt, Bysfrost, Brsykyr, Syrvann, Maxt Capital City, Byzantine, Frozen Hell Dungeon, etc.
 
 
 ***

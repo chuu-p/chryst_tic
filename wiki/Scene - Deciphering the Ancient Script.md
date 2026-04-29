@@ -63,12 +63,12 @@ Helfrych leaned over the massive tome, his eyes bloodshot. Beside him, [[Carolyn
 
 He turned to a new page in his journal, where he had begun sketching the diagrams for his thesis: _The Revival of the Lamb via Anima-Frozen Crystallization_.
 
-"I can read the [[Bible]] now," Helfrych continued, his voice trembling with a mix of exhaustion and ecstasy. "I understand [[Lend Invoke]]. I see why a soul can be frozen."
+"I can read the [[Bible]] now," Helfrych continued, his voice trembling with a mix of exhaustion and ecstasy. "I understand [[Spell - Lend Invoke]]. I see why a soul can be frozen."
 
 Carolyn looked at her, then at the priest. "Is this right, Fyrchtegott? To treat a life like a broken clock?"
 
 Fyrchtegott stepped into the candlelight. His eyes were cold, reflecting the pale blue of the North. "In my land, we do not ask if the blade is holy. We ask if it is sharp. Helfrych seeks to sharpen the very will of the Goddess. Let him work."
 
-Helfrych didn't hear them. He was already tracing the lines of the [[Compile Soul]] spell, his lips moving in silent translation. "The heart is the vessel. The resin is the anchor. The Fayth is the fire."
+Helfrych didn't hear them. He was already tracing the lines of the [[Spell - Compile Soul]] spell, his lips moving in silent translation. "The heart is the vessel. The resin is the anchor. The Fayth is the fire."
 
 He looked at Carolyn. "I will need you on Sunday. In the church. Before them all. We will show Yswyndt that the grave is not an end, but a misunderstanding."

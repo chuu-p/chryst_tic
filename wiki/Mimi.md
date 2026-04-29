@@ -46,12 +46,12 @@ Classic icy Tsundere. Aloof, easily flustered, and visually stunning with her fr
 
 - **Elementalist Ice Mage Spells**
   - Doesn't cast regular ice spells, but rather manipulates shards of ice and mirrors. Can compress water to create blinding flashes of light.
-  - `[[artillery mage]]` / `[[splash damage]]` (active) - Casts high AOE damage from a distance.
-  - `[[flashbang]]` (active) - Creates a flash of light that blinds enemies.
-  - `[[ice mirror]]` (active) - Creates mirrors of ice that reflect light and bewilder foes.
-  - `[[ice sniper]]` (active) - Her ultimate ability: charges a massive beam of light dealing huge line damage (akin to Lux's ultimate).
-  - `[[ice trap]]` (active) - AOE slow and root.
-  - `[[ice cage]]` (active) - A panic button that encases her in an invulnerable ice tomb, dealing damage to surrounding enemies.
+  - [[Spell - Artillery Mage]] / [[Spell - Splash Damage]] (active) - Casts high AOE damage from a distance.
+  - [[Spell - Flashbang]] (active) - Creates a flash of light that blinds enemies.
+  - [[Spell - Ice Mirror]] (active) - Creates mirrors of ice that reflect light and bewilder foes.
+  - [[Spell - Ice Sniper]] (active) - Her ultimate ability: charges a massive beam of light dealing huge line damage (akin to Lux's ultimate).
+  - [[Spell - Ice Trap]] (active) - AOE slow and root.
+  - [[Spell - Ice Cage]] (active) - A panic button that encases her in an invulnerable ice tomb, dealing damage to surrounding enemies.
 
 ## Combos
 

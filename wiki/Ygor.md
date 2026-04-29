@@ -1,7 +1,7 @@
 ---
 type: "[[T Supporting Character]]"
 race: "[[Race - Human]]"
-class: "[[Class - Warrior]]"
+class: "[[Class - Samurai]]"
 religion: ""
 ---
 
@@ -25,11 +25,11 @@ A brutal prince swordfighter from the Sand Kingdom who wields two samurai swords
 
 - He is a Samurai magic sword fighter who is **physically gifted**.
 - **Samurai Magic**
-  - `[[dual wield]]` (passive) - Uses two katanas to fight enemies.
-  - `[[blink slash]]` (active) - Dashes in a line, dealing damage to all enemies in his path. A hard engage.
-  - `[[recall to blade]]` (active) - Sets his blade in the ground to which he can later recall. An effective disengage.
+  - [[Spell - Dual Wield]] (passive) - Uses two katanas to fight enemies.
+  - [[Spell - Blink Slash]] (active) - Dashes in a line, dealing damage to all enemies in his path. A hard engage.
+  - [[Spell - Recall to Blade]] (active) - Sets his blade in the ground to which he can later recall. An effective disengage.
 - **Fayth Magic Empowered Swords**
-  - `[[judging slash]]` (active) - Slashes an enemy and cuts them only if the sword deems them a sinner. It harmlessly bounces off if they have a pure heart.
+  - [[Spell - Judging Slash]] (active) - Slashes an enemy and cuts them only if the sword deems them a sinner. It harmlessly bounces off if they have a pure heart.
 
 ## Appearance
 

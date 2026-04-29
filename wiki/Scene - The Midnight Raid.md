@@ -26,10 +26,10 @@ Chryst's expression softens. "You are right to want your homeland back. But your
 
 As the bandit prepares his killing blow, Chryst feels a familiar warmth. His holy sword begins to glow with an intense, divine light. It is not his own decision to step in; it is the goddess telling him to intervene. Trusting her blindly, he moves.
 
-Ignoring the threat of arrest, Chryst intervenes. He manifests a powerful [[Holy Shield]] around Astryd, deflecting the heavy blade. Chryst then engages the leader with his glowing holy sword. The bandit leader, already wounded and sensing that Chryst's divine power is too formidable to overcome in his current state, chooses to disengage. He flees into the night, promising to return with more men.
+Ignoring the threat of arrest, Chryst intervenes. He manifests a powerful [[Spell - Holy Shield]] around Astryd, deflecting the heavy blade. Chryst then engages the leader with his glowing holy sword. The bandit leader, already wounded and sensing that Chryst's divine power is too formidable to overcome in his current state, chooses to disengage. He flees into the night, promising to return with more men.
 
 SUMMARY
-[[Chryst]] wakes up to a bandit raid and saves [[Astryd]] from certain death. After a moral debate with the bandit leader, and guided by his goddess's will through his glowing sword, he drives off the attackers using a [[Holy Shield]].
+[[Chryst]] wakes up to a bandit raid and saves [[Astryd]] from certain death. After a moral debate with the bandit leader, and guided by his goddess's will through his glowing sword, he drives off the attackers using a [[Spell - Holy Shield]].
 
 ### music
 
@@ -71,5 +71,5 @@ orphan->wanderer->warrior->martyr
 
 | character  | phase    | want    | obstacle           | solution                         | twist                | tracking: Headlines  |
 | ---------- | -------- | ------- | ------------------ | -------------------------------- | -------------------- | -------------------- |
-| [[Chryst]] | Wanderer | Peace   | Bandit Leader      | Goddess's Will / [[Holy Shield]] | Illegal intervention | Guided by Faith      |
+| [[Chryst]] | Wanderer | Peace   | Bandit Leader      | Goddess's Will / [[Spell - Holy Shield]] | Illegal intervention | Guided by Faith      |
 | [[Astryd]] | Warrior  | Victory | Overwhelming force | Chryst's help                    | Humiliation          | Saved by a "Peasant" |

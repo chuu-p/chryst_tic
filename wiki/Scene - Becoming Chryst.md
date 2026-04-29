@@ -20,7 +20,7 @@ _Glitchy, distorted industrial synths that sound like a heart monitor failing, t
 | perspective / protagonist | Chryst (The Fused)                                                 |
 | mood / lighting           | Visceral, terrifying, a golden glow emanating from Chryst's chest  |
 | soundtracks               | 'Soul-Stitch', 'The Resin Seal'                                    |
-| important features        | The [[Cyan Resin]] Gem, The Twin Hearts, The [[Unholy Bible]]      |
+| important features        | The [[Spell - Cyan Resin]] Gem, The Twin Hearts, The [[Unholy Bible]]      |
 | plot                      | Helfrych merges with Carolyn to save Carolyn's soul; they become "Chryst" |
 
 ## four central questions
@@ -61,11 +61,11 @@ Helfrych knelt over Carolyn. The shadow-wound from Berlynde was still humming, i
 
 He didn't reach for the [[Bible]]. He reached for the unholy scripts Fyrchtegott had hidden behind the altar. He began to speak, but the words didn't come from his throat. They came from the cold, mercury center of Carolyn's soul.
 
-"[[Freeze Soul]]."
+"[[Spell - Freeze Soul]]."
 
 A wave of cyan light washed over Carolyn's blackening body. The shadow-rot stalled, suspended in a shell of hard, translucent resin. Helfrych didn't stop. He placed his hands on his own chest, then on her.
 
-"[[Compile Soul]]."
+"[[Spell - Compile Soul]]."
 
 The golden life-winds of Carolyn's spirit rose, but it didn't flee toward the Aether. Helfrych grabbed it. He forced it into his own chest, but there was no room for two hearts in one man's frame. So he made room. He felt his ribs crack and shift, his skin stretching until it tore. He felt his own heart skip a beat, then two, as a second pulse—colder, more resonant—began to throb beneath his collarbone.
 
@@ -77,7 +77,7 @@ He performed the ritual. The air in the trench turned into a vortex of blue ener
 
 A flash of cyan light blinded everything for a kilometer.
 
-When the light faded, the mud was frozen solid. Standing in the center of the crater was a new figure. His priest robes were shredded, revealing a breastplate of silver [[Hero Armor]] beneath. On the left side of his chest, a normal heart beat with frantic heat. On the right, visible through a jagged fissure in his armor, was a **cyan resin gem**. Within the gem sat a frozen heart, its surface etched with runes of the [[Holy Language]].
+When the light faded, the mud was frozen solid. Standing in the center of the crater was a new figure. His priest robes were shredded, revealing a breastplate of silver [[Spell - Hero Armor]] beneath. On the left side of his chest, a normal heart beat with frantic heat. On the right, visible through a jagged fissure in his armor, was a **cyan resin gem**. Within the gem sat a frozen heart, its surface etched with runes of the [[Holy Language]].
 
 It didn't beat. It simply sat there, radiating a cold, infinite clarity.
 

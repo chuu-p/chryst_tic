@@ -1,5 +1,5 @@
 ---
-type: "[[T Character]]"
+type: "[[T Main Character]]"
 race: "[[Race - Human]]"
 class: "[[Class - Hero]]"
 religion: "[[Cult of Fayth]]"

@@ -1,5 +1,5 @@
 ---
-type: "[[T Character]]"
+type: "[[T Main Character]]"
 race: "[[Race - Halfling]]"
 class: "[[Class - Hunter]]"
 religion: "[[Cult of Gold]]"

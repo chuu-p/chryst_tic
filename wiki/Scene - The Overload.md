@@ -1,7 +1,7 @@
 ---
 type: "[[T Scene]]"
 scene_previous:
-scene_next:
+scene_next: "[[Scene - The Network Builder]]"
 ---
 
 SUMMARY - Chryst is trying to link a new congregation into the broader Fayth network by installing a highly potent Frozen Heart crystal to act as a localized battery and relay. As the "Sunday Pulse" hits, the influx is too powerful, bringing with it the raw, unfiltered emotions of thousands of worshippers across the entire network—their pain, their starvation, and their desperation. Overwhelmed, Chryst violently lashes out at Tymo, nearly destroying the church. He then explains his intense psychic burden to Tymo, forging a solemn understanding between them.

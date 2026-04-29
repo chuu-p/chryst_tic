@@ -1,5 +1,11 @@
 ---
 type: "[[T Scene]]"
+scene_previous: "[[Scene - The Overload]]"
+scene_next:
+---
+
+---
+type: "[[T Scene]]"
 ---
 
 # Scene: The Network Builder

@@ -1,7 +1,7 @@
 ---
 type: "[[T Scene]]"
 scene_previous: "[[Scene - Deciphering the Ancient Script]]"
-scene_next:
+scene_next: "[[Scene - The Wolves of MaxT]]"
 ---
 
 SUMMARY - Before the gathered, shivering congregation of Yswyndt, Chryst performs his final Priest Thesis. In a ritual of blood, ice, and mass prayer, he revives a slaughtered lamb using a heart cast in icy resin. The miracle cements his official status as a priest and marks the dawn of his path.

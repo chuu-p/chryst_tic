@@ -1,7 +1,7 @@
 ---
 type: "[[T Scene]]"
 scene_previous: "[[Scene - A Broken Knight's Grace]]"
-scene_next:
+scene_next: "[[Scene - Judgment of the Mayor]]"
 ---
 
 # Scene: The First Mission

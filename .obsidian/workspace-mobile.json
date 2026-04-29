@@ -16,7 +16,9 @@
                 "file": "TODO.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
-                  "list-collapse": [false]
+                  "list-collapse": [
+                    false
+                  ]
                 }
               },
               "icon": "lucide-trello",
@@ -184,6 +186,9 @@
   },
   "active": "200312d8bcce46ec",
   "lastOpenFiles": [
+    "wiki/Zael.md",
+    "wiki/Cult of Handrich.md",
+    "wiki/Xlodwich.md",
     "README.md",
     "game/README.md",
     "wiki/Scene Ideas.md",
@@ -218,9 +223,6 @@
     "wiki/Chryst.md",
     "game/TODO.md",
     "wiki/T Class.md",
-    "wiki/Scene - Arrival at Bysfrost Tavern.md",
-    "wiki/Chapter - Yswyndt Origins.md",
-    "wiki/Chapter - Dungeon Mission.md",
     "game/tic-midi/example/visualization.tic",
     "game/tic-midi/example/test.mid",
     "game/tic-midi/tic_midi.py",

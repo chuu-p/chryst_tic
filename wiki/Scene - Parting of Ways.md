@@ -4,20 +4,18 @@ scene_previous: "[[Scene - The Champion's Fall]]"
 scene_next:
 ---
 
-The gates of Brsykyr were tall and cold, their iron bars weeping with the morning mist. [[Chryst]] stood in the archway, his travel-worn robes a stark contrast to the opulence of the city he was leaving behind. With him stood [[Tymo]], the [[Syrvann]] slave he had won in the tournament—though Tymo was a slave no longer.
+The gates of Brsykyr were tall and cold, their iron bars weeping with the morning mist. [[Chryst]] stood in the archway, his travel-worn robes a stark contrast to the opulence of the city he was leaving behind. With him stood [[Tymo]] and [[Astryd]]—both freed, both his.
 
-"You are a free man, Tymo," Chryst said, looking out at the winding road that led away from the iron gates. "The wager is settled. Go where thy heart leads thee. The North is wide, and thy chains are broken."
+"You are both free now," Chryst said, looking out at the winding road that led away from the iron gates. "I refused the prize money. The wager was never about gold—it was about you two. And now your chains are broken."
 
 Tymo, a half-elf man whose silence was as deep as his strength, stood still for a long moment, the morning mist clinging to his slender frame. He looked not at the road, but at Chryst's hands—hands that had rewritten the fate of Brsykyr.
 
 "I have seen your power, Priest," Tymo said slowly. "And I have seen the rot that eats at the four Nordic states. Alone, I am but a shadow in the snow. But with you... with the Fayth you spread... perhaps I can give my people more than just freedom. I want to unite the states. I want to see them stand as one."
 
-He took a step forward, his eyes locking with Chryst's. "I will not join your faith. But I want to join your cause. Let me join you on this road south. I can help you with your travels, i can scout out for traps and I am a lot of fun to be around."
+He took a step forward, his eyes locking with Chryst's. "I will not join your faith. But I want to join your cause. Let me join you on this road south. I can help you with your travels, I can scout out for traps and I am a lot of fun to be around."
 
-NOTE: this has been retconned, Astryd is also taken as a slave after being dishonorably discharged from Maxt and Chryst refuses the prize money but wagers to take her and Tymo as slaves if he wins the tournament.
-[[Astryd]] stood nearby, her hand resting on the pommel of her sword. She had made her choice—she would not be left behind to be a mere "anchor" in a city that had stripped her of everything. She would continue by his side, as she always had, as his shield and his believer.
+Astryd stood nearby, her hand resting on the pommel of her sword. After her dishonorable discharge from Maxt, she had been marked as a slave—put up as a prize alongside Tymo for the tournament winner. Chryst had refused the gold, wagered instead for both of their freedom, and won. She had made her choice—she would not stay behind in a city that had stripped her of everything. She would continue by his side, as she always had, as his shield and his believer.
 
-"Chryst," Astryd said, stepping forward. "I'm coming with you. Brsykyr has its community now, but my place is at your side. I won't stay behind and be the priest of a city that rejected me."
 "Chryst," Astryd said, stepping forward. "I'm coming with you. Brsykyr has its community now, but my place is at your side. I won't stay behind and be the priest of a city that rejected me."
 
 Chryst looked at her. The cold knot of loneliness in his chest loosened, just a fraction. He had been so consumed by the mission, by the frozen heart beating in his ribs, that he hadn't considered what he was asking of her.
@@ -31,7 +29,7 @@ Tymo grinned. "Good. I was worried I'd have to scout all by myself. It gets bori
 Chryst almost smiled. Almost. He turned and began the long walk south, Tymo at his side and Astryd at his back—the priest, the scout, and the shield, heading toward the belly of the empire.
 
 SUMMARY
-In the aftermath of the tournament, [[Chryst]] grants [[Tymo]] his freedom, and the two form an alliance to head toward the [[Maxt Capital City]]. Rather than leaving [[Astryd]] behind, Chryst accepts her decision to join them—continuing their journey as a trio.
+In the aftermath of the tournament, [[Chryst]] refuses the prize money and wagers instead for the freedom of both [[Tymo]] and [[Astryd]], who had been marked as slaves after her dishonorable discharge from Maxt. All three are freed, and the trio begins the journey to the [[Maxt Capital City]] together.
 
 ### music
 

@@ -113,6 +113,13 @@ beat sheet - tymo
 - he invents guns, and would be strong enough to take back his homeland with his people now
   - If he gives them guns, his people are free but become ruthless conquerors themselves, leaving Tymo devastated by what he created (Punishment). If he chooses the harder, bloodless route, MAXT collapses from within, and Tymo’s people walk away with their humanity intact (Reward). this is the impossible choice. peaceful protest is almost always the correct way.
 
+## Character Arcs
+
+### Imperialism vs. Internal Revolution
+During the Hamburg chapter, Tymo comes face-to-face with the Maxt Emperor. The Emperor argues a terrifyingly pragmatic philosophy: the Nordic nations are weak, fractured by ancient blood feuds, and the only way they will ever be strong enough to survive the dark is if the Maxt Empire conquers them and forces them to unite under a single iron banner. 
+- **The Choice**: Tymo is offered a position to lead this forced unification, supposedly sparing his people further bloodshed if they just submit. 
+- **The Counter**: Tymo must rely on his deep-seated "Sisu" philosophy to reject the offer. He counters that true strength and revolution must come from within the people themselves. Forced, exterior imperialism only creates obedient slaves, not a united front. This resolves his ultimate internal debate: he chooses the grueling, slow path of peaceful, organic revolution over the quick, bloody path of forced conquest.
+
 ## Background
 
 ### Early Life
@@ -133,22 +140,22 @@ beat sheet - tymo
 
 # CHARACTER MAP
 
-CHARACTER NAME:
+CHARACTER NAME: Tymo
 
 ## ORIGIN OF URGE
 
-When did the character learn to behave in this way? How did it help them?
+Growing up in the icy nomadic forests of Syrvann, and later surviving as a slave engineer for the Maxt Empire, Tymo learned that he couldn't control his physical circumstances. To survive without breaking, he developed *Sisu*—a radical internal freedom where he completely controlled his emotional response, choosing joy and patience regardless of external horrors.
 
 ## CORE URGE
 
-A compulsion
+**To maintain absolute, impenetrable mental freedom and forced optimism.**
 Note: this is a general solution to a specific problem.
 
-In order to survive / get my needs met, I must...
+In order to survive the traumatic reality of an occupied homeland and years of slavery, I must never let external misery break my inner joy or goad me into premature wrath.
 
 ## STATED BELIEF (LIE)
 
-Unhealthy people usually aren’t conscious of the fact that their urges are coping mechanisms, so they create a narrative to justify the core urge.
+"Everything is fine because I choose to be happy! Resistance is just a matter of waiting for the perfect sniper shot." (He uses toxic positivity and extreme patience to hide the deep underlying trauma and urgency of his people's suffering).
 
 ## THE CORE URGE AFFECTS ALL AREAS OF THEIR LIFE
 

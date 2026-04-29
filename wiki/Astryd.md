@@ -1,5 +1,5 @@
 ---
-type: "[[T Supporting Character]]"
+type: "[[T Main Character]]"
 race: Human
 class: Knight / Priestess
 religion: "[[Cult of Fayth]]"
@@ -23,6 +23,27 @@ Tall, imposing, and bearing the scars of imperial warfare. She previously wore t
 Intensely disciplined, fiercely loyal, and protective. As a Maxt soldier, she was cold and pragmatic. As a follower of Fayth, she channels that same discipline into unwavering devotion. She is deeply conflicted by her past sins but seeks redemption through service.
 
 - **Theme/Virtue**: **Humility (vs Pride)**. As a teenager, she is very proud and thinks she knows everything, and her arc involves learning true humility through her new faith.
+
+# CHARACTER MAP
+
+CHARACTER NAME: Astryd (formerly Axtritt)
+
+## ORIGIN OF URGE
+
+Conditioned as a young Knight of the Maxt expansion forces, she was taught that rigid obedience, utilitarian strength, and the suppression of empathy were the only ways to survive the horrific realities of the military machine and secure order.
+
+## CORE URGE
+
+**To submit completely to a rigid, absolute authority.**
+Note: this is a general solution to a specific problem.
+
+In order to survive and avoid the crushing guilt of making my own moral choices (which led to war crimes in the past), I must become a perfect, unquestioning shield for a higher power.
+
+## STATED BELIEF (LIE)
+
+"I fight as Chryst's unwavering shield because the golden winds of the Fayth demand it for the salvation of the world." (In truth, she is desperately hiding behind his doctrine so she doesn't have to independently confront the horrifying guilt of her past).
+
+## THE CORE URGE AFFECTS ALL AREAS OF THEIR LIFE
 
 ### GOALS
 

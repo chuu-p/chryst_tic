@@ -36,6 +36,31 @@ He departs from Iceland to missionize Europe, and arrives at [[Bysfrost]]. This 
   - What could have been
   - Heavy is the crown
 
+## Character Arcs
+
+### The Temperance Arc: The Lonely God
+Chryst’s primary struggle is between his obsessive mission and his found family. This arc is a **Nordic Noir slow-burn** where he slowly isolates himself. Believing himself to be a temporary vessel until he can split his soul, he views his squad merely as mechanical components in his global Fayth network. 
+- **The Descent**: He drifts toward his flawed, tragic path by pushing away his friends, ignoring their trauma, and shedding his humanity to become a lonely, untouchable god. 
+- **The Climax**: The zenith of this dark path occurs when the network requires a massive physical anchor to summon the Goddess of the Cult of Fayth. Chryst makes the chilling, utilitarian decision to sacrifice one of his own party members (e.g., Astryd or Mimi). The ritual succeeds, and the Goddess descends, taking up permanent residence in the body of his former mate.
+- **The Resolution**: At the very end of the story, confronted with the horrifying reality of what he has become, the emptiness of his godhood, and the loss of his found family, he manages to turn it around. He realizes the true value of his religion is the people he helps, accepting that Carolyn lives on as part of himself, and pulls back from the abyss to regain his humanity.
+
+### The Moral Compass Arc: Faith vs. Compassion
+Chryst begins his journey with absolute, chilling, blind faith in the Cult of Fayth's Doctrine. He entirely relies on his `[[holy blade]]` to glow when someone is "sinful," outsourcing all moral weight and ethical burdens to the Goddess. 
+- **The Dogmatic Failures**: Throughout the mid-game, he makes multiple horrifically unjust choices solely because the Goddess "judged it so". When his blade demands the brutalization of starving children or ignores sadistic torturers, he begins to see the horrifying flaws in divine doctrine.
+- **The Awakening**: He realizes the Goddess, while immensely powerful, operates on a bizarrely alien logic disconnected from actual human trauma. 
+- **The Resolution**: Chryst stops relying on divine judgment. He consciously rejects the glowing blade and begins synthesizing his own moral framework built on rational collectivism and radical human compassion ("love thy neighbor"). He learns to bear the agonizing weight of making his own ethical choices.
+
+### The Open Source Arc: The Burden of Godhood
+Driven by his extreme perfectionism and obsession with saving Carolyn, Chryst initially hoards all his magical research. He considers himself the sole architect capable of managing the holy network.
+- **The Hoarder's Failure**: During the late game, the cognitive load of running the network alone begins to physically destroy his mind. He becomes a proprietary, isolated dictator of magic, mirroring the exact evil he hates in the `[[Cult of Handrich]]` (a capitalist faction monopolizing soul-energy). Furthermore, he is offered the deeply tempting **Government Mandate**—a deal to enforce his religion by law, trading mass adoption for absolute authoritarian control of the state. 
+- **The Resolution**: Instead of accepting the authoritarian mandate or maintaining proprietary control, Chryst chooses to radically decentralize his power. He opens an academy and structurally open-sources his miracles for anyone to use. He takes on [[Zael]] (a brilliant but rebellious Noxian kid) as a student, teaching the boy compassion, while Zael teaches Chryst how to let go of absolute control and break his own rules.
+
+### The Revelation of the Mundane: More to Life than Magic
+In the opulent city of Byzantine, the dangerously obsessed Chryst finally tracks down [[Frydemann]], the original legendary architect of the Cult of Fayth's core magic. Expecting to find a profoundly serious deity of magic who will help him carry the crushing weight of the network, Chryst is shocked to find a cynical, retired hedonist. 
+- **The Lesson**: Frydemann tells the obsessed Chryst to stop taking the magic so seriously. He points out the window to an old woman simply carrying a basket of apples on the street, noting she doesn't care about absolute religious salvation or holy arrays—she just wants to live. 
+- **The Impact**: This serves as a vital counter-weight to Chryst's "Lonely God" descent. It introduces the radical idea that he doesn't need to engineer the world into flawless perfection; he must learn to accept the mundane flow of life, and that releasing the pressure of playing Savior is necessary for his own survival.
+- The correct choice is: "Its ordinary to love the beautiful, its beautiful to love the ordinary." Chryst arrives at this conclusion at the end of the story, after a back and forth and when he completes his other arc, the temperance arc.
+
 ## Abilities & Combat
 
 - **Unholy Spells**
@@ -71,7 +96,7 @@ CHARACTER NAME:
 
 ## ORIGIN OF URGE
 
-When did the character learn to behave in this way? How did it help them?
+He learned extreme emotional detachment and hyper-focus on his magic when Carolyn was fatally wounded during the Maxt invasion. Freezing his heart and fusing their souls protected him from the immediate, paralyzing grief of her death, allowing him to function through pure logic and religious zeal rather than succumbing to emotional collapse.
 
 ## CORE URGE
 
@@ -81,7 +106,7 @@ In order to survive and fulfill his ultimate goal, Chryst must amass enough foll
 
 ## STATED BELIEF (LIE)
 
-Unhealthy people usually aren’t conscious of the fact that their urges are coping mechanisms, so they create a narrative to justify the core urge.
+"I am perfectly fine. I am merely a chosen vessel carrying out the necessary divine work to build a global network. My own feelings and the collateral damage of my mission are irrelevant." (In truth, he is deeply traumatized, profoundly lonely, and running from his grief because he is terrified of forming new attachments).
 
 ## THE CORE URGE AFFECTS ALL AREAS OF THEIR LIFE
 

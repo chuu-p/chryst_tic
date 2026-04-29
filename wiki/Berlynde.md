@@ -1,5 +1,5 @@
 ---
-type: "[[T Supporting Character]]"
+type: "[[T Main Character]]"
 race: "[[Race - Human]]"
 class: "[[Class - Wizard]]"
 religion: "[[Cult of Maxt]]"
@@ -17,6 +17,42 @@ The cold MaxT General and wielder of the Obsidian Aegis.
 
 - **Chryst**: Chryst and Berlynde have a complicated, intense history. She is the one who unleashed the Touch of Death that killed his childhood love, Carolyn. When they later encounter each other, they fight to a brutal standstill, unable to beat one another. Recognizing their equal strength and a dark, twisted mutual attraction, they agree to a truce. Chryst ultimately hires her into his squad as a frontline damage dealer. Despite their past, her extra naughty and flirty behavior leaves Chryst constantly flustered. In the squad's "rock-paper-scissors" dynamic, Chryst beats Berlynde because his second heart makes him 50% immune to her mind-control magic.
 - **Tymo**: She teases Chryst heavily, which Tymo cringes at but finds secretly funny. She beats Tymo in the squad's dynamic because she can fully mind-control him.
+
+# CHARACTER MAP
+
+CHARACTER NAME: Berlynde
+
+## ORIGIN OF URGE
+
+Cursed with powers that instantly necrotized or mind-broke anyone who got close to her, she learned early on that genuine connection results in horrific death. To protect herself from the agony of constant loss, she embraced absolute isolation disguised as aloof superiority.
+
+## CORE URGE
+
+**To keep everyone at an emotional distance through terror or twisted seduction.**
+
+In order to survive the loneliness of my existence, I must push people away by being unapologetically monstrous, flirting dangerously so no one realizes how desperately broken I am inside.
+
+## STATED BELIEF (LIE)
+
+"I'm just tagging along because the chaos is wonderfully entertaining and Chryst is cute." (In reality, she clings to the squad because they are the only people strong enough to survive contact with her, offering her a tiny sliver of belonging).
+
+## THE CORE URGE AFFECTS ALL AREAS OF THEIR LIFE
+
+### GOALS
+
+To validate her own terrifying existence and find someone—anyone—who can withstand her alienated power without dying or going mad.
+
+### LIFESTYLE
+
+An isolated, dangerous predator who treats the war-torn continent like her personal, cynical playground, thriving in the shadows where others fear to tread.
+
+### PRESENTATION
+
+Seductive, deeply cynical, and visually intimidating. She uses morbid humor and extreme, inappropriate flirtation as a defense mechanism to keep everyone constantly off balance.
+
+### DIALOGUE
+
+"Oh honey, you call that a miracle? I call it a parlor trick. Now stop praying and let me show you what a real god can do in the dark."
 
 ## Abilities & Combat
 

@@ -1,23 +1,23 @@
 ---
-type: "[[T Character]]"
+type: "[[T Supporting Character]]"
 race: "[[Race - Human]]"
 class: "[[Class - Warrior]]"
 religion: "[[Cult of Maxt]]"
 ---
 
-# The Unnamed General
+# Xlodwich
 
-The Unnamed General is a high-ranking military commander within the [[Macht]] (MaxT) Empire. He is a primary antagonist during the Hamburg chapter. He represents the sheer force of pure, analog, industrial power in stark contrast to Chryst's digital, ethereal Fayth network.
+Xlodwich is a high-ranking military commander within the [[Maxt]] Empire. He is a primary antagonist during the Hamburg chapter. He represents the sheer force of pure, analog, industrial power in stark contrast to Chryst's digital, ethereal Fayth network.
 
 ## Background
 
-The General is a decorated veteran of the MaxT expansion campaigns into the Nordic territories. Years ago, he rescued [[Berlynde]] from a perilous situation, forming a complicated bond with her. Although Berlynde eventually quit the military, the General still views her as an asset—or perhaps a daughter-figure—that rightfully belongs by his side.
+Xlodwich is a decorated veteran of the Maxt expansion campaigns into the Nordic territories. Years ago, he rescued [[Berlynde]] from a perilous situation, forming a complicated bond with her. Although Berlynde eventually quit the military, he still views her as an asset—or perhaps a daughter-figure—that rightfully belongs by his side.
 
-When Chryst and his crew arrive in Hamburg (the MaxT capital), the General sees Chryst not merely as a rebel, but as an ideological plague. He recognizes the Fayth network for what it is: a decentralized threat to the strict, centralized order of the Empire.
+When Chryst and his crew arrive in Hamburg (the Maxt capital), Xlodwich sees Chryst not merely as a rebel, but as an ideological plague. He recognizes the Fayth network for what it is: a decentralized threat to the strict, centralized order of the Empire.
 
 ### Philosophy: Analog Power vs Digital Magic
 
-The General is fiercely "Anti-Fayth." He distrusts the invisible, ethereal nature of Chryst's magic. To the General, true power is tangible: raw iron, steam engines, gunpowder, and the sweat of disciplined soldiers. He believes that relying on the "golden winds" makes people soft and dependent. If someone unplugs the network, they are powerless; but a steel blade never loses its edge.
+Xlodwich is fiercely "Anti-Fayth." He distrusts the invisible, ethereal nature of Chryst's magic. To the General, true power is tangible: raw iron, steam engines, gunpowder, and the sweat of disciplined soldiers. He believes that relying on the "golden winds" makes people soft and dependent. If someone unplugs the network, they are powerless; but a steel blade never loses its edge.
 
 ## Appearance
 
@@ -29,7 +29,7 @@ Brutal, highly disciplined, and coldly rational. He is not a mustache-twirling v
 
 # CHARACTER MAP
 
-CHARACTER NAME: The Unnamed General
+CHARACTER NAME: Xlodwich
 
 ## ORIGIN OF URGE
 

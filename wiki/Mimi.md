@@ -23,6 +23,22 @@ When they meet again later, she has developed icy wings protruding from her hips
 
 She has become a tsundere and acts quite selfishly. She is in love with Chryst, but he does not reciprocate (since he loves Carolyn). With others, she is friendly but not exceptionally warm.
 
+### GOALS
+
+To protect her adopted new home (Bysfrost) and somehow win back Chryst's lost affection by proving her elemental supremacy over his holy network.
+
+### LIFESTYLE
+
+She lives as a slightly bitter, highly industrious immigrant mage, running a tightly controlled life in the frozen city to mask her lingering heartbreak.
+
+### PRESENTATION
+
+Classic icy Tsundere. Aloof, easily flustered, and visually stunning with her frost-fairy wings. She buries her actual care for others under thick layers of "hmph!" and casual cruelty toward her enemies.
+
+### DIALOGUE
+
+"I didn't freeze them and shatter their bones to save *you*, idiot. They were just ruining the pristine snow. Hmph!"
+
 ## Abilities & Combat
 
 - She is a puppeteer mage akin to Orianna, wielding ice and snow.

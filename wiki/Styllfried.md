@@ -18,6 +18,22 @@ The squad's main tank and anti-mage, functioning as the professional "adult" of 
 - **Chryst**: Chryst hires him to add a level-headed, professional adult to the team after the chaotic dynamic with Berlynde and Tymo. He only agrees to join by fighting strictly defensively.
 - **Ygor**: Ygor is hired as a peer to keep Styllfried company, as they are both grounded adults.
 
+### GOALS
+
+To earn his pay, keep these reckless "kids" alive, and quietly atone for failing to protect his last squad on the battlefield.
+
+### LIFESTYLE
+
+He lives as a professional, deeply disciplined mercenary. He travels heavy, strictly adheres to schedules, and drinks heavily off-duty to manage his PTSD, but never lets it affect his combat readiness.
+
+### PRESENTATION
+
+A heavily armored, bearded veteran who functions as the grounded, tired, reliable "adult" of the squad, often sighing deeply at Berlynde and Tymo's manic antics.
+
+### DIALOGUE
+
+"I'm not getting paid enough to deal with shadowy death-magic today, kid. Just get behind the shield and let me do my job."
+
 ## Abilities & Combat
 
 - Styllfried wields defensive void magic and a massive shield.

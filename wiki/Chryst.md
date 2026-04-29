@@ -7,52 +7,6 @@ religion: "[[Cult of Fayth]]"
 
 # Chryst
 
-temp notes
-
-the strongest cult of fayth mage ever is the guy who wrote the bible in this world. the bible gets used by all cult of fayth members to cast holy magic, but this is just how this guy wrote the bible
-there is more to life than magic
-this is something chryst cannot overcome. he is obsessed and everything in his life revolves around magic and now the strongest mag ever tells him there is more to life than magic
-you are taking it too seriously. you have to take it for what it is. you are putting too much pressure on yourself to perform properly. you cannot force anything. go with the flow. it is only magic, dont make it bigger than it actually is
-just in the tower and watch some people
-i see an old lady walking back from the market with a basket full of apples and stuff. she does not care about this religion
-
-when speaking with the maxt emperor, he makes a good point. The nordic nations are weak right now and should be conquered and united, so they are strong and can defend themselves. Tymo agrees, but says that the revolution should come from inside, not outside. The emperor agrees, but in the last 200 years this has not happened, so he decided to take the wheel.
-
-A noxian cool rebel genius kid type character, that is extremely cool and good at assasinations and combat in general, but makes his own rules kinda (what lesson can chryst teach him and what can he teach chryst?)
-
-his arc will be to not work on holy magic research alone, but to open source it and build an academy. he will teach someone with a lot of talent.
-
-this is the great evil in the story:
-capitalism without temperance
-The idea that there are no evil people, just individuals operating in the unethical pursuit of profit optimization. This theme will be heavily explored when they encounter the **Cult of Handrich** in the Byzantine merchant cities—a faction that strips the land of soul-energy purely for profit, paying corrupt governments to look the other way.
-
-chyst challenges
-
-- Sparing enemies leads to someone else’s death later
-
-his philosophy is "the goddess is watching me and aiding me. she could stop me, if i am walking the wrong path."
-but he has many doubtful moments, like
-when it glows even toward his squad-mates
-when some people that are extra sinful almost explode because the goddess hates them so much, so he cannot heal them afterwards
-
-when he kills a sinful child and reconsiders. the true, good answer will be that morality should be built from rational collectivist philosophy, like love thy neighbor. he should decide first and not just rely on the goddess. he is a smart, rational mind too and every mind counts
-
-he first follows megamy blindly and becomes a half god because megamy has a crush on him after his fusing
-
-a government will offer to mandate his religion, so that people are forced to take part and pray and contribute to the network. chryst declines, but this could be a choice in the game.
-
-ARCS/DECISIONS
-
-- blind faith in the goddess -> the goddess is sometimes cruel -> developing his own moral compass from compassionate reasoning and collectivism and love
-- he will get tested and has to still have compassion for his enemies, even when they are terrible and kill and torture people, even his own devotees (he feels and hears their struggles, because he can hear their prayers)
-- he will get more and more lonely over the course of the story because he is too obsessed with his mission and pushes people away. this will be the main point of his character growth. he abandons everyone at the start of the story, but will learn to love and care for people again and will find a new family with his friends. this is temperance. not just to focus on your goals, but also on the people around you.
-- the stated belief is, that he does this only for his childhood love, but in truth he cannot accept that she died and runs from his trauma with this grand goal
-- he is ultra professional and only interested in winning and triumph. his lesson will be to emotionally open up to his party and see them as friends and colleagues
-- He fears forming deep attachments because he believes his life is temporary until the ritual succeeds.
-  he needs to learn the lesson that the new identity is actually him and not some temporary mix. everyone changes all the time, still you should connect with them.
-  he doubts his mission at some point, because his crew mates have become his family and when he would seperate from his childhood love Carolyn, he would become a totally different person. then all the people around him would loose him. he needs to decide between christianity and his family or his childhood love either can revive his childhood love but take the messias from the religion, or stay the messias for the religion but never revive his childhood love.
-  someone important tells him that his childhood love is alive right now, as one half of himself. this is why he does not need to split at all. and the real value of the religion is all the people he can help with it.
-
 ## Background
 
 In fantasy medieval Europe Chryst grew up as a normal [[Cult of Fayth|Priest]] mage apprentice with his childhood friend [[Carolyn]], a hero sword fighter apprentice, and Mimi, a sorceress apprentice, forming a close-knit trio in [[Yswyndt]] (modern day Iceland). Chryst and Carolyn had a massive crush on each other, but both were too shy to confess their feelings. Instead, they just functioned as an awesome team fighting together for their homeland. When the [[Maxt]] nation invaded, they were thrust into the war. During a fierce combat encounter, Carolyn was fatally wounded. Driven by grief, Chryst performed a forbidden ritual, fusing their souls and freezing his heart.

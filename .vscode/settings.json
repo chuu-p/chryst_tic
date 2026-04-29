@@ -64,5 +64,6 @@
                 }
             ]
         }
-    ]
+    ],
+    "markdown.validate.enabled": false
 }

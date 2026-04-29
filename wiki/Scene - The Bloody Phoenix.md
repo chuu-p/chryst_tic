@@ -4,7 +4,7 @@ scene_previous: "[[Scene - Becoming Chryst]]"
 scene_next: "[[Scene - The Silent Ceasefire]]"
 ---
 
-SUMMARY - From the charnel house of the trenches, Chryst rises—a composite being of martial prowess and divine authority. Combining the speed of a legendary Hero with the mass-fayth of a Priest, he carves a path through the MaxT vanguard. After clashing with a second [[Unnamed Maxt General]], Chryst forces the imperial forces to retreat, paving the way for a fragile ceasefire.
+SUMMARY - From the charnel house of the trenches, Chryst rises—a composite being of martial prowess and divine authority. Combining the speed of a legendary Hero with the mass-fayth of a Priest, he carves a path through the MaxT vanguard. After clashing with [[Xlodwich]], Chryst forces the Maxt forces to retreat, paving the way for a fragile ceasefire.
 
 ### music
 
@@ -29,7 +29,7 @@ _Epic, heavy orchestral theme with a driving industrial beat. High-pitched choir
 | ----------------------------------- | --------------------------------------------------------------- |
 | who is your main character?         | Chryst                                                          |
 | what are they trying to accomplish? | To annihilate the immediate threat to the Yswyndt gates.        |
-| who's trying to stop them?          | The [[Unnamed Maxt General]] and the imperial vanguard.         |
+| who's trying to stop them?          | The [[Xlodwich]] and the imperial vanguard.         |
 | what happens if they fail?          | The gates are breached, and Berlynde's rescue mission succeeds. |
 
 ## character developments
@@ -71,7 +71,7 @@ When the blade struck a Maxt soldier, it didn't just bite through steel. It erup
 
 _Clang._
 
-A massive iron spear slammed into the mud before him, stopping his advance. From the smog emerged another [[Unnamed Maxt General]], a giant of a man in heavy steam-powered plate. He had come to retrieve the wounded Berlynde.
+A massive iron spear slammed into the mud before him, stopping his advance. From the smog emerged another [[Xlodwich]], a giant of a man in heavy steam-powered plate. He had come to retrieve the wounded Berlynde.
 
 "I don't know what you are," the General growled, his voice muffled by steam. "But even a God bleeds if you hit it hard enough."
 

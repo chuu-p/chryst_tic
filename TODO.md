@@ -11,14 +11,26 @@ kanban-plugin: board
 	- this is the second line of the explanation
 - [ ] (this task is only for humans, not ai agents) define osts/themes for each character
 	- tymo - nature boy
-- [ ] [[Unnamed Maxt General]] should be called Xlodwich 
-	- change this everywhere he comes up
-- [ ] Move the temp notes from Chryst to here and create todo entries for them, especially the arcs. write a few sentences for each arc, what a failed arc or a successfull arc would look like
-
+- [ ] Read each Chapter and Scene again and check them for inconsistencies, also flesh out ideas, scenes, feelings, etc. if necessary and make it nordic noir feeling
+- [ ] Check character templates for all characters: `T Main Character` for Chryst, Astryd, Tymo, Berlynde. `T Supporting Character` for everyone else. Fill out any missing template fields.
+- [ ] Develop the "Temperance / Work-Life Balance" Arc for Chryst: Obsession with his mission isolating him vs. finding a new family. The tone should be nordic noir for this arc with a slow burn and him slowly drifting towards the failed arc, where he is pushing away his friends and losing his humanity, becoming more and more of a lonely god, but at the very very very end (which is not yet written) he turns it around. the climax of the failed arc is him sacrificing someone in his party to summon the goddess of the cult of fayth and the goddess lives in the body of his former mate from this point on 
+- [ ] Develop the "Moral Compass" Arc for Chryst: Blind faith in the Goddess vs. rational, collectivist compassion. He will have multiple scenes where he does something he himself and his squad judge as a bad move, and then he starts to doubt that the judgement of the goddess is always right. After a few of these story beats or scenes, he decides morality through compassionate reasoning. 
+	- **Successful Arc:** Chryst stops relying solely on the Goddess's judgment or rigid dogma. He decides morality through compassionate reasoning ("love thy neighbor"), sparing even "sinful" people if it serves the greater good.
+- [ ] Develop the "Open Source" Arc for Chryst: Hoarding holy magic research vs. building an academy.
+	- **Successful Arc:** Chryst stops doing his magic research alone. He opens an academy, open-sources his holy miracles, and mentors a highly talented Noxian rebel character.
+	- **Failed Arc:** Chryst keeps his research proprietary and isolated, hoarding power and effectively mirroring the story's great evil ("capitalism without temperance").
+- [ ] Implement the "Capitalism without Temperance" Evil Faction: The **Cult of Handrich** in the Byzantine merchant cities, who strip the land of soul-energy purely for profit, believing there are no evil people, just profit optimization.
+- [ ] Implement the Noxian Rebel Genius Kid: A cool, rule-breaking kid who excels at combat and assassinations. Outline what lessons Chryst teaches him, and what he teaches Chryst.
+- [ ] Implement the Government Mandate Choice: A government offers to mandate Chryst's religion by force to rapidly expand the network. Chryst must decide whether to accept this authoritarian shortcut.
+- [ ] Develop the "Maxt Emperor's Philosophy" Scene / Arc for Tymo: The Emperor argues that the Nordic nations should be conquered and united forcefully to be strong. Tymo must counter that revolution should come from inside, not outside imperialism.
+- [ ] Develop the "There is more to life than magic" revelation / Arc for Chryst: The original creator of the Bible (the strongest Cult of Fayth mage ever) tells the obsessed Chryst to stop taking it so seriously and just go with the flow, contrasting with an old lady who simply carries her apples and doesn't care about religion.
 
 ## todo (keep heading)
 
 **Complete**
+- [x] [[Xlodwich]] should be called Xlodwich 
+	- change this everywhere he comes up
+- [x] Move the temp notes from Chryst to here and create todo entries for them, especially the arcs. write a few sentences for each arc, what a failed arc or a successfull arc would look like. Also, please add to the task for each character, that it should be checked if they have T Character or T Main Character or T Supporting Character. These should be Main Character and have the main character template filled out: Chryst, Astryd, Tymo, Berlynde. Also, every other character should have the T Supporting Character template filled out.
 - [x] this is how a done card should look like 
 	- this is the explanation
 	- this is the second line of the explanation

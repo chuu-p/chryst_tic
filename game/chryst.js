@@ -654,39 +654,28 @@ function TIC() {
     drawParticles();
   }
 
+  // if game state is running
+  //var duration_render = render();
+  //var duration_systems = systems();
+
   t++;
 
   if (!world.music_playing) {
     music(0, 0, 0, true);
     world.music_playing = true;
   }
+
+
+  // if game state is running
+  // print(
+  //   `ms/f ${round(duration_systems + duration_render)}`,
+  //   180,
+  //   0,
+  //   Color.Grey,
+  // );
+  // print(`render ${round(duration_render)}`, 180, 8, Color.Grey);
+  // print(`system ${round(duration_systems)}`, 180, 16, Color.Grey);
 }
-//#region main
-// function TIC() {
-//   cls(0);
-//   map();
-//   water();
-//   if (t % 120 < 60) {
-//     print(`press start`, 96, 60, Color.Grey);
-//   }
-//   // var duration_render = render();
-//   //var duration_systems = systems();
-//   t++;
-//
-//   if (!world.music_playing) {
-//     music(0, 0, 0, true);
-//     world.music_playing = true;
-//   }
-//
-//   /* print(
-//     `ms/f ${round(duration_systems + duration_render)}`,
-//     180,
-//     0,
-//     Color.Grey,
-//   );
-//   print(`render ${round(duration_render)}`, 180, 8, Color.Grey);
-//   print(`system ${round(duration_systems)}`, 180, 16, Color.Grey); */
-// }
 //#endregion
 
 // <TILES>
@@ -799,12 +788,12 @@ function TIC() {
 // 070:ffffffffffffffffffffffffffffffffff0fffff0020ffff820fffff180fffff
 // 071:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 // 072:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 073:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 074:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 073:fffffffffffffffffffffffffffffffffffffffffffffff0fffff000ffff0bbb
+// 074:ffffffffffffffffffffffffffffffff00ffffff5d000fff00dbb0ffbb0bbb0f
 // 075:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 // 076:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 077:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 078:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 077:fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00f00
+// 078:ffffffffffffffffffffffffffffffffffffffffffffffffffffffff000f000f
 // 079:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 // 080:fffff022fffff022fffff022fffff022fffff012fffff012fffff012fffff012
 // 081:10fff09010fff01010ff00c71000a00a10a0100010011a0c10caa7a7100700c0
@@ -815,13 +804,13 @@ function TIC() {
 // 086:790fffff990fffff990fffff970fffff70000000708928817082811787777000
 // 087:ffffffffffffffffffffffffffffffff0fffffff90ffffff0fffffffffffffff
 // 088:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 089:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 090:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 091:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 092:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 093:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 094:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 095:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 089:fff0bbbafff0bba2fff0ba20ffff0a20ffff0522fffff035ff0008d8ff01199d
+// 090:bbabbb0fabb0bbb0aba0abb02a0f0bbb50ff0bbb30ff0abb800ff0bb8d0ff0bb
+// 091:ffffffffffffffffffffffff0fffffff0fffffff0fffffff0fffffff0fffffff
+// 092:fffffffffffffffffffffffffffffff0ffffff01ffffff02ffffff01fffffff0
+// 093:ff033035ff050356f036056300350336210303622200f3222100ff361050fe11
+// 094:5330353066535653356305650330f0560630f036260fff06611eff051111ef03
+// 095:ffffffff0fffffff0fffffff0fffffff0fffffff0fffffff30ffffff50ffffff
 // 096:fffff012fffff012fffff012fffff091ffff0566ffff0544fffff01afffff01c
 // 097:10f00a2710f01a1c10f017c09001a70c5400a021430a0020c7aa000ca0a70010
 // 098:a217a100a1aaa1a77cca71a7a70007caa21a001a72aa707aa770000071aa000a
@@ -830,14 +819,14 @@ function TIC() {
 // 101:ff000028ff077797ff087189f0880271f0970827089701720987088109700788
 // 102:1000070f97700880818079907287798017770898721708987770009987700089
 // 103:ffffffffffffffffffffffffffffffff0fffffff0fffffff0fffffff0fffffff
-// 104:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 105:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 106:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 107:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 108:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 109:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 110:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 111:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 104:fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0
+// 105:ff011911ff019891ff099089f0098033f0088800091089d809990d82d5dd0585
+// 106:dd10f0a01190f00999800010330309055d0d00520303d05028003000580000b0
+// 107:90ffffff00ffffff0fffffff0fffffff0fffffff0fffffffffffffffffffffff
+// 108:fffffff0fffffff0fffffff0fffffff3ffffff02ffffff02fffffffefffffff0
+// 109:2030e111200feeee200f322230333122621261116ee66e11e0e33e1120ff0122
+// 110:111e0ff0ee360ff022320fff223260ff113620f0123620ff2110210f2120110f
+// 111:50ffffff30ffffff30ffffff0fffffffffffffffffffffffffffffffffffffff
 // 112:fffff0aaffffff00ffffff0effffff00fffff056ffffff04fffffff0ffffffff
 // 113:700000000f0000e50f00aa000f00acaa4000000000a0aca0f0a000a0f0aa0000
 // 114:0770000a40ee007100aa001c00caa0ca70000a0070caaa0a00ca000700000077
@@ -846,142 +835,142 @@ function TIC() {
 // 117:0970077709700181097009717970079798707799870078117080781209707812
 // 118:7700008818180a2c978702cc78770caa99770800198708001187070021870707
 // 119:80ffffff80ffffff080fffff090fffff890fffff970fffff90ffffff90ffffff
-// 120:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 121:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 122:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 123:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 124:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 125:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 126:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 120:fffffffffffffffffffffffffffffffffffffffffffffff8ffffff81fffff819
+// 121:0880550002505581f0805581f810258181022581190253819005d081908d3085
+// 122:0800f0b09880f0a09980ff009990ff001990fff01990ffff1990ffff5dd0ffff
+// 123:ffffffffffffffffffffffffffffffffffffffff0fffffffffffffffffffffff
+// 124:fffffff0fffffff0fffffff0fffffff0fffffff0fffffff0fffffff0fffffff0
+// 125:20ff012220ff012220ff022220ff022220ff022220ff022220ff022220ff0122
+// 126:2120120f212022202120062021220000212201ef212201ef21220eff21220fff
 // 127:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 128:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 129:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 128:fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0
+// 129:fffffffffffffffffffffffffffffffffffffffff000ffff0eee00ffeeeeee0f
 // 130:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 // 131:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 // 132:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 133:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 134:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 133:fffffffffffffffffffffffffffff000ffff0e33fff00444ff03443efff0e3e6
+// 134:ffffffffffffffffffffffff0fffffffe00fffff43e0ffff340fffffe430ffff
 // 135:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 // 136:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 137:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 138:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 137:fffffffffffffffffff0ffffff040000ff04ddd4f04d444dff033333ff000033
+// 138:ffffffffffffffffffffffffffffffff0fffffff00ffffff30ffffff30ffffff
 // 139:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 140:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 141:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 142:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 140:fffff821fffff821ffff8211ffff8218fff82118fff82118fff82118ff821118
+// 141:18ffffff82ffffff82fffffff2fffffff2fffffff2fffffff2ffff0082fff035
+// 142:ffffffffffffffffffffffffffffffffffffffffffffffff000fffff5330ffff
 // 143:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 144:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 145:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 146:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 144:ffffff0effffff0cffffff01ffffff00fffffffffffffff0fffffff0ffffffff
+// 145:eeeeee101111c1ee0900ceee00001ee100011e1e1111c1ee111eeeee0eeeeeee
+// 146:ffffffff0fffffff1000ffffeeee0fffeeee0fffeeee0fffeeee0fffeeee0fff
 // 147:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 148:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 149:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 150:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 148:fffffffffffffffffffffffffffffffffffffffffffffff0fffffff0fffffff0
+// 149:fff0ee60ffff0228fff07666f009187701978911899878996888677706667888
+// 150:e3e0ffff6e0fffff70700fff719790ff1987890f9877860f7776600f68807ee0
 // 151:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 // 152:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 153:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 154:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 153:ff022033f0362633f033333303333333033333300333300600000aa600aaaaa0
+// 154:30ffffff0fffffff00ffffff330fffff0330ffff20330fff6a0330ff0aa030ff
 // 155:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 156:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 157:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 158:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 156:ff821111ff821118ff82188fff8218ffff8868fffff828fffff088ffff018100
+// 157:82ff035382ff0533f2ff0336f2fff322f2000322f2c11136f2c111c8028c11c8
+// 158:35330fff635330ff03330fff02630fff2230ffff6880ffff38983fff181863ff
 // 159:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 // 160:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 161:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 162:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 163:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 164:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 165:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 166:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 167:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 168:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 169:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 170:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 171:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 172:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 173:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 174:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 175:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 161:0eeeeee00eeeeee0f0eeeeeeff0eeeeeff0eeeeefff0eeeefff0eeeefff0eeee
+// 162:eeeee0ffeeeee0ff0ee1ee0f0ee1eee00eee1eee0eee11ee0eeee1ee0eeee11e
+// 163:ffffffffffffffffffffffffffffffff00ffffffe10fffffe110ffff1110ffff
+// 164:fffffff0fffffff0ffffff08ffffff01ff00f044ff010888ff098068fff07306
+// 165:7770799819807899980e0788880e046480e0788840e088880ee089990e079999
+// 166:68807ee069907eee688078e3114078e3768078e3868744ee868777ee868746ee
+// 167:ffffffff0fffffff0fffffffe0ffffff30ffffff3e0fffff330fffff33e0ffff
+// 168:fffffff0fffffff0fffffff0ffffff0affffff0afffff030fffff033ffff0333
+// 169:30626aa000622660c0aaaa000aaaa0ca0aaccc0a0aaccc0a0aaaccc00aaaaccc
+// 170:30ac030f0acc030facc03330aa033330a0033333a0c033330c1c033300c1c033
+// 171:ffffffffffffffffffffffffffffffff0fffffff0fffffff30ffffff30ffffff
+// 172:ff01188cff01188cff0cc800ff8888ffff8218ffff821880ff821118ff821111
+// 173:12c8cc8112000081c20ff0cc02fff088f2000c0c02cccc0882ccc01182ccc011
+// 174:118183ff11188300ccc88680888c089111c808918889800c211990f0211190ff
+// 175:0000ffffcccc0fff00cc0fffc10c0fffc100ffffc10fffff00ffffffffffffff
 // 176:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 177:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 178:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 179:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 180:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 181:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 182:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 183:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 184:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 185:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 186:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 187:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 188:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 189:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 190:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 177:fff0eeeefff0eeeefff0eeeeff0eeeeeff0eeeeef0eeeeee0ceeeeee01111eee
+// 178:0eeee11101111111011111c00000000feeeeeee0eeeeeee1eeeee111ee111111
+// 179:110fffffc0ffffff0fffffffffffffffffffffff00ffffff1c0fffffc0ffffff
+// 180:fff81787ff818098f8188900818099ee28c09eee8f089eeeff099000ff090fff
+// 181:ee0899990e0699980e886666e0121800e71210e00477700008660ff008880ff0
+// 182:868700ee8686eeee6660eeee8180eeee1117eeee77770eee4440f00e8880fff0
+// 183:3330ffffe3330fffe3330fffee3330ffee33330feee33330eeee00000000ffff
+// 184:ffff0333ffff0333fff03333fff03300fff000fffffffffffffffffffffffff0
+// 185:0aaa0acc0aca0acc0aca00ac0aca00ac0aaa000a03330f0a03330ff03cc30ff0
+// 186:030c1c03c030cc03c0330003cc033333cc000003aaa0ff033330ff0033330fff
+// 187:30ffffff330fffff330fffff330fffff330fffff30ffffff0fffffffffffffff
+// 188:ff822118fff82118fff82118fff82218ffff8218ffff8211fffff821fffff821
+// 189:8200002102ff0996f2ff0229f2ff0222f2ff022182f0c22c82f0888818089990
+// 190:211160ff222680ff988810ffc8c110ff80c110ff008880ff009990fff09990ff
 // 191:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 192:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 193:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 194:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 195:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 192:fffffff0fffffff0fffffff088fffff02288ff00122280331122283311122283
+// 193:00000000655300006333053d63300352630003566300033d3600033d3600033d
+// 194:fffff000000ff065250ff0655330f063d3330063d3330653d330063336006533
+// 195:000000ff555330ff3dd330ff3dd330ff3dd3330fd333333033dd33333dddd333
 // 196:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 197:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 198:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 197:fffffffffffffffffffffffffffff000ffff0891fff08888ffff0585ffff0220
+// 198:ffffffffffffffffffffffff00ffffff190fffff9180ffff8890ffff5880ffff
 // 199:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 200:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 201:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 202:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 200:fffffffffff88888fff81222fff81112ffff8111ffff8111fffff881fffffff8
+// 201:ffffffff8fffffff188fffff22188fff1222188f11122210111112038111103d
+// 202:ffffffffffffffffffffffffffffffffffffffff00000fffddd30fff333d30ff
 // 203:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 // 204:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 205:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 206:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 207:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 208:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 209:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 210:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 211:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 205:ffffffffffffffffffffffeefffffe33ffffe354ffffe555fffe4555fffe4e00
+// 206:ffffffffffffffffffffffffefffffff3effffff43efffff443effffe43effff
+// 207:020fffff020fffff060fffff010fffff010fffff010fffff010fffff010fffff
+// 208:11112283cc112228ccc212288cc112288cc11128c0c11228c000122810030283
+// 209:3330033d6500033d33300000650030003003333d00333dd330533dd330555666
+// 210:0030333300066665000333560306663333333356336650333665300366530303
+// 211:33dd333333333333655333333655533365665533365562553066553333056255
 // 212:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 213:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 214:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 213:ffff0220fff00522fff05030ff077775ff052988f0829987f0888887f0522577
+// 214:2280ffff00000fff52220fff70000fff089990ff8888880f5522250f7700000f
 // 215:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 // 216:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 217:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 218:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 219:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 220:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 221:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 222:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 223:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 224:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 225:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 226:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 227:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 228:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 229:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 230:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 231:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 232:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 233:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 234:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 235:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 236:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 237:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 238:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 239:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 240:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 241:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 242:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 243:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 244:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 245:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 246:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 247:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 217:f881103dfff88033fffff806ffffff03fff33333ff323333f322633336666333
+// 218:3633088f33630118642632286626318136431181363018113306081133366010
+// 219:888fffff110fffff110fffff180fffff100fffff0460ffff3464000f43460810
+// 220:fffffffffffffffffffffffffffffffffffffffffffffff8fffff881ffff8111
+// 221:ffe34e60ffe44e22ffeeee36fe5553e3e44443e4883333e41188ee4411118e33
+// 222:6eefffff263effff6344efff3ee44eff444e4eff444eeeff444e6633443e663c
+// 223:010fffff010fffff010fffff010fffff010fffff333fffff3533ffff3353ffff
+// 224:1333828003333830d3d33833d30833003d8c00ff08c10fff08000fffffffffff
+// 225:003033330000333300030333f0333000f033333df03033d30330333305003333
+// 226:3630330335000000300033300333333333333333330033333033533333335333
+// 227:3300000000033330ff0033300ff03dd30ff03dd330f0c12230f0c12230033333
+// 228:ffffffffffffffffffffffffffffffffccccffff222cfff0111cff00111c0043
+// 229:f0577755ff001c77f0c0111cf07045330703333387012221880122217801c122
+// 230:4011109070117009cc0799013307880133077039107770330788803308999033
+// 231:ffffffff0fffffff10ffffff110fffff1110ffff11110fff911110ff3111110f
+// 232:fffffff3ffffff32ffffff32fffffff3ffffffffffffffffffffffffffffffff
+// 233:22666333226300332660ff036681000330186634ff062263fff06663ffff0003
+// 234:3336640633444036336630f3333340ff666640ff3333640f3333360f3333330f
+// 235:00300880600ff00f3fffffffffffffffffffffffffffffffffffffffffffffff
+// 236:fff81111fff81111ff811111ff811111ff811118ff018111fff01811fff01181
+// 237:118118e3111818ee111181831811818518118103811181021118102211811022
+// 238:3330363c33e0f33ceec0fff35c30ffff3310ffff2110ffff1810ffff8110ffff
+// 239:3553ffff3c53ffff033fffff010fffff010fffff010fffff010fffff010fffff
+// 240:fffffff0ffffff03ffffff03fffff036fffff036ffff0360ffff0350fff0350c
+// 241:350033336003333360033336000353360003536500335365c0533653c0533633
+// 242:53306333600053336033363363333633603d3653603d33636033d36560033336
+// 243:300d30333303d0d3333003d03330000f33530fff663330ff3333350f33335330
+// 244:11003400008800c08800cc0300c11c03c11111cc11111112111111221111222c
+// 245:0001c012330111013077710130897cc0c08877c0c3077700c00898030c089800
+// 246:078803332000333312203333777103338997033378877000077880ff088890ff
+// 247:391111903311111033911119339111113331111103391111f0001111fff09111
 // 248:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 249:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 250:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 249:fffff333fffff333fffff333fffff333ffff3333ffff3333ffff3333fff01118
+// 250:3333330f3333330f3333330f3333330f3033330f3f08110f0f03330f0f03430f
 // 251:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 252:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 253:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 254:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-// 255:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+// 252:ffff0118fffff001fffffff0ffffffffffffffffffffffffffffffffffffffff
+// 253:881102211100222800012210ff012280ff01110fff03330ff04440fff03330ff
+// 254:8110ffff81100fff0eee0fff03330fff0eee0fff033300ff0333330ff0e3330f
+// 255:010fffff010fffff010fffff010fffff010fffff010fffff010fffff010fffff
 // </SPRITES>
 
 // <MAP>

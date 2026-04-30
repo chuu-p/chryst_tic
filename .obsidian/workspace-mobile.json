@@ -4,25 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "22544e08b8f2b318",
+        "id": "d6b985f2b17de5e6",
         "type": "tabs",
         "children": [
           {
-            "id": "200312d8bcce46ec",
+            "id": "e4759dde413ce2bc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "game/docs/Design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "lucide-file",
+              "title": "Design"
             }
           }
         ]
@@ -167,9 +163,19 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "c3ac01d65cff50ce",
+        "type": "leaf",
+        "state": {
+          "type": "copilot-chat-view",
+          "state": {},
+          "icon": "message-square",
+          "title": "Copilot"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,56 +187,57 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "200312d8bcce46ec",
+  "active": "e4759dde413ce2bc",
   "lastOpenFiles": [
+    "game/docs/image-5.png",
+    "game/docs/image-4.png",
+    "game/docs/image-3.png",
+    "game/docs/image-2.png",
+    "game/docs/image-1.png",
+    "game/docs/image.png",
+    "game/docs/Design.md",
+    "game/docs/Gameplay.md",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/copilot-conversations/Game_Design_Coding_Mini-Game@20260430_015410.md",
+    "copilot/memory",
+    "copilot/copilot-conversations/Coding_Mini_Game_Level_Design@20260430_015410.md",
+    "copilot/copilot-conversations",
+    "README.md",
+    "wiki/Home.md",
+    "TODO.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "wiki/Zael.md",
     "wiki/Cult of Handrich.md",
-    "wiki/Xlodwich.md",
-    "README.md",
-    "game/README.md",
-    "wiki/Scene Ideas.md",
-    "wiki/Ygor.md",
-    "wiki/Styllfried.md",
-    "wiki/Berlynde.md",
-    "wiki/Mimi.md",
-    "wiki/Themes.md",
-    "game/docs/Gameplay.md",
     "game/docs",
-    "TODO.md",
     "wiki/media/Pasted image 20260428004511.jpg",
     "wiki/media/Pasted image 20260428010054.jpg",
     "wiki/media/Pasted image 20260428010309.jpg",
     "wiki/media/Pasted image 20260428005024.jpg",
     "wiki/media/Pasted image 20260428005954.jpg",
-    "wiki/media/imagev.png",
-    "wiki/media/Pasted image 20260428004205.jpg",
-    "Pasted image 20260428010309.jpg",
-    "Pasted image 20260428010054.jpg",
-    "Pasted image 20260428005954.jpg",
-    "wiki/Fyrchtegott.md",
-    "wiki/Frydemann.md",
-    "wiki/Home.md",
-    "wiki/Astryd.md",
-    "wiki/Scene - The Overload.md",
-    "wiki/Scene - The Network Builder.md",
-    "wiki/The Unnamed General.md",
-    "wiki/Cult of Maxt.md",
-    "wiki/Cult of Gold.md",
-    "wiki/Cult of Fayth.md",
-    "wiki/Chryst.md",
-    "game/TODO.md",
-    "wiki/T Class.md",
     "game/tic-midi/example/visualization.tic",
     "game/tic-midi/example/test.mid",
     "game/tic-midi/tic_midi.py",
     "game/justfile",
-    "game/tic-midi/example/test_out.tic",
-    "game/music/honey.music.py",
-    "game/tic-midi/flake.lock",
-    "game/chryst.js",
-    "game/tic80.d.ts"
+    "game/tic-midi/example/test_out.tic"
   ]
 }

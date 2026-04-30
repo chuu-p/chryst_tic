@@ -12,6 +12,21 @@ The game loop will be:
 - Solve a technical problem with code
 - Repeat
 
+---
+
+
+In line routing with one node type
+Conditions 
+- 5 nodes arranged in a line formation with each node having one or two neighbors 
+- the challenge is to write the code so they can message pass Everyone to everyone 
+- the solution is to parse the message if it is meant for me but if not then send it to the neighbor it did not come from 
+- if sending a message initially, send to all neighbors (one or two)
+- (i have to write the acceptance test suite for this)
+Acceptance criteria
+- [ ] the same piece of code gets deployed to every node in the network
+
+
+
 ## Universe Basis
 
 Chryst is a priest in a fantasy world, where magic is real.

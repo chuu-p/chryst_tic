@@ -1,1 +1,5 @@
-["obsidian-git", "obsidian-kanban"]
+[
+  "obsidian-git",
+  "obsidian-kanban",
+  "copilot"
+]
